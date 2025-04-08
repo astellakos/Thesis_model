@@ -1,6 +1,0 @@
-DynamicProfile,ProfileType
-AT_LOAD,deterministic
-Hydro_Niederosterreich,deterministic
-Verbund_Danube,deterministic
-AT_PHOTO,stochastic
-AT_WIND,stochastic

@@ -1,4 +1,0 @@
-Line,LineType,FromBus,ToBus,Reactance,FlowLimitForw,FlowLimitBack,FOR
-A-1.To.A-2,AC,A-1,A-2,0.02017,501,501,0.003
-A-3.To.A-1,AC,A-3,A-1,0.05001,1501,1501,0.003
-A-1.To.A-3,AC,A-1,A-3,0.01261,1701,1701,0.003
