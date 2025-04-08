@@ -1,0 +1,4 @@
+Reserve,ZoneReserve,Category,DeliveryTime,MaxParticipationFactor,DynamicProfileR,ReferenceValueR,Valuation
+aFRR_UP_AT,AT,UP-ONLINE,5,1,ConstantProfile,200,6000
+aFRR_DOWN_AT,AT,DOWN,5,1,ConstantProfile,200,6000
+mFRR_AT,AT,UP-OFFLINE,15,1,ConstantProfile,284,3000

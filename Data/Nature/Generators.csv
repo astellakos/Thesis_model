@@ -1,0 +1,343 @@
+Generator,GeneratorType,BusGenerator,MinRunCapacity,MaxRunCapacity,RampUp,RampDown,UT,DT,TransitionLevel,ProductionBand,ReservesOffline,NoLoadConsumption,StartupCost,FOR,FuelGenerator,FHGenerator,HRSGenerator,CO2Rate
+Salzburg Mitte CHP Power Plant Austria,Fast,Aus_7,33.48,83.7,9.4,9.4,2,4,33.48,1,FALSE,81.189,2862.54,0.0799,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Salzburg North CHP Power Plant Austria,Fast,Aus_7,5.4,13.5,1.5,1.5,2,4,5.4,1,FALSE,13.095,461.7,0.0799,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Durnrohr_Evn,Slow,Aus_5,27,338,0.85,0.85,12,8,27,1,FALSE,65.475,2308.5,0.1012,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Linzmitte_2,Fast,Aus_5,61.6,112,0.84,0.84,8,4,61.6,1,FALSE,108.2707,5266.8,0.0372,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Linzmitte,Fast,Aus_5,33,100,0.5,0.5,8,4,33,1,FALSE,100.0011,2821.5,0.0372,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Timelkam CCGT CHP Power Plant Austria,Fast,Aus_5,162.0,405,45.6,45.6,2,4,162,1,FALSE,392.85,13851,0.0799,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Linzsud_1,Slow,Aus_4,38,112.6,0.563,0.563,8,8,38,0.1,FALSE,116.9293,3249,0.0685,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Leopoldau CHP Power Plant Austria,Fast,Aus_4,62.0,155,17.5,17.5,2,4,62,1,FALSE,150.35,5301,0.0799,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Heizkraftwerk,Slow,Aus_32,28,85,0.4,0.4,8,8,28,0.1,FALSE,60.9167,2394,0.0993,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Simmering CCGT Power Plant Austria,Fast,Aus_32,280.0,700,78.75,78.75,2,4,280,1,FALSE,679,23940,0.0799,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Donaustadt 1-3 Power Plant Austria,Fast,Aus_32,211.6,529,59.5,59.5,2,4,211.6,1,FALSE,513.13,18091.8,0.0799,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Klagenfurt,Fast,Aus_27,6.8,28.2,0.35667,0.35667,2,2,28.2,1,TRUE,68.4,2411.1,0.0993,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Korneuburg_2,Fast,Aus_19,82.5,150,1.1,1.1,8,4,82.5,1,FALSE,200.1,7053.8,0.0372,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Mellach CHP Power Plant Austria,Slow,Aus_18,49.2,246,23.4,23.4,8,8,49.2,1,FALSE,282.9,8767.44,0.0820,Coal,FH_Austria,CCGT_NAT_GAS_19,0.09
+Werndorf-Neudorf CHP Power Plant Austria,Fast,Aus_18,65.6,164,0.41,0.41,2,4,65.6,1,FALSE,193.52,5608.8,0.1356,Fuel Oil,FH_Austria,CHP_NAT_GAS_14,0.07
+Mellach CCGT Power Plant Austria,Fast,Aus_18,335.2,838,94.3,94.3,2,4,335.2,1,FALSE,812.86,28659.6,0.0799,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Duernrohr CHP Power Plant Austria,Slow,Aus_15,151.4,757,71.9,71.9,8,8,151.4,1,FALSE,870.55,26979.48,0.0820,Coal,FH_Austria,CCGT_NAT_GAS_19,0.09
+Donaustadt_1,Fast,Aus_13,38.9,162,2.05167,2.05167,2,2,162,1,TRUE,218.7,13851,0.0685,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Donaustadt_2,Fast,Aus_13,38.9,162,2.05167,2.05167,2,2,162,1,TRUE,156.735,13851,0.0685,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Theiss_2,Fast,Aus_11,16.8,70,0.9,0.9,2,2,70,1,TRUE,169.75,5985,0.084,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Theiss_3,Slow,Aus_10,60,180,0.9,0.9,8,8,60,0.1,FALSE,129,5130,0.0685,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Theiss_1,Fast,Aus_10,16.8,70,0.9,0.9,2,2,70,1,TRUE,126,5985,0.084,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Theiss_4,Fast,Aus_10,13,162,0.41,0.41,12,8,13,1,FALSE,31.525,1111.5,0.0685,Natural Gas,FH_Austria,CHP_NAT_GAS_14,0.1
+Saint-Ghislain CCGT Power Plant Belgium,Fast,Fra_13,140.0,350,39.4,39.4,2,4,140,1,FALSE,339.5,11970,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Langerlo Thermal Power Plant Belgium,Slow,Bel_9,111.2,556,52.8,52.8,8,8,111.2,1,FALSE,639.4,19815.84,0.0820,Coal,FH_Belgium,CCGT_NAT_GAS_19,0.09
+Amercoeur CCGT Power Plant Belgium,Fast,Bel_5,168.0,420,47.25,47.25,2,4,168,1,FALSE,407.4,14364,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Marcinelle Energie (Carsid) CCGT Power Plant Belgium,Fast,Bel_5,164.0,410,46.1,46.1,2,4,164,1,FALSE,397.7,14022,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Vilvoorde (Verbrande-Brug) CCGT Power Plant Belgium,Fast,Bel_23,154.0,385,43.3,43.3,2,4,154,1,FALSE,373.45,13167,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Rodenhuize Thermal Power Plant Belgium,Slow,Bel_21,87.6,438,41.6,41.6,8,8,87.6,1,FALSE,503.7,15610.32,0.0820,Coal,FH_Belgium,CCGT_NAT_GAS_19,0.09
+Ringvaart CCGT Power Plant Belgium,Fast,Bel_21,143.6,359,40.4,40.4,2,4,143.6,1,FALSE,348.23,12277.8,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Ham (Ghent) OCGT and Heat Power Plant Belgium,Fast,Bel_21,62.4,156,7.8,7.8,2,4,62.4,1,FALSE,151.32,5335.2,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Knippegroen CCGT Power Plant Belgium,Slow,Bel_21,140.0,350,39.4,39.4,8,8,140,1,FALSE,339.5,11969.98915,0.0799,Natural Gas,FH_Belgium,CST_COAL_06,0.1
+Mol Coal Power Plant Belgium (Shutdown),Slow,Bel_20,51.0,255,24.2,24.2,8,8,51,1,FALSE,293.25,9088.2,0.0820,Coal,FH_Belgium,CCGT_NAT_GAS_19,0.09
+Brugge-Herdersbrug CCGT Power Plant Belgium,Fast,Bel_18,184.0,460,51.75,51.75,2,4,184,1,FALSE,446.2,15732,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Kallo Thermal Power Plant Belgium,Fast,Bel_16,104.4,261,29.4,29.4,2,4,104.4,1,FALSE,253.17,8926.2,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+ExxonMobil Antwerp Refinery CHP Power Plant Belgium,Fast,Bel_16,52.0,130,14.6,14.6,2,4,52,1,FALSE,126.1,4446,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Doel (Electrabel) Nuclear Power Plant Belgium,Slow,Bel_16,592.6,2963,370.4,370.4,24,24,592.6,1,FALSE,3940.79,48889.5,0.0268,Nuclear,FH_Belgium,NUCLEAR_03,0
+Seraing CCGT Power Plant Belgium,Fast,Bel_12,184.0,460,51.75,51.75,2,4,184,1,FALSE,446.2,15732,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Awirs 4 and 5 thermal Power Plant Belgium,Fast,Bel_12,155.6,389,43.8,43.8,2,4,155.6,1,FALSE,377.33,13303.8,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Angleur Gas Power Plant Belgium,Fast,Bel_12,95.2,238,26.8,26.8,2,4,95.2,1,FALSE,230.86,8139.6,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Tihange Nuclear Power Plant Belgium,Slow,Bel_12,625.8,3129,391.1,391.1,24,24,625.8,1,FALSE,4161.57,51628.5,0.0268,Nuclear,FH_Belgium,NUCLEAR_05,0
+Drogenbos CCGT Power Plant Belgium,Fast,Bel_11,215.2,538,60.5,60.5,2,4,215.2,1,FALSE,521.86,18399.6,0.0799,Natural Gas,FH_Belgium,BIOMASSOTHER_05,0.1
+Ruien Thermal Power Plant Belgium,Slow,Bel_10,177.8,889,84.5,84.5,8,8,177.8,1,FALSE,1022.35,31683.96,0.0820,Coal,FH_Belgium,CCGT_NAT_GAS_19,0.09
+Sisak Thermal Power Plant Croatia,Fast,Cro_9,168.0,420,1.1,1.1,2,4,168,1,FALSE,495.6,14364,0.1356,Fuel Oil,FH_Croatia,NUCLEAR_07,0.07
+Jertovec CCGT Power Plant Croatia,Fast,Cro_9,31.2,78,8.8,8.8,2,4,31.2,1,FALSE,75.66,2667.6,0.0799,Natural Gas,FH_Croatia,CCGT_NAT_GAS_11,0.1
+Osijek TE-TO CHP Power Plant Croatia,Fast,Cro_17,35.6,89,10.0,10.0,2,4,35.6,1,FALSE,86.33,3043.8,0.0799,Natural Gas,FH_Croatia,CCGT_NAT_GAS_11,0.1
+Plomin Thermal Power Plant Croatia,Slow,Cro_15,66.0,330,31.4,31.4,8,8,66,1,FALSE,379.5,11761.2,0.0820,Coal,FH_Croatia,CHP_COAL_01,0.09
+Rijeka Thermal Power Plant Croatia,Fast,Cro_15,128.0,320,0.8,0.8,2,4,128,1,FALSE,377.6,10944,0.1356,Fuel Oil,FH_Croatia,NUCLEAR_07,0.07
+Zagreb Te-To CHP Power Plant Croatia,Fast,Cro_10,131.2,328,36.9,36.9,2,4,131.2,1,FALSE,318.16,11217.6,0.0799,Natural Gas,FH_Croatia,CCGT_NAT_GAS_11,0.1
+Zagreb El-To CHP Power Plant Croatia,Fast,Cro_10,34.72,86.8,9.8,9.8,2,4,34.72,1,FALSE,84.196,2968.56,0.0799,Natural Gas,FH_Croatia,CCGT_NAT_GAS_11,0.1
+Hodonin Coal CHP Power Plant Czech,Slow,Slk_11,19.0,95,9.5,9.5,8,8,19,1,FALSE,118.75,1818.3,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Detmarovice Coal Power Plant Czech,Slow,Pol_94,160.0,800,76,76,8,8,160,1,FALSE,920,28512,0.0820,Coal,FH_Czech,CHP_COAL_01,0.09
+Porici Coal Power Plant Czech,Slow,Pol_81,33.0,165,16.5,16.5,8,8,33,1,FALSE,206.25,3158.1,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Chvaletice Coal Power Plant Czech,Slow,Cze_8,160.0,800,80,80,8,8,160,1,FALSE,1000,15312,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Prunerov I and II CHP Coal Power Plant Czeech,Slow,Cze_33,298.0,1490,149,149,8,8,298,1,FALSE,1862.5,28518.6,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Tusimice Coal Power Plant Czech,Slow,Cze_33,160.0,800,80,80,8,8,160,1,FALSE,1000,15312,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Pocerady Coal Power Plant Czech,Slow,Cze_30,200.0,1000,100,100,8,8,200,1,FALSE,1250,19140,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Ledvice Coal Power Plant Czech,Slow,Cze_30,66.0,330,33,33,8,8,66,1,FALSE,412.5,6316.2,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Komorany CHP Cioal Power Plant Czech,Slow,Cze_30,47.4,237,23.7,23.7,8,8,47.4,1,FALSE,296.25,4536.18,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Vresova CCGT Power Plant Czech,Slow,Cze_3,74,370,35.2,35.2,8,8,74,1,FALSE,425.5,13186.8,0.0820,Coal,FH_Czech,CHP_COAL_01,0.09
+Opatovice CHP Coal Power Plant Czech,Slow,Cze_29,72.6,363,36.3,36.3,8,8,72.6,1,FALSE,453.75,6947.82,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Temelin Nuclear Power Plant Czech,Slow,Cze_27,405.2,2026,253.25,253.25,24,24,405.2,1,FALSE,2694.58,33429,0.0268,Nuclear,FH_Czech,NUCLEAR_04,0
+Dukovany Nuclear Power Plant Czech,Slow,Cze_26,352,1760,220,220,24,24,352,1,FALSE,2340.8,29040,0.0268,Nuclear,FH_Czech,NUCLEAR_04,0
+Tisova CHP Coal Power Plant Czech,Slow,Cze_13,59.16,295.8,29.6,29.6,8,8,59.16,1,FALSE,369.75,5661.612,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Melnik II and III Coal Power Plants Czech,Slow,Cze_12,144.0,720,72,72,8,8,144,1,FALSE,900,13780.8,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Melnik I Coal Power Plants Czech,Slow,Cze_12,70.4,352,35.2,35.2,8,8,70.4,1,FALSE,440,6737.28,0.0601,Lignite,FH_Czech,CST_LIGNITE_07,0.11
+Kladno CHP Thermal Power Plant Czech,Slow,Cze_10,155.2,388,48.5,48.5,8,8,155.2,1,FALSE,0,,0.0946,Waste,FH_Czech,CST_COAL_06,0.10
+Ensted Coal CHP Power Plant Denmark,Slow,Ger_15,125.2,626,59.5,59.5,8,8,125.2,1,FALSE,719.9,22310.64,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Esbjerb Coal CHP Power Plant Denmark,Slow,Dnk_9,75.6,378,35.9,35.9,8,8,75.6,1,FALSE,434.7,13471.92,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Asnaes Coal CHP Power Plant Denmark,Slow,Dnk_8,158.0,790,75.1,75.1,8,8,158,1,FALSE,908.5,28155.6,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Fyns Coal CHP Power Plant Denmark,Slow,Dnk_8,79.4,397,37.7,37.7,8,8,79.4,1,FALSE,456.55,14149.08,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Kyndby Thermal Power Plant Denmark,Fast,Dnk_8,258.4,646,1.62,1.62,2,4,258.4,1,FALSE,762.28,22093.2,0.1356,Fuel Oil,FH_Denmark,NUCLEAR_07,0.07
+Skaerbaek CHP Power Plant Denmark,Fast,Dnk_7,156.8,392,44.1,44.1,2,4,156.8,1,FALSE,380.24,13406.4,0.0799,Natural Gas,FH_Denmark,CCGT_NAT_GAS_08,0.1
+Studstrup Coal CHP Power Plant Denmark,Slow,Dnk_6,150.0,750,71.25,71.25,8,8,150,1,FALSE,862.5,26730,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Herning CHP Power Plant Denmark,Slow,Dnk_5,19.0,95,11.9,11.9,8,4,19,1,FALSE,180.5,,0.0946,Waste,FH_Denmark,CST_COAL_06,0.10
+Randers Coal CHP Power Plant Denmark,Slow,Dnk_3,10.4,52,5.0,5.0,8,8,10.4,1,FALSE,59.8,1853.28,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Nordjylland Coal CHP Power Station Denmark,Slow,Dnk_2,143.2,716,68.0,68.0,8,8,143.2,1,FALSE,823.4,25518.24,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Avedore Coal CHP Power Plant Denmark,Slow,Dnk_1,165.0,825,78.4,78.4,8,8,165,1,FALSE,948.75,29403,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Amager Coal CHP Power Plant Denmark,Slow,Dnk_1,87.6,438,41.6,41.6,8,8,87.6,1,FALSE,503.7,15610.32,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+Stignaes Coal CHP Power Plant Denmark,Slow,Dnk_1,81.8,409,38.9,38.9,8,8,81.8,1,FALSE,470.35,14576.76,0.0820,Coal,FH_Denmark,CHP_COAL_01,0.09
+HC Orsted CHP Power Plant Denmark,Fast,Dnk_1,74.0,185,20.8,20.8,2,4,74,1,FALSE,179.45,6327,0.0799,Natural Gas,FH_Denmark,CCGT_NAT_GAS_08,0.1
+Svanemolle CHP Power Plant Denmark,Fast,Dnk_1,32.4,81,9.1,9.1,2,4,32.4,1,FALSE,78.57,2770.2,0.0799,Natural Gas,FH_Denmark,CCGT_NAT_GAS_08,0.1
+Centrale de Lucy Coal Power Station France,Slow,Fra_92,54.0,270,25.7,25.7,8,8,54,1,FALSE,310.5,9622.8,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+Chinon Nuclear Power Plant France,Slow,Fra_90,763.2,3816,477,477,24,24,763.2,1,FALSE,5075.28,62964,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Cordemais Thermal Power Station France,Slow,Fra_69,520.0,2600,247,247,8,8,520,1,FALSE,2990,92664,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+Montoir-de Bretagne CCGT Power Plant France,Fast,Fra_69,174.0,435,49.0,49.0,2,4,174,1,FALSE,421.95,14877,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Belleville Nuclear Power Plant France,Slow,Fra_57,545.2,2726,340.75,340.75,24,24,545.2,1,FALSE,3625.58,44979,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Pont-Sur-Sambre Combustion Gas Power Plant France,Fast,Fra_55,164.8,412,46.4,46.4,2,4,164.8,1,FALSE,399.64,14090.4,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Saint-Laurent Nuclear Power Plant France,Slow,Fra_54,382.4,1912,239,239,24,24,382.4,1,FALSE,2542.96,31548,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Dampierre Nuclear Power Plant France,Slow,Fra_48,772.8,3864,483,483,24,24,772.8,1,FALSE,5139.12,63756,0.0268,Nuclear,FH_France,NUCLEAR_04,0
+Chooz Nuclear Power Plant France,Slow,Fra_43,624.0,3120,390,390,24,24,624,1,FALSE,4149.6,51480,0.0268,Nuclear,FH_France,NUCLEAR_01,0
+"Brennilis Combustion Gas Power Plant, France",Fast,Fra_310,118.0,295,33.2,33.2,2,4,118,1,FALSE,286.15,10089,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+"Dirinon Combustion Gas Power Plant, France",Fast,Fra_309,68.0,170,19.1,19.1,2,4,68,1,FALSE,164.9,5814,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Courrieres Coal Power Plant France (Shutdown),Slow,Fra_307,46.8,234,22.23,22.23,8,8,46.8,1,FALSE,269.1,8339.76,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+Nogent Nuclear Power Plant France,Slow,Fra_306,545.2,2726,340.75,340.75,24,24,545.2,1,FALSE,3625.58,44979,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Hornaing B Coal Power Plant France,Slow,Fra_296,50.6,253,24.04,24.04,8,8,50.6,1,FALSE,290.95,9016.92,0.0820,Coal,FH_France,CHP_COAL_04,0.09
+"Bouchain Coal Power Plant, France",Slow,Fra_296,50.0,250,23.75,23.75,8,8,50,1,FALSE,287.5,8910,0.0820,Coal,FH_France,GST_NAT_GAS_02,0.09
+Vazzio Thermal Power Plant France,Fast,Fra_296,54.2,135.5,0.4,0.4,2,4,54.2,1,FALSE,159.89,4634.1,0.1356,Fuel Oil,FH_France,NUCLEAR_07,0.07
+Lucciana Thermal Power Plant France,Fast,Fra_296,52.4,131,0.33,0.33,2,4,52.4,1,FALSE,154.58,4480.2,0.1356,Fuel Oil,FH_France,NUCLEAR_07,0.07
+"Porcheville II Thermal Power Plant, France",Fast,Fra_292,960.0,2400,6,6,2,4,960,1,FALSE,2832,82080,0.1356,Fuel Oil,FH_France,NUCLEAR_07,0.07
+Blénod Thermal Power Plant France,Slow,Fra_277,150.0,750,71.25,71.25,8,8,150,1,FALSE,862.5,26730,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+EdF Le Havre Coal Power Plant France,Slow,Fra_268,399.0,1995,189.5,189.5,8,8,399,1,FALSE,2294.25,71101.8,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+Emile-Huchet Coal Power Plant France,Slow,Fra_255,217.2,1086,103.17,103.17,8,8,217.2,1,FALSE,1248.9,38705.04,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+Flamanville Nuclear Power Plant France,Slow,Fra_248,552.8,2764,345.5,345.5,24,24,552.8,1,FALSE,3676.12,45606,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+"Martigues Combustion Oil Power Plant, France",Fast,Fra_220,300.0,750,1.9,1.9,2,4,300,1,FALSE,885,25650,0.1356,Fuel Oil,FH_France,NUCLEAR_07,0.07
+Fos-sur-Mer CCGT Power Plant France,Fast,Fra_220,192.0,480,54,54,2,4,192,1,FALSE,465.6,16416,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Combigolfe CCGT Power Plant France,Fast,Fra_220,172.0,430,48.4,48.4,2,4,172,1,FALSE,417.1,14706,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Provence Coal Power Station France,Slow,Fra_210,173.6,868,82.46,82.46,8,8,173.6,1,FALSE,998.2,30935.52,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+Cattenom Nuclear Power Plant France,Slow,Fra_202,1089.6,5448,681,681,24,24,1089.6,1,FALSE,7245.84,89892,0.0268,Nuclear,FH_France,NUCLEAR_04,0
+Aramon Oil Power Plant France,Fast,Fra_197,560.0,1400,3.5,3.5,2,4,560,1,FALSE,1652,47880,0.1356,Fuel Oil,FH_France,NUCLEAR_07,0.07
+Golfech Nuclear Power Plant France,Slow,Fra_195,545.2,2726,340.75,340.75,24,24,545.2,1,FALSE,3625.58,44979,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Phenix Nuclear Power Plant France,Slow,Fra_188,50.0,250,31.25,31.25,24,24,50,1,FALSE,332.5,4125,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Tricastin Nuclear Power Plant France,Slow,Fra_188,764.0,3820,477.5,477.5,24,24,764,1,FALSE,5080.6,63030,0.0268,Nuclear,FH_France,NUCLEAR_07,0
+Paluel Nuclear Power Plant France,Slow,Fra_180,1105.6,5528,691,691,24,24,1105.6,1,FALSE,7352.24,91212,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Cruas Nuclear Power Plant France,Slow,Fra_176,764.8,3824,478,478,24,24,764.8,1,FALSE,5085.92,63096,0.0268,Nuclear,FH_France,NUCLEAR_06,0
+Blayais Nuclear Power Plant France,Slow,Fra_160,728.0,3640,455,455,24,24,728,1,FALSE,4841.2,60060,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Saint-Alban Nuclear Power Plant France,Slow,Fra_144,556.4,2782,347.75,347.75,24,24,556.4,1,FALSE,3700.06,45903,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Bugey Nuclear Power Plant France,Slow,Fra_123,744.8,3724,465.5,465.5,24,24,744.8,1,FALSE,4952.92,61446,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+"DK6 (Dunkerque) CCGT Gas Power Plant, France",Fast,Fra_115,320.0,800,90,90,2,4,320,1,FALSE,776,27360,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Gravelines Nuclear Power Plant France,Slow,Fra_115,1141.2,5706,713.25,713.25,24,24,1141.2,1,FALSE,7588.98,94149,0.0268,Nuclear,FH_France,NUCLEAR_05,0
+"La Maxe Combustion Coal Power Plant, France",Slow,Fra_11,100.0,500,47.5,47.5,8,8,100,1,FALSE,575,17820,0.0820,Coal,FH_France,CHP_COAL_01,0.09
+"Richemont Combustion Gas Power Plant, France",Fast,Fra_11,72.0,180,20.25,20.25,2,4,72,1,FALSE,174.6,6156,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Bayet CCGT Power Plant France,Fast,Fra_108,163.2,408,45.9,45.9,2,4,163.2,1,FALSE,395.76,13953.6,0.0799,Natural Gas,FH_France,CCGT_NAT_GAS_11,0.1
+Penly Reprocessing and Nuclear Power Plant France,Slow,Fra_106,552.8,2764,345.5,345.5,24,24,552.8,1,FALSE,3676.12,45606,0.0268,Nuclear,FH_France,NUCLEAR_04,0
+Civaux Nuclear Power Plant France,Slow,Fra_101,624.4,3122,390.25,390.25,24,24,624.4,1,FALSE,4152.26,51513,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Fessenheim Nuclear Power Plant France,Slow,Fra_1,368.0,1840,230,230,24,24,368,1,FALSE,2447.2,30360,0.0268,Nuclear,FH_France,NUCLEAR_03,0
+Bexbach Coal CHP Power Plant Germany,Slow,Ger_99,154.6,773,73.4,73.4,8,8,154.6,1,FALSE,888.95,27549.72,0.0820,Coal,FH_Germany,CST_COAL_02,0.09
+Weiher-3 (Quierschied) CHP Coal Power Plant Germany,Slow,Ger_99,144.8,724,68.8,68.8,8,8,144.8,1,FALSE,832.6,25803.36,0.0820,Coal,FH_Germany,CST_COAL_05,0.09
+Brunsbüttel OCGT Power Plant Germany,Fast,Ger_98,102.4,256,0.64,0.64,2,4,102.4,1,FALSE,302.08,8755.2,0.1356,Fuel Oil,FH_Germany,NUCLEAR_07,0.07
+Mannheim Coal CHP Power Plant Germany,Slow,Ger_95,291.0,1455,138.2,138.2,8,8,291,1,FALSE,1673.25,51856.2,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Ludwigshafen Mitte CCGT CHP Power Plant Germany,Fast,Ger_95,198.4,496,55.8,55.8,2,4,198.4,1,FALSE,481.12,16963.2,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Franken 1 Power Plant Germany,Fast,Ger_88,337.2,843,94.9,94.9,2,4,337.2,1,FALSE,817.71,28830.6,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Brokdorf Nuclear Power Plant Germany,Slow,Ger_80,288.0,1440,180,180,24,24,288,1,FALSE,1915.2,23760,0.0268,Nuclear,FH_Germany,NUCLEAR_06,0
+Mainz-Wiesbaden CCGT CHP Power Plant Germany,Fast,Ger_77,162.4,406,45.7,45.7,2,4,162.4,1,FALSE,393.82,13885.2,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Großkrotzenburg (Staudinger) Coal CHP Power Station Germany,Slow,Ger_72,364.6,1823,173.2,173.2,8,8,364.6,1,FALSE,2096.45,64971.72,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Niederaussem Coal Power Plant Germany,Slow,Ger_55,680.0,3400,340,340,8,8,680,1,FALSE,4250,65076,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Niehl CCGT CHP Power Plant Germany,Fast,Ger_55,162.4,406,45.7,45.7,2,4,162.4,1,FALSE,393.82,13885.2,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Knapsack CCGT Power Plant Germany,Slow,Ger_55,172.0,430,48.4,48.4,8,8,172,1,FALSE,417.1,14705.98667,0.0799,Natural Gas,FH_Germany,CST_COAL_06,0.1
+Weisweiler Coal Power Plant Germany,Slow,Ger_54,360.0,1800,180,180,8,8,360,1,FALSE,2250,34452,0.0601,Lignite,FH_Germany,CST_LIGNITE_13,0.11
+Lausward E CHP Coal Power Plant Germany,Slow,Ger_42,91.6,458,43.5,43.5,8,8,91.6,1,FALSE,526.7,16323.12,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Dormagen CCGT CHP Power Plant Germany,Fast,Ger_42,224.0,560,63,63,2,4,224,1,FALSE,543.2,19152,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Werdohl-Elverlingsen E Coal Power Plant Germany,Slow,Ger_39,97.4,487,46.27,46.27,8,8,97.4,1,FALSE,560.05,17356.68,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Werdohl-Elverlingsen E CCGT Power Plant Germany,Fast,Ger_39,84.0,210,23.6,23.6,2,4,84,1,FALSE,203.7,7182,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Herdecke CCGT Power Plant Germany,Fast,Ger_29,166.8,417,46.9,46.9,2,4,166.8,1,FALSE,404.49,14261.4,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Huckingen Thermal Power Plant Germany,Slow,Ger_26,128.0,640,60.8,60.8,8,8,128,1,FALSE,736,22809.6,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Duisburg-Walsum Coal CHP Power Plant Germany,Slow,Ger_26,257.0,1285,122.1,122.1,8,8,257,1,FALSE,1477.75,45797.4,0.0820,Coal,FH_Germany,CST_COAL_04,0.09
+Voerde Coal Power Plant Germany,Slow,Ger_26,446.8,2234,223.4,223.4,8,8,446.8,1,FALSE,2792.5,42758.76,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Duisberg-Huckingen CHP Power Plant Germany,Fast,Ger_26,242.4,606,68.2,68.2,2,4,242.4,1,FALSE,587.82,20725.2,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Knepper CHP Coal Power Plant Germany,Slow,Ger_25,69.0,345,32.8,32.8,8,8,69,1,FALSE,396.75,12295.8,0.0820,Coal,FH_Germany,CHP_NAT_GAS_06,0.09
+Shamrock Coal Power Plant Germany,Slow,Ger_25,24.0,120,11.4,11.4,8,8,24,1,FALSE,138,4276.8,0.0820,Coal,FH_Germany,CHP_NAT_GAS_06,0.09
+Gustav Knepper Coal Power Plant Germany,Slow,Ger_25,72.8,364,34.6,34.6,8,8,72.8,1,FALSE,418.6,12972.96,0.0820,Coal,FH_Germany,CST_COAL_07,0.09
+Datteln Coal CHP Power Plant Germany,Slow,Ger_25,60.6,303,28.8,28.8,8,8,60.6,1,FALSE,348.45,10798.92,0.0820,Coal,FH_Germany,CST_COAL_29,0.09
+Herne Coal CHP Power Plant Germany,Slow,Ger_25,190.0,950,90.25,90.25,8,8,190,1,FALSE,1092.5,33858,0.0820,Coal,FH_Germany,GST_NAT_GAS_02,0.09
+Nossener Brücke CHP CCGT Power Plant Germany,Fast,Ger_220,108.0,270,30.4,30.4,2,4,108,1,FALSE,261.9,9234,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Scholven (Gelsenkirchen) Coal Power Plant Germany,Slow,Ger_22,443.2,2216,210.5,210.5,8,8,443.2,1,FALSE,2548.4,78978.24,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Schkopau CHP Coal Power Station Germany,Slow,Ger_214,183.2,916,91.6,91.6,8,8,183.2,1,FALSE,1145,17532.24,0.0601,Lignite,FH_Germany,CHP_NAT_GAS_06,0.11
+Westfalen Coal Power Plant Germany,Slow,Ger_213,61.0,305,29.0,29.0,8,8,61,1,FALSE,350.75,10870.2,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Westfalen Hamm Coal Power Plant Germany,Slow,Ger_213,320.0,1600,152,152,8,8,320,1,FALSE,1840,57024,0.0820,Coal,FH_Germany,CST_COAL_07,0.09
+Hamm-Uentrop CHP CCGT Power Plant Germany,Fast,Ger_213,340.0,850,95.6,95.6,2,4,340,1,FALSE,824.5,29070,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Lippendorf Coal Power Plant Germany,Slow,Ger_210,373.2,1866,186.6,186.6,8,8,373.2,1,FALSE,2332.5,35715.24,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Rostock CHP Coal Power Plant Germany,Slow,Ger_189,110.6,553,52.5,52.5,8,8,110.6,1,FALSE,635.95,19708.92,0.0820,Coal,FH_Germany,CST_LIGNITE_02,0.09
+Grohnde Nuclear Power Plant Germany,Slow,Ger_188,286.0,1430,178.75,178.75,24,24,286,1,FALSE,1901.9,23595,0.0268,Nuclear,FH_Germany,NUCLEAR_04,0
+Schwarze Pumpe Coal Power Plant Germany,Slow,Ger_187,320.0,1600,160,160,8,8,320,1,FALSE,2000,30624,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Boxberg Coal Power Plant Germany,Slow,Ger_187,515.0,2575,257.5,257.5,8,8,515,1,FALSE,3218.75,49285.5,0.0601,Lignite,FH_Germany,GST_NAT_GAS_02,0.11
+Veltheim Coal Power Plant Germany,Slow,Ger_186,64.0,320,30.4,30.4,8,8,64,1,FALSE,368,11404.8,0.0820,Coal,FH_Germany,CST_COAL_04,0.09
+Ibbenburen Coal Power Plant Germany,Slow,Ger_185,167.6,838,79.6,79.6,8,8,167.6,1,FALSE,963.7,29866.32,0.0820,Coal,FH_Germany,CST_COAL_04,0.09
+Werne (Gersteinwerk Block K) Coal Power Plant Germany,Slow,Ger_18,154.0,770,73.2,73.2,8,8,154,1,FALSE,885.5,27442.8,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Lünen Trianel Coal Power Plant Germany,Slow,Ger_18,150.0,750,71.25,71.25,8,8,150,1,FALSE,862.5,26730,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Bergkamen Coal CHP Power Plant Germany,Slow,Ger_18,149.4,747,71.0,71.0,8,8,149.4,1,FALSE,859.05,26623.08,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Lünen CHP Coal Power Plant Germany,Slow,Ger_18,101.4,507,48.2,48.2,8,8,101.4,1,FALSE,583.05,18069.48,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Gersteinwerk CCGT Power Plant Germany,Fast,Ger_18,514.0,1285,144.6,144.6,2,4,514,1,FALSE,1246.45,43947,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Heyden Coal Power Plant Germany,Slow,Ger_178,175.0,875,83.1,83.1,8,8,175,1,FALSE,1006.25,31185,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Buschhaus Coal Power Station Germany,Slow,Ger_177,78.0,390,39,39,8,8,78,1,FALSE,487.5,7464.6,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Lingen (Emsland) CCGT CHP Power Plant Germany,Fast,Ger_175,354.4,886,99.7,99.7,2,4,354.4,1,FALSE,859.42,30301.2,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Lingen Cogeneration Power Plant Germany,Fast,Ger_175,341.6,854,96.1,96.1,2,4,341.6,1,FALSE,828.38,29206.8,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Emsland Nuclear Power Plant Germany,Slow,Ger_175,280.0,1400,175,175,24,24,280,1,FALSE,1862,23100,0.0268,Nuclear,FH_Germany,NUCLEAR_04,0
+Mehrum Coal Power Plant Germany,Slow,Ger_174,150.0,750,71.25,71.25,8,8,150,1,FALSE,862.5,26730,0.0820,Coal,FH_Germany,GST_FUELOIL_1_02,0.09
+Janschwalde Coal Power Plant Germany,Slow,Ger_164,600.0,3000,300,300,8,8,600,1,FALSE,3750,57420,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Wilmersdorf CHP Power Plant Germany,Fast,Ger_159,132.0,330,0.8,0.8,2,4,132,1,FALSE,389.4,11286,0.1356,Fuel Oil,FH_Germany,NUCLEAR_07,0.07
+Klingenberg CHP Coal Power Plant Germany,Slow,Ger_159,37.6,188,18.8,18.8,8,8,37.6,1,FALSE,235,3598.32,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Berlin Lichterfelde CHP Power PlantGermany,Fast,Ger_159,180.0,450,50.6,50.6,2,4,180,1,FALSE,436.5,15390,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Berlin-Mite CCGT CHP Power Plant Germany,Fast,Ger_159,177.6,444,50.0,50.0,2,4,177.6,1,FALSE,430.68,15184.8,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Reuter West CHP Coal Power Plant Germany,Slow,Ger_153,120.0,600,57,57,8,8,120,1,FALSE,690,21384,0.0820,Coal,FH_Germany,CHP_NAT_GAS_06,0.09
+Charlottenburg CHP Power Plant Germany,Fast,Ger_153,85.6,214,24.1,24.1,2,4,85.6,1,FALSE,207.58,7318.8,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Wilhelmshaven Coal Power Plant Germany,Slow,Ger_144,151.4,757,71.9,71.9,8,8,151.4,1,FALSE,870.55,26979.48,0.0820,Coal,FH_Germany,CST_COAL_01,0.09
+Unterweser Nuclear Power Plant Germany,Slow,Ger_144,282.0,1410,176.25,176.25,24,24,282,1,FALSE,1875.3,23265,0.0268,Nuclear,FH_Germany,NUCLEAR_04,0
+Wedel CHP Power Plant Germany,Slow,Ger_140,78.34,391.7,37.2,37.2,8,8,78.34,1,FALSE,450.455,13960.188,0.0820,Coal,FH_Germany,CHP_NAT_GAS_06,0.09
+Hamburg-Moorburg CHP Coal Power Plant Gerrmany,Slow,Ger_130,328.0,1640,155.8,155.8,8,8,328,1,FALSE,1886,58449.6,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Munchen Nord CHP Power Plant Germany,Slow,Ger_129,72.0,360,34.2,34.2,8,8,72,1,FALSE,414,12830.4,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Munchen Sud CCGT CHP Power Plant Germany,Fast,Ger_129,279.2,698,78.5,78.5,2,4,279.2,1,FALSE,677.06,23871.6,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Freimann CHP Power Plant Germany,Fast,Ger_129,64.0,160,18,18,2,4,64,1,FALSE,155.2,5472,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Gundremmingen Nuclear Power Plant Germany,Slow,Ger_123,537.6,2688,336,336,24,24,537.6,1,FALSE,3575.04,44352,0.0268,Nuclear,FH_Germany,NUCLEAR_04,0
+Frimmersdorf Coal Power Plant Germany,Slow,Ger_12,482.6,2413,241.3,241.3,8,8,482.6,1,FALSE,3016.25,46184.82,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Neurath Coal Power Plant Germany,Slow,Ger_12,441.0,2205,220.5,220.5,8,8,441,1,FALSE,2756.25,42203.7,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Neurath BOA Coal Power Plant Germany,Slow,Ger_12,440.0,2200,220,220,8,8,440,1,FALSE,2750,42108,0.0601,Lignite,FH_Germany,CST_LIGNITE_07,0.11
+Zolling Coal CHP Power Plant Germany,Slow,Ger_116,94.8,474,45.0,45.0,8,8,94.8,1,FALSE,545.1,16893.36,0.0820,Coal,FH_Germany,CST_COAL_14,0.09
+Altbach Coal Power Plant Germany,Slow,Ger_114,240.0,1200,114,114,8,8,240,1,FALSE,1380,42768,0.0820,Coal,FH_Germany,GST_FUELOIL_1_02,0.09
+Karlsruhe RDK 7 and 8 Power Plant Germany,Slow,Ger_111,292.4,1462,138.9,138.9,8,8,292.4,1,FALSE,1681.3,52105.68,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+Karlsruhe RDK 4s Power Plant Germany,Fast,Ger_111,146.0,365,41.1,41.1,2,4,146,1,FALSE,354.05,12483,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Isar Nuclear Power Plant Germany,Slow,Ger_110,477.4,2387,298.4,298.4,24,24,477.4,1,FALSE,3174.71,39385.5,0.0268,Nuclear,FH_Germany,NUCLEAR_04,0
+Ingolstadt Thermal Power Plant Germany,Fast,Ger_109,336.0,840,2.1,2.1,2,4,336,1,FALSE,991.2,28728,0.1356,Fuel Oil,FH_Germany,NUCLEAR_07,0.07
+Neckarwestheim Nuclear Power Plant Germany,Slow,Ger_107,447.0,2235,279.4,279.4,24,24,447,1,FALSE,2972.55,36877.5,0.0268,Nuclear,FH_Germany,NUCLEAR_04,0
+Irsching-5 CCGT Power Plant Germany,Fast,Ger_105,340.0,850,95.6,95.6,2,4,340,1,FALSE,824.5,29070,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Irsching-4 (Ulrich Hartmann) CCGT Power Plant Germany,Fast,Ger_105,220.0,550,61.9,61.9,2,4,220,1,FALSE,533.5,18810,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Irsching 3 Power Plant Germany,Fast,Ger_105,176.0,440,49.5,49.5,2,4,176,1,FALSE,426.8,15048,0.0799,Natural Gas,FH_Germany,CCGT_NAT_GAS_08,0.1
+Philippsburg Nuclear Power Plant Germany,Slow,Ger_101,476.8,2384,298,298,24,24,476.8,1,FALSE,3170.72,39336,0.0268,Nuclear,FH_Germany,NUCLEAR_04,0
+Heilbronn Coal CHP Power Plant Germany,Slow,Ger_100,213.2,1066,101.3,101.3,8,8,213.2,1,FALSE,1225.9,37992.24,0.0820,Coal,FH_Germany,CST_COAL_16,0.09
+Völklingen-Fens CHP Coal Power Plant Germany,Slow,Fra_261,93.2,466,44.3,44.3,8,8,93.2,1,FALSE,535.9,16608.24,0.0820,Coal,FH_Germany,CHP_COAL_01,0.09
+AES Tisza II Thermal Power Plant Hungary,Fast,Slk_3,360.0,900,101.25,101.25,2,4,360,1,FALSE,873,30780,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Oroszlany CHP Coal Power Plant Hungary,Slow,Hun_9,48.0,240,24,24,8,8,48,1,FALSE,300,4593.6,0.0601,Lignite,FH_Hungary,CST_LIGNITE_07,0.11
+"E,ON Gonyu CCGT Power Plant Hungary",Fast,Hun_7,173.2,433,48.7,48.7,,,173.2,1,FALSE,420.01,14808.6,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Lorenci OCGT Power Plant Hungary,Fast,Hun_5,68.0,170,8.5,8.5,2,4,68,1,FALSE,164.9,5814,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Matra Coal Power Plant Hungary,Slow,Hun_4,190.0,950,95,95,8,8,190,1,FALSE,1187.5,18183,0.0601,Lignite,FH_Hungary,CST_LIGNITE_07,0.11
+Kelenfold CCGT CHP Power Plant Hungary,Fast,Hun_3,78.4,196,22.1,22.1,2,4,78.4,1,FALSE,190.12,6703.2,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Kispest CCGT CHP Power Plant Hungary,Fast,Hun_3,45.6,114,12.8,12.8,2,4,45.6,1,FALSE,110.58,3898.8,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Ujpest CCGT CHP Power Plant Hungary,Fast,Hun_3,44.0,110,12.4,12.4,2,4,44,1,FALSE,106.7,3762,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Sajoszoged OCGT Power Plant Hungary,Fast,Hun_22,48.0,120,6,6,2,4,48,1,FALSE,116.4,4104,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+"E,ON Nyiregyhaza OCGT CHP Power Plant Hungary",Fast,Hun_22,19.6,49,2.5,2.5,,,19.6,1,FALSE,47.53,1675.8,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+TVK CCGT CHP Power Plant Hungary,Fast,Hun_22,13.36,33.4,3.75,3.75,2,4,13.36,1,FALSE,32.398,1142.28,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+BC (Borsodchem) CHP Power Plant Hungary,Fast,Hun_21,18.8,47,5.3,5.3,2,4,18.8,1,FALSE,45.59,1607.4,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Paks Nuclear Power Plant Hungary,Slow,Hun_15,373.2,1866,233.25,233.25,24,24,373.2,1,FALSE,2481.78,30789,0.0268,Nuclear,FH_Hungary,CST_LIGNITE_07,0
+Dunamenti II Thermal Power Plant Hungary,Fast,Hun_12,516.0,1290,145.1,145.1,2,4,516,1,FALSE,1251.3,44118,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Csepel CCGT Power Plant Hungary,Fast,Hun_12,161.2,403,45.4,45.4,2,4,161.2,1,FALSE,390.91,13782.6,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Liter OCGT Power Plant Hungary,Fast,Hun_11,48.0,120,6,6,2,4,48,1,FALSE,116.4,4104,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+"E,ON Debrecen OCGT CHP Power Plant Hungary",Fast,Hun_10,38.0,95,4.75,4.75,,,38,1,FALSE,92.15,3249,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Pannonpower (Pecs) Thermal Power Plant Hungary,Fast,Cro_12,72.96,182.4,20.5,20.5,2,4,72.96,1,FALSE,176.928,6238.08,0.0799,Natural Gas,FH_Hungary,CCGT_NAT_GAS_08,0.1
+Esch-sur-Alzette CCGT Power Plant Luxembourg,Fast,Lux_3,154.0,385,43.3,43.3,2,4,154,1,FALSE,373.45,13167,0.0799,Natural Gas,FH_Luxembourg,CCGT_NAT_GAS_08,0.1
+Hemweg-8 Coal Power Plant Netherlands,Slow,Net_9,136.0,680,64.6,64.6,8,8,136,1,FALSE,782,24235.2,0.0820,Coal,FH_Netherlands,CHP_COAL_01,0.09
+Velsen Power Plant Netherlands,Fast,Net_9,328.0,820,92.25,92.25,2,4,328,1,FALSE,795.4,28044,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Hemweg 9 CCGT CHP Power Plant Netherlands,Fast,Net_9,174.0,435,49.0,49.0,2,4,174,1,FALSE,421.95,14877,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+IJmond CHP Power Plant Netherlands,Fast,Net_9,57.6,144,16.2,16.2,2,4,57.6,1,FALSE,139.68,4924.8,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Purmerend CHP Power Plant Netherlands,Fast,Net_9,27.6,69,7.8,7.8,2,4,27.6,1,FALSE,66.93,2359.8,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Harculo HC60 (IJssel Centrale) Power Plant Netherlands,Fast,Net_8,140.0,350,39.4,39.4,2,4,140,1,FALSE,339.5,11970,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Eemshaven USC Coal Power Plant Netherlands,Slow,Net_7,320.0,1600,152,152,8,8,320,1,FALSE,1840,57024,0.0820,Coal,FH_Netherlands,CST_COAL_28,0.09
+Eems CCGT Power Plant Netherlands,Fast,Net_7,682.0,1705,191.8,191.8,2,4,682,1,FALSE,1653.85,58311,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Magnum CCGT Power Plant Netherland,Fast,Net_7,516.0,1290,145.1,145.1,2,4,516,1,FALSE,1251.3,44118,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Amer CHP Coal Power Plant Netherlands,Slow,Net_3,249.0,1245,118.3,118.3,8,8,249,1,FALSE,1431.75,44371.8,0.0820,Coal,FH_Netherlands,CST_COAL_08,0.09
+Moerdijk-2 CCGT Power Plant Netherlands,Fast,Net_3,172.0,430,48.4,48.4,2,4,172,1,FALSE,417.1,14706,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Moerdijk-1 CHP Power Plant Netherlands,Fast,Net_3,135.6,339,38.2,38.2,2,4,135.6,1,FALSE,328.83,11593.8,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Flevo Maxima Centrale CCGT Power Plant Netherlands,Fast,Net_23,344.0,860,96.75,96.75,2,4,344,1,FALSE,834.2,29412,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Claus C CCGT Power Plant Netherlands,Fast,Net_18,512.0,1280,144,144,2,4,512,1,FALSE,1241.6,43776,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Claus A power Plant Netherlands,Fast,Net_18,256.0,640,72,72,2,4,256,1,FALSE,620.8,21888,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Buggenum (Willem-Alexander) IGCC Power Plant Netherlands,Fast,Net_18,101.2,253,28.5,28.5,2,4,101.2,1,FALSE,245.41,8652.6,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Swentibold CHP Power Plant Netherlands,Fast,Net_18,92.4,231,26,26,2,4,92.4,1,FALSE,224.07,7900.2,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Delesto-2 CCGT Power Plant Netherlands,Fast,Net_16,144.0,360,40.5,40.5,2,4,144,1,FALSE,349.2,12312,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+RoCA3 CHP Power Plant Netherlands,Fast,Net_14,87.2,218,24.5,24.5,2,4,87.2,1,FALSE,211.46,7455.6,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Gelderland Coal Power Plant Netherlands,Slow,Net_13,118.0,590,56.1,56.1,8,8,118,1,FALSE,678.5,21027.6,0.0820,Coal,FH_Netherlands,CHP_COAL_01,0.09
+Maasvlakte 1-2 Coal Power Plant Netherlands,Slow,Net_12,216.0,1080,102.6,102.6,8,8,216,1,FALSE,1242,38491.2,0.0820,Coal,FH_Netherlands,CHP_COAL_01,0.09
+Maasvlakte Electrabel Coal Power Plant Netherlands,Slow,Net_12,160.0,800,76,76,8,8,160,1,FALSE,920,28512,0.0820,Coal,FH_Netherlands,CHP_COAL_01,0.09
+Maasvlakte-3 USC coal Power Plant Netherlands,Slow,Net_12,222.6,1113,105.7,105.7,8,8,222.6,1,FALSE,1279.95,39667.32,0.0820,Coal,FH_Netherlands,CST_COAL_12,0.09
+Enecogen CCGT Power Plant Netherlands,Fast,Net_12,348.0,870,97.9,97.9,2,4,348,1,FALSE,843.9,29754,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Rijnmond CCGT power plant Netherland,Fast,Net_12,316.0,790,88.9,88.9,2,4,316,1,FALSE,766.3,27018,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Maasstroom CCGT Power Plant Netherlands,Fast,Net_12,171.2,428,48.2,48.2,2,4,171.2,1,FALSE,415.16,14637.6,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Gallileistraat CHP Power Plant Netherlands,Fast,Net_12,92.0,230,25.9,25.9,2,4,92,1,FALSE,223.1,7866,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Den Hague Repower CHP Power Plant Netherlands,Fast,Net_12,48.0,120,13.5,13.5,2,4,48,1,FALSE,116.4,4104,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Shell Pernis Power Plant Netherlands,Fast,Net_12,32.8,82,9.2,9.2,2,4,32.8,1,FALSE,79.54,2804.4,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Maasvlakte UCML CHP Power Plant Netherlands,Fast,Net_12,32.0,80,9,9,2,4,32,1,FALSE,77.6,2736,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Diemen-34 CCGT CHP Power Plant Netherlands,Fast,Net_10,174.0,435,49.0,49.0,2,4,174,1,FALSE,421.95,14877,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Merwedekanaal CHP Power Plant Netherlands,Fast,Net_10,170.0,425,47.8,47.8,2,4,170,1,FALSE,412.25,14535,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Diemen-33 CCGT CHP Power Plant Netherlands,Fast,Net_10,106.4,266,29.9,29.9,2,4,106.4,1,FALSE,258.02,9097.2,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Langeweide CHP Power Plant Netherlands,Fast,Net_10,106.4,266,29.9,29.9,2,4,106.4,1,FALSE,258.02,9097.2,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Almere CHP Power Plant Netherlands,Fast,Net_10,51.2,128,14.4,14.4,2,4,51.2,1,FALSE,124.16,4377.6,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Elsta CCGT Power Plant Netherlands,Fast,Bel_21,184.0,460,51.75,51.75,2,4,184,1,FALSE,446.2,15732,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Borssele Coal Power Plant Netherland,Slow,Bel_18,81.2,406,38.6,38.6,8,8,81.2,1,FALSE,466.9,14469.84,0.0820,Coal,FH_Netherlands,CHP_COAL_01,0.09
+Sloe CCGT CHP Power Plant Netherland,Fast,Bel_18,348.0,870,97.9,97.9,2,4,348,1,FALSE,843.9,29754,0.0799,Natural Gas,FH_Netherlands,CCGT_NAT_GAS_07,0.1
+Borssele Nuclear Power Plant Netherlands,Slow,Bel_18,103.0,515,64.4,64.4,24,24,103,1,FALSE,684.95,8497.5,0.0268,Nuclear,FH_Netherlands,NUCLEAR_08,0
+Laziska CHP Coal Power Plant Polan,Slow,Pol_95,231.0,1155,109.7,109.7,8,8,231,1,FALSE,1328.25,41164.2,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Bielsko-Biala (EC1) CHP Coal Power Plant Poland,Slow,Pol_93,15.4,77,7.3,7.3,8,8,15.4,1,FALSE,88.55,2744.28,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Bielsko-Polnoc (EC1) CHP Coal Power Plant Poland,Slow,Pol_92,11.0,55,5.2,5.2,8,8,11,1,FALSE,63.25,1960.2,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Skawina CHP Coal Power Plant Poland,Slow,Pol_90,118.0,590,56.1,56.1,8,8,118,1,FALSE,678.5,21027.6,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Rybnik Coal Power Plant Poland,Slow,Pol_87,355.0,1775,168.6,168.6,8,8,355,1,FALSE,2041.25,63261,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Halemba Coal CHP Power Plant Poland,Slow,Pol_87,40.0,200,19,19,8,8,40,1,FALSE,230,7128,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Jaworzno III CHP Coal Power Plant Poland,Slow,Pol_85,269.0,1345,127.8,127.8,8,8,269,1,FALSE,1546.75,47935.8,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Tauron Siersza Power Plant Poland,Slow,Pol_85,135.2,676,64.2,64.2,8,8,135.2,1,FALSE,777.4,24092.64,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Jaworzno II CHP Coal Power Plant Poland,Slow,Pol_85,38.0,190,18.1,18.1,8,8,38,1,FALSE,218.5,6771.6,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Blachownia CHP Coal Power Plant Poland,Slow,Pol_84,33.0,165,15.7,15.7,8,8,33,1,FALSE,189.75,5880.6,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Krakow CHP Coal Power Plant Poland,Slow,Pol_80,92.0,460,43.7,43.7,8,8,92,1,FALSE,529,16394.4,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Bydgoszcz EC-II CHP Power Plant Poland,Slow,Pol_8,45.4,227,21.6,21.6,8,8,45.4,1,FALSE,261.05,8090.28,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Lagisza CHP Coal Power Plant Poland,Slow,Pol_75,168.0,840,79.8,79.8,8,8,168,1,FALSE,966,29937.6,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Lagisza II Supercritical Coal Power Plant Poland,Slow,Pol_75,92.0,460,43.7,43.7,8,8,92,1,FALSE,529,16394.4,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Elcho Chorzow CHP Coal Power Plant Poland,Slow,Pol_75,45.2,226,21.5,21.5,8,8,45.2,1,FALSE,259.9,8054.64,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Bedzin CHP Coal Power Plant Poland,Slow,Pol_75,16.3,81.5,7.75,7.75,8,8,16.3,1,FALSE,93.725,2904.66,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Opole Coal Power Plant Poland,Slow,Pol_74,306.4,1532,145.6,145.6,8,8,306.4,1,FALSE,1761.8,54600.48,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Miechowice CHP Coal Power Plant Poland,Slow,Pol_71,25.0,125,11.9,11.9,8,8,25,1,FALSE,143.75,4455,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Turow CHP Coal Power Plant Poland,Slow,Pol_65,421.2,2106,210.6,210.6,8,8,421.2,1,FALSE,2632.5,40308.84,0.0601,Lignite,FH_Poland,CST_LIGNITE_07,0.11
+Polaniec Coal Power Plant Poland,Slow,Pol_58,360.0,1800,171,171,8,8,360,1,FALSE,2070,64152,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Wroclaw CHP Power Plant Poland,Slow,Pol_53,52.6,263,25.0,25.0,8,8,52.6,1,FALSE,302.45,9373.32,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Tauron Stalowa Wola Coal Power Plant Poland,Slow,Pol_51,50.0,250,23.75,23.75,8,8,50,1,FALSE,287.5,8910,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Kielce CHP Power Plant Poland,Slow,Pol_50,2.1,10.5,1,1,8,8,2.1,1,FALSE,12.075,374.22,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Zielona Gora CCGT Power Plant Poland,Fast,Pol_48,79.2,198,22.3,22.3,2,4,79.2,1,FALSE,192.06,6771.6,0.0799,Natural Gas,FH_Poland,CCGT_NAT_GAS_08,0.1
+Wybrzeze (Gdansk/Gdynia) CHP Power Plant Poland,Slow,Pol_45,64.5,322.5,30.7,30.7,8,8,64.5,1,FALSE,370.875,11493.9,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Belchatow Coal Power Plant Poland,Slow,Pol_41,888.0,4440,444,444,8,8,888,1,FALSE,5550,84981.6,0.0601,Lignite,FH_Poland,CST_LIGNITE_07,0.11
+Belchatow II Coal Power Plant Poland,Slow,Pol_41,171.6,858,85.8,85.8,8,8,171.6,1,FALSE,1072.5,16422.12,0.0601,Lignite,FH_Poland,CST_LIGNITE_07,0.11
+Ostroleka B Coal Power Plant Poland,Slow,Pol_4,129.4,647,61.5,61.5,8,8,129.4,1,FALSE,744.05,23059.08,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Dalkia Lodz EC-4 CHP Power Plant Poland,Slow,Pol_33,42.0,210,20.0,20.0,8,8,42,1,FALSE,241.5,7484.4,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Dalkia Lodz EC-3 CHP Power Plant Poland,Slow,Pol_33,41.17,205.85,19.6,19.56,8,8,41.17,1,FALSE,236.7275,7336.494,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Dalkia Lodz EC-2 CHP Power Plant Poland,Slow,Pol_33,17.4,87,8.3,8.3,8,8,17.4,1,FALSE,100.05,3100.68,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Adamow CHP Coal Power Plant Poland,Slow,Pol_31,120.0,600,60,60,8,8,120,1,FALSE,750,11484,0.0601,Lignite,FH_Poland,CST_LIGNITE_07,0.11
+Kozienice Coal Power Plant Poland,Slow,Pol_28,576.0,2880,273.6,273.6,8,8,576,1,FALSE,3312,102643.2,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Gorzow CHP Power Plant Poland,Fast,Pol_25,39.0,97.5,11.0,11.0,2,4,39,1,FALSE,94.575,3334.5,0.0799,Natural Gas,FH_Poland,CCGT_NAT_GAS_08,0.1
+Dalkia Poznan Karolin CHP Power Plant Poland,Slow,Pol_24,55.0,275,26.1,26.1,8,8,55,1,FALSE,316.25,9801,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Patnow Coal Power Plant Poland,Slow,Pol_22,160.0,800,80,80,8,8,160,1,FALSE,1000,15312,0.0601,Lignite,FH_Poland,CST_LIGNITE_07,0.11
+Konin CHP Coal Power Plant Poland,Slow,Pol_22,97.6,488,48.8,48.8,8,8,97.6,1,FALSE,610,9340.32,0.0601,Lignite,FH_Poland,CST_LIGNITE_07,0.11
+Patnow II Coal Power Plant Poland,Slow,Pol_22,92.8,464,46.4,46.4,8,8,92.8,1,FALSE,580,8880.96,0.0601,Lignite,FH_Poland,CST_LIGNITE_07,0.11
+Siekierki CHP Coal Power Plant Poland,Slow,Pol_18,124.4,622,59.1,59.1,8,8,124.4,1,FALSE,715.3,22168.08,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Zeran CHP Coal Power Plant Poland,Slow,Pol_18,70.0,350,33.25,33.25,8,8,70,1,FALSE,402.5,12474,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Dolna Odra CHP Coal Power Plant Poland,Slow,Pol_17,366.4,1832,174.1,174.1,8,8,366.4,1,FALSE,2106.8,65292.48,0.0820,Coal,FH_Poland,CHP_COAL_01,0.09
+Turceni Coal Power Station Romania,Slow,Rom_86,462.0,2310,231,231,8,8,462,1,FALSE,2887.5,44213.4,0.0601,Lignite,FH_Romania,CST_LIGNITE_07,0.11
+Paroseni CHPP Power Station Romania,Slow,Rom_79,60.0,300,28.5,28.5,8,8,60,1,FALSE,345,10692,0.0820,Coal,FH_Romania,CHP_COAL_01,0.09
+CET Govora Coal CHPP Romania,Slow,Rom_74,40.0,200,20,20,8,8,40,1,FALSE,250,3828,0.0601,Lignite,FH_Romania,CST_LIGNITE_07,0.11
+Galati Thermal Power Station Romania,Fast,Rom_72,214.0,535,1.34,1.34,2,4,214,1,FALSE,631.3,18297,0.1356,Fuel Oil,FH_Romania,NUCLEAR_07,0.07
+Rovinari Coal Power Station Romania,Slow,Rom_66,264.0,1320,132,132,8,8,264,1,FALSE,1650,25264.8,0.0601,Lignite,FH_Romania,CST_LIGNITE_07,0.11
+Mintia-Deva Power Station Romania,Slow,Rom_57,257.0,1285,122.1,122.1,8,8,257,1,FALSE,1477.75,45797.4,0.0820,Coal,FH_Romania,CHP_COAL_01,0.09
+Ludus-Lernut (Mures) Power Station Romania,Fast,Rom_46,320.0,800,90,90,2,4,320,1,FALSE,776,27360,0.0799,Natural Gas,FH_Romania,CCGT_NAT_GAS_08,0.1
+Isalnita Coal Power Plant Romania,Slow,Rom_44,126.0,630,63,63,8,8,126,1,FALSE,787.5,12058.2,0.0601,Lignite,FH_Romania,CST_LIGNITE_07,0.11
+Craiova II Power Station Romania,Slow,Rom_44,60.0,300,30,30,8,8,60,1,FALSE,375,5742,0.0601,Lignite,FH_Romania,CST_LIGNITE_07,0.11
+CET Bacau CHPP Romania,Slow,Rom_39,14.85,74.25,7.4,7.4,8,8,14.85,1,FALSE,92.8125,1421.145,0.0601,Lignite,FH_Romania,CST_LIGNITE_07,0.11
+Brazi (Dalkia Termo Prahova) Thermal CHPP Power Plant Romania,Fast,Rom_32,244.0,610,1.5,1.5,2,4,244,1,FALSE,719.8,20862,0.1356,Fuel Oil,FH_Romania,NUCLEAR_07,0.07
+Petrom Brazi CCGT Power Plant Romania,Fast,Rom_32,344.0,860,96.75,96.75,2,4,344,1,FALSE,834.2,29412,0.0799,Natural Gas,FH_Romania,CCGT_NAT_GAS_08,0.1
+Bucharest South CHPP Power Station Romania,Fast,Rom_25,220.0,550,1.4,1.4,2,4,220,1,FALSE,649,18810,0.1356,Fuel Oil,FH_Romania,NUCLEAR_07,0.07
+CET Bucuresti West CHPP Romania,Fast,Rom_25,100.0,250,0.6,0.6,2,4,100,1,FALSE,295,8550,0.1356,Fuel Oil,FH_Romania,NUCLEAR_07,0.07
+Bucharest Grozavesti CHPP Power Station Romania,Fast,Rom_25,40.0,100,0.25,0.25,2,4,40,1,FALSE,118,3420,0.1356,Fuel Oil,FH_Romania,NUCLEAR_07,0.07
+CET Bucharest-Progresu CHPP Power Plant Romania,Fast,Rom_25,80.0,200,22.5,22.5,2,4,80,1,FALSE,194,6840,0.0799,Natural Gas,FH_Romania,CCGT_NAT_GAS_08,0.1
+CET Brasov CHPP Romania,Slow,Rom_23,20.0,100,10,10,8,8,20,1,FALSE,125,1914,0.0601,Lignite,FH_Romania,CST_LIGNITE_07,0.11
+CET Constanta CHPP Power Plant Romania,Fast,Rom_21,40.0,100,0.25,0.25,2,4,40,1,FALSE,118,3420,0.1356,Fuel Oil,FH_Romania,NUCLEAR_07,0.07
+Cernavoda Nuclear Power Plant Romania,Slow,Rom_17,282.4,1412,176.5,176.5,24,24,282.4,1,FALSE,1877.96,23298,0.0268,Nuclear,FH_Romania,NUCLEAR_04,0
+PPC Bratislava CCGT CHP Power Plant Slovakia,Fast,Slk_17,87.2,218,24.5,24.5,2,4,87.2,1,FALSE,211.46,7455.6,0.0799,Natural Gas,FH_Slovakia,CCGT_NAT_GAS_08,0.1
+Malzenice CCGT Power Plant Slovakia,Fast,Slk_15,172.0,430,48.4,48.4,2,4,172,1,FALSE,417.1,14706,0.0799,Natural Gas,FH_Slovakia,CCGT_NAT_GAS_08,0.1
+Bohunice Nuclear Power Plant Slovakia,Slow,Slk_15,176.0,880,110,110,24,24,176,1,FALSE,1170.4,14520,0.0268,Nuclear,FH_Slovakia,NUCLEAR_04,0
+Levice CCGT CHP Power Plant Slovakia,Fast,Slk_14,32.0,80,9,9,2,4,32,1,FALSE,77.6,2736,0.0799,Natural Gas,FH_Slovakia,CCGT_NAT_GAS_08,0.1
+Mochovce Nuclear Power Plant Slovakia,Slow,Slk_14,176.0,880,110,110,24,24,176,1,FALSE,1170.4,14520,0.0268,Nuclear,FH_Slovakia,NUCLEAR_04,0
+Novaky (ENO) Thermal CHP Power Plant Slovakia,Slow,Slk_10,103.6,518,51.8,51.8,8,8,103.6,1,FALSE,647.5,9914.52,0.0601,Lignite,FH_Slovakia,CST_LIGNITE_07,0.11
+Vojany Thermal Power Plant Slovakia,Slow,Hun_2,176.0,880,83.6,83.6,8,8,176,1,FALSE,1012,31363.2,0.0820,Coal,FH_Slovakia,CHP_COAL_01,0.09
+Brestanica (TEB) Gas Power Plant Slovenia,Fast,Slv_6,129.2,323,36.4,36.4,2,4,129.2,1,FALSE,313.31,11046.6,0.0799,Natural Gas,FH_Slovenia,CCGT_NAT_GAS_08,0.1
+Krsko Nuclear Power Reactor Slovenia,Slow,Slv_6,146.0,730,91.25,91.25,24,24,146,1,FALSE,970.9,12045,0.0268,Nuclear,FH_Slovenia,NUCLEAR_04,0
+Ljubljana (TE-TOL) Coal CHPP Slovenia,Slow,Slv_5,24.8,124,11.8,11.8,8,8,24.8,1,FALSE,142.6,4419.36,0.0820,Coal,FH_Slovenia,CHP_COAL_01,0.09
+Sostanj (TES) Coal Power Plant Slovenia,Slow,Slv_3,139.0,695,69.5,69.5,8,8,139,1,FALSE,868.75,13302.3,0.0601,Lignite,FH_Slovenia,CST_LIGNITE_07,0.11
+Trbovlje (TES) Coal Power Plant Slovenia,Slow,Slv_3,25.0,125,12.5,12.5,8,8,25,1,FALSE,156.25,2392.5,0.0601,Lignite,FH_Slovenia,CST_LIGNITE_07,0.11
+Goesgen Nuclear Power Plant Switzerland,Slow,Swi_45,204.0,1020,127.5,127.5,24,24,204,1,FALSE,1356.6,16830,0.0268,Nuclear,FH_Switzerland,NUCLEAR_04,0
+Muehlberg Nuclear Power Plant Switzerland,Slow,Swi_15,74.4,372,46.5,46.5,24,24,74.4,1,FALSE,494.76,6138,0.0268,Nuclear,FH_Switzerland,NUCLEAR_04,0
+Leibstadt Nuclear Power Plant Switzerland,Slow,Swi_14,244.0,1220,152.5,152.5,24,24,244,1,FALSE,1622.6,20130,0.0268,Nuclear,FH_Switzerland,NUCLEAR_04,0
+Beznau Nuclear Power Plant Switzerland,Slow,Swi_14,152.0,760,95,95,24,24,152,1,FALSE,1010.8,12540,0.0268,Nuclear,FH_Switzerland,NUCLEAR_04,0

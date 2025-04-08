@@ -1,0 +1,9 @@
+GeneratorRE,BusGeneratorRE,DynamicProfileRE,ReferenceValueRE,FuelGeneratorRE
+Hydro_Niederosterreich,A-2,Hydro_Niederosterreich,747,HYDRAULIC
+Verbund_Danube,A-3,Verbund_Danube,1601,HYDRAULIC
+SOLAR_A-1,A-1,AT_PHOTO,15.2,SOLAR
+SOLAR_A-2,A-2,AT_PHOTO,15.2,SOLAR
+SOLAR_A-3,A-3,AT_PHOTO,15.2,SOLAR
+WIND_A-1,A-1,AT_WIND,58.17,WIND
+WIND_A-2,A-2,AT_WIND,58.17,WIND
+WIND_A-3,A-3,AT_WIND,58.17,WIND

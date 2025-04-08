@@ -1,0 +1,16 @@
+Reserve,ZoneReserve,Category,DeliveryTime,MaxParticipationFactor,DynamicProfileR,ReferenceValueR,Valuation
+R2_UP,BE,UP-ONLINE,7.5,1,ConstantProfile,140,6000
+aFRR_UP_FR,FR,UP-ONLINE,5,1,ConstantProfile,658,6000
+aFRR_UP_NL,NL,UP-ONLINE,14.2,1,ConstantProfile,300,6000
+aFRR_UP_AT,AT,UP-ONLINE,5,1,ConstantProfile,200,6000
+aFRR_UP_DE/LX,DE/LX,UP-ONLINE,5,1,ConstantProfile,2042,6000
+R2_DOWN,BE,DOWN,7.5,1,ConstantProfile,140,6000
+aFRR_DOWN_FR,FR,DOWN,5,1,ConstantProfile,658,6000
+aFRR_DOWN_NL,NL,DOWN,14.2,1,ConstantProfile,300,6000
+aFRR_DOWN_AT,AT,DOWN,5,1,ConstantProfile,200,6000
+aFRR_DOWN_DE/LX,DE/LX,DOWN,5,1,ConstantProfile,2042,6000
+R3,BE,UP-OFFLINE,15,1,ConstantProfile,661,3000
+mFRR_FR,FR,UP-OFFLINE,13,1,ConstantProfile,1890,3000
+mFRR_NL,NL,UP-OFFLINE,15,1,ConstantProfile,350,3000
+mFRR_AT,AT,UP-OFFLINE,15,1,ConstantProfile,284,3000
+mFRR_DE/LX,DE/LX,UP-OFFLINE,15,1,ConstantProfile,2472,3000

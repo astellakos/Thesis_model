@@ -1,0 +1,71 @@
+Fuel,FuelHub,Price
+Coal,FH_Austria,2.26
+Coal,FH_Croatia,2.26
+Coal,FH_Belgium,2.26
+Coal,FH_Czech,2.26
+Coal,FH_Denmark,2.26
+Coal,FH_France,2.26
+Coal,FH_Germany,2.26
+Coal,FH_Hungary,2.26
+Coal,FH_Luxemburg,2.26
+Coal,FH_Netherlands,2.26
+Coal,FH_Poland,2.26
+Coal,FH_Romania,2.26
+Coal,FH_Slovakia,2.26
+Coal,FH_Slovenia,2.26
+Coal,FH_Switzerland,2.26
+Fuel Oil,FH_Austria,13.9
+Fuel Oil,FH_Croatia,13.9
+Fuel Oil,FH_Belgium,13.9
+Fuel Oil,FH_Czech,13.9
+Fuel Oil,FH_Denmark,13.9
+Fuel Oil,FH_France,13.9
+Fuel Oil,FH_Germany,13.9
+Fuel Oil,FH_Hungary,13.9
+Fuel Oil,FH_Luxemburg,13.9
+Fuel Oil,FH_Netherlands,13.9
+Fuel Oil,FH_Poland,13.9
+Fuel Oil,FH_Romania,13.9
+Fuel Oil,FH_Slovakia,13.9
+Fuel Oil,FH_Slovenia,13.9
+Fuel Oil,FH_Switzerland,13.9
+Lignite,FH_Austria,0.8
+Lignite,FH_Croatia,0.8
+Lignite,FH_Belgium,0.8
+Lignite,FH_Czech,0.8
+Lignite,FH_Denmark,0.8
+Lignite,FH_France,0.8
+Lignite,FH_Germany,0.8
+Lignite,FH_Hungary,0.8
+Natural Gas,FH_Austria,5.6
+Natural Gas,FH_Croatia,5.6
+Natural Gas,FH_Belgium,5.6
+Natural Gas,FH_Czech,5.6
+Natural Gas,FH_Denmark,5.6
+Natural Gas,FH_France,5.6
+Natural Gas,FH_Germany,5.6
+Natural Gas,FH_Hungary,5.6
+Natural Gas,FH_Luxemburg,5.6
+Natural Gas,FH_Netherlands,5.6
+Natural Gas,FH_Poland,5.6
+Natural Gas,FH_Romania,5.6
+Natural Gas,FH_Slovakia,5.6
+Natural Gas,FH_Slovenia,5.6
+Natural Gas,FH_Switzerland,5.6
+Nuclear,FH_Austria,0.7
+Nuclear,FH_Croatia,0.7
+Nuclear,FH_Belgium,0.7
+Nuclear,FH_Czech,0.7
+Nuclear,FH_Denmark,0.7
+Nuclear,FH_France,0.7
+Nuclear,FH_Germany,0.7
+Nuclear,FH_Hungary,0.7
+Nuclear,FH_Luxemburg,0.7
+Nuclear,FH_Netherlands,0.7
+Nuclear,FH_Poland,0.7
+Nuclear,FH_Romania,0.7
+Nuclear,FH_Slovakia,0.7
+Nuclear,FH_Slovenia,0.7
+Nuclear,FH_Switzerland,0.7
+Waste,FH_Czech,1.9
+Waste,FH_Denmark,1.9

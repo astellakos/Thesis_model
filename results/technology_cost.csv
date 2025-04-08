@@ -1,0 +1,355 @@
+zone,fuel,cost
+Slv_2,Natural Gas,0.0
+Slv_2,Coal,0.0
+Slv_2,Fuel Oil,0.0
+Slv_2,Nuclear,0.0
+Slv_2,Lignite,0.0
+Slv_2,Waste,0.0
+Slv_3,Natural Gas,0.0
+Slv_3,Coal,0.0
+Slv_3,Fuel Oil,0.0
+Slv_3,Nuclear,0.0
+Slv_3,Lignite,256363.366612204
+Slv_3,Waste,0.0
+Slv_4,Natural Gas,0.0
+Slv_4,Coal,0.0
+Slv_4,Fuel Oil,0.0
+Slv_4,Nuclear,0.0
+Slv_4,Lignite,0.0
+Slv_4,Waste,0.0
+Slv_5,Natural Gas,0.0
+Slv_5,Coal,106203.73075974175
+Slv_5,Fuel Oil,0.0
+Slv_5,Nuclear,0.0
+Slv_5,Lignite,0.0
+Slv_5,Waste,0.0
+Slv_6,Natural Gas,80764.02535454484
+Slv_6,Coal,0.0
+Slv_6,Fuel Oil,0.0
+Slv_6,Nuclear,181437.55094217797
+Slv_6,Lignite,0.0
+Slv_6,Waste,0.0
+Slv_7,Natural Gas,0.0
+Slv_7,Coal,0.0
+Slv_7,Fuel Oil,0.0
+Slv_7,Nuclear,0.0
+Slv_7,Lignite,0.0
+Slv_7,Waste,0.0
+Cro_1,Natural Gas,0.0
+Cro_1,Coal,0.0
+Cro_1,Fuel Oil,0.0
+Cro_1,Nuclear,0.0
+Cro_1,Lignite,0.0
+Cro_1,Waste,0.0
+Cro_2,Natural Gas,0.0
+Cro_2,Coal,0.0
+Cro_2,Fuel Oil,0.0
+Cro_2,Nuclear,0.0
+Cro_2,Lignite,0.0
+Cro_2,Waste,0.0
+Cro_3,Natural Gas,0.0
+Cro_3,Coal,0.0
+Cro_3,Fuel Oil,0.0
+Cro_3,Nuclear,0.0
+Cro_3,Lignite,0.0
+Cro_3,Waste,0.0
+Cro_4,Natural Gas,0.0
+Cro_4,Coal,0.0
+Cro_4,Fuel Oil,0.0
+Cro_4,Nuclear,0.0
+Cro_4,Lignite,0.0
+Cro_4,Waste,0.0
+Cro_5,Natural Gas,0.0
+Cro_5,Coal,0.0
+Cro_5,Fuel Oil,0.0
+Cro_5,Nuclear,0.0
+Cro_5,Lignite,0.0
+Cro_5,Waste,0.0
+Cro_6,Natural Gas,0.0
+Cro_6,Coal,0.0
+Cro_6,Fuel Oil,0.0
+Cro_6,Nuclear,0.0
+Cro_6,Lignite,0.0
+Cro_6,Waste,0.0
+Cro_7,Natural Gas,0.0
+Cro_7,Coal,0.0
+Cro_7,Fuel Oil,0.0
+Cro_7,Nuclear,0.0
+Cro_7,Lignite,0.0
+Cro_7,Waste,0.0
+Cro_8,Natural Gas,0.0
+Cro_8,Coal,0.0
+Cro_8,Fuel Oil,0.0
+Cro_8,Nuclear,0.0
+Cro_8,Lignite,0.0
+Cro_8,Waste,0.0
+Cro_9,Natural Gas,59041.89489884013
+Cro_9,Coal,0.0
+Cro_9,Fuel Oil,649358.7194532212
+Cro_9,Nuclear,0.0
+Cro_9,Lignite,0.0
+Cro_9,Waste,0.0
+Cro_10,Natural Gas,113917.90444886903
+Cro_10,Coal,0.0
+Cro_10,Fuel Oil,0.0
+Cro_10,Nuclear,0.0
+Cro_10,Lignite,0.0
+Cro_10,Waste,0.0
+Cro_11,Natural Gas,78641.76826848714
+Cro_11,Coal,0.0
+Cro_11,Fuel Oil,0.0
+Cro_11,Nuclear,0.0
+Cro_11,Lignite,0.0
+Cro_11,Waste,0.0
+Cro_12,Natural Gas,97886.765380701
+Cro_12,Coal,0.0
+Cro_12,Fuel Oil,0.0
+Cro_12,Nuclear,0.0
+Cro_12,Lignite,0.0
+Cro_12,Waste,0.0
+Cro_13,Natural Gas,0.0
+Cro_13,Coal,0.0
+Cro_13,Fuel Oil,0.0
+Cro_13,Nuclear,0.0
+Cro_13,Lignite,0.0
+Cro_13,Waste,0.0
+Cro_14,Natural Gas,0.0
+Cro_14,Coal,0.0
+Cro_14,Fuel Oil,0.0
+Cro_14,Nuclear,0.0
+Cro_14,Lignite,0.0
+Cro_14,Waste,0.0
+Cro_15,Natural Gas,0.0
+Cro_15,Coal,199520.49489165732
+Cro_15,Fuel Oil,0.0
+Cro_15,Nuclear,0.0
+Cro_15,Lignite,0.0
+Cro_15,Waste,0.0
+Cro_16,Natural Gas,0.0
+Cro_16,Coal,0.0
+Cro_16,Fuel Oil,0.0
+Cro_16,Nuclear,0.0
+Cro_16,Lignite,0.0
+Cro_16,Waste,0.0
+Cro_18,Natural Gas,0.0
+Cro_18,Coal,0.0
+Cro_18,Fuel Oil,0.0
+Cro_18,Nuclear,0.0
+Cro_18,Lignite,0.0
+Cro_18,Waste,0.0
+Aus_1,Natural Gas,0.0
+Aus_1,Coal,0.0
+Aus_1,Fuel Oil,0.0
+Aus_1,Nuclear,0.0
+Aus_1,Lignite,0.0
+Aus_1,Waste,0.0
+Aus_2,Natural Gas,0.0
+Aus_2,Coal,0.0
+Aus_2,Fuel Oil,0.0
+Aus_2,Nuclear,0.0
+Aus_2,Lignite,0.0
+Aus_2,Waste,0.0
+Aus_3,Natural Gas,0.0
+Aus_3,Coal,0.0
+Aus_3,Fuel Oil,0.0
+Aus_3,Nuclear,0.0
+Aus_3,Lignite,0.0
+Aus_3,Waste,0.0
+Aus_4,Natural Gas,66219.53108090657
+Aus_4,Coal,0.0
+Aus_4,Fuel Oil,0.0
+Aus_4,Nuclear,0.0
+Aus_4,Lignite,0.0
+Aus_4,Waste,0.0
+Aus_5,Natural Gas,819542.4071258091
+Aus_5,Coal,0.0
+Aus_5,Fuel Oil,0.0
+Aus_5,Nuclear,0.0
+Aus_5,Lignite,0.0
+Aus_5,Waste,0.0
+Aus_6,Natural Gas,0.0
+Aus_6,Coal,0.0
+Aus_6,Fuel Oil,0.0
+Aus_6,Nuclear,0.0
+Aus_6,Lignite,0.0
+Aus_6,Waste,0.0
+Aus_7,Natural Gas,74297.0096755676
+Aus_7,Coal,0.0
+Aus_7,Fuel Oil,0.0
+Aus_7,Nuclear,0.0
+Aus_7,Lignite,0.0
+Aus_7,Waste,0.0
+Aus_8,Natural Gas,0.0
+Aus_8,Coal,0.0
+Aus_8,Fuel Oil,0.0
+Aus_8,Nuclear,0.0
+Aus_8,Lignite,0.0
+Aus_8,Waste,0.0
+Aus_9,Natural Gas,0.0
+Aus_9,Coal,0.0
+Aus_9,Fuel Oil,0.0
+Aus_9,Nuclear,0.0
+Aus_9,Lignite,0.0
+Aus_9,Waste,0.0
+Aus_10,Natural Gas,349674.9673566685
+Aus_10,Coal,0.0
+Aus_10,Fuel Oil,0.0
+Aus_10,Nuclear,0.0
+Aus_10,Lignite,0.0
+Aus_10,Waste,0.0
+Aus_11,Natural Gas,75124.11551838831
+Aus_11,Coal,0.0
+Aus_11,Fuel Oil,0.0
+Aus_11,Nuclear,0.0
+Aus_11,Lignite,0.0
+Aus_11,Waste,0.0
+Aus_12,Natural Gas,0.0
+Aus_12,Coal,0.0
+Aus_12,Fuel Oil,0.0
+Aus_12,Nuclear,0.0
+Aus_12,Lignite,0.0
+Aus_12,Waste,0.0
+Aus_13,Natural Gas,285528.65369103034
+Aus_13,Coal,0.0
+Aus_13,Fuel Oil,0.0
+Aus_13,Nuclear,0.0
+Aus_13,Lignite,0.0
+Aus_13,Waste,0.0
+Aus_14,Natural Gas,0.0
+Aus_14,Coal,0.0
+Aus_14,Fuel Oil,0.0
+Aus_14,Nuclear,0.0
+Aus_14,Lignite,0.0
+Aus_14,Waste,0.0
+Aus_15,Natural Gas,0.0
+Aus_15,Coal,669248.9188543011
+Aus_15,Fuel Oil,0.0
+Aus_15,Nuclear,0.0
+Aus_15,Lignite,0.0
+Aus_15,Waste,0.0
+Aus_16,Natural Gas,0.0
+Aus_16,Coal,0.0
+Aus_16,Fuel Oil,0.0
+Aus_16,Nuclear,0.0
+Aus_16,Lignite,0.0
+Aus_16,Waste,0.0
+Aus_17,Natural Gas,0.0
+Aus_17,Coal,0.0
+Aus_17,Fuel Oil,0.0
+Aus_17,Nuclear,0.0
+Aus_17,Lignite,0.0
+Aus_17,Waste,0.0
+Aus_18,Natural Gas,334429.82568289555
+Aus_18,Coal,123003.86703882561
+Aus_18,Fuel Oil,247553.43710791846
+Aus_18,Nuclear,0.0
+Aus_18,Lignite,0.0
+Aus_18,Waste,0.0
+Aus_19,Natural Gas,90670.68475743143
+Aus_19,Coal,0.0
+Aus_19,Fuel Oil,0.0
+Aus_19,Nuclear,0.0
+Aus_19,Lignite,0.0
+Aus_19,Waste,0.0
+Aus_20,Natural Gas,0.0
+Aus_20,Coal,0.0
+Aus_20,Fuel Oil,0.0
+Aus_20,Nuclear,0.0
+Aus_20,Lignite,0.0
+Aus_20,Waste,0.0
+Aus_21,Natural Gas,0.0
+Aus_21,Coal,0.0
+Aus_21,Fuel Oil,0.0
+Aus_21,Nuclear,0.0
+Aus_21,Lignite,0.0
+Aus_21,Waste,0.0
+Aus_22,Natural Gas,0.0
+Aus_22,Coal,0.0
+Aus_22,Fuel Oil,0.0
+Aus_22,Nuclear,0.0
+Aus_22,Lignite,0.0
+Aus_22,Waste,0.0
+Aus_23,Natural Gas,0.0
+Aus_23,Coal,0.0
+Aus_23,Fuel Oil,0.0
+Aus_23,Nuclear,0.0
+Aus_23,Lignite,0.0
+Aus_23,Waste,0.0
+Aus_24,Natural Gas,0.0
+Aus_24,Coal,0.0
+Aus_24,Fuel Oil,0.0
+Aus_24,Nuclear,0.0
+Aus_24,Lignite,0.0
+Aus_24,Waste,0.0
+Aus_25,Natural Gas,0.0
+Aus_25,Coal,0.0
+Aus_25,Fuel Oil,0.0
+Aus_25,Nuclear,0.0
+Aus_25,Lignite,0.0
+Aus_25,Waste,0.0
+Aus_26,Natural Gas,0.0
+Aus_26,Coal,0.0
+Aus_26,Fuel Oil,0.0
+Aus_26,Nuclear,0.0
+Aus_26,Lignite,0.0
+Aus_26,Waste,0.0
+Aus_27,Natural Gas,30568.917489548538
+Aus_27,Coal,0.0
+Aus_27,Fuel Oil,0.0
+Aus_27,Nuclear,0.0
+Aus_27,Lignite,0.0
+Aus_27,Waste,0.0
+Aus_28,Natural Gas,0.0
+Aus_28,Coal,0.0
+Aus_28,Fuel Oil,0.0
+Aus_28,Nuclear,0.0
+Aus_28,Lignite,0.0
+Aus_28,Waste,0.0
+Aus_29,Natural Gas,0.0
+Aus_29,Coal,0.0
+Aus_29,Fuel Oil,0.0
+Aus_29,Nuclear,0.0
+Aus_29,Lignite,0.0
+Aus_29,Waste,0.0
+Aus_30,Natural Gas,0.0
+Aus_30,Coal,0.0
+Aus_30,Fuel Oil,0.0
+Aus_30,Nuclear,0.0
+Aus_30,Lignite,0.0
+Aus_30,Waste,0.0
+Aus_31,Natural Gas,0.0
+Aus_31,Coal,0.0
+Aus_31,Fuel Oil,0.0
+Aus_31,Nuclear,0.0
+Aus_31,Lignite,0.0
+Aus_31,Waste,0.0
+Aus_32,Natural Gas,740464.2152663041
+Aus_32,Coal,0.0
+Aus_32,Fuel Oil,0.0
+Aus_32,Nuclear,0.0
+Aus_32,Lignite,0.0
+Aus_32,Waste,0.0
+Aus_33,Natural Gas,0.0
+Aus_33,Coal,0.0
+Aus_33,Fuel Oil,0.0
+Aus_33,Nuclear,0.0
+Aus_33,Lignite,0.0
+Aus_33,Waste,0.0
+Aus_34,Natural Gas,0.0
+Aus_34,Coal,0.0
+Aus_34,Fuel Oil,0.0
+Aus_34,Nuclear,0.0
+Aus_34,Lignite,0.0
+Aus_34,Waste,0.0
+Aus_35,Natural Gas,0.0
+Aus_35,Coal,0.0
+Aus_35,Fuel Oil,0.0
+Aus_35,Nuclear,0.0
+Aus_35,Lignite,0.0
+Aus_35,Waste,0.0
+Aus_36,Natural Gas,0.0
+Aus_36,Coal,0.0
+Aus_36,Fuel Oil,0.0
+Aus_36,Nuclear,0.0
+Aus_36,Lignite,0.0
+Aus_36,Waste,0.0

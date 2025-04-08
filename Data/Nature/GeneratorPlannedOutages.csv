@@ -1,0 +1,117 @@
+EventID;Generator;DayType;DayType;StartSubPeriod;EndSubPeriod
+Bugey Nuclear Power Plant France:Autumn_WD;Bugey Nuclear Power Plant France;Autumn_WD;1;96;1.0
+Civaux Nuclear Power Plant France:Autumn_WD;Civaux Nuclear Power Plant France;Autumn_WD;1;96;0.8923076923076920
+Ludus-Lernut (Mures) Power Station Romania:Autumn_WD;Ludus-Lernut (Mures) Power Station Romania;Autumn_WD;1;96;1.0
+Patnow II Coal Power Plant Poland:Autumn_WD;Patnow II Coal Power Plant Poland;Autumn_WD;1;96;0.6615384615384620
+Porcheville II Thermal Power Plant, France:Autumn_WD;Porcheville II Thermal Power Plant, France;Autumn_WD;1;96;1.0
+Tricastin Nuclear Power Plant France:Autumn_WD;Tricastin Nuclear Power Plant France;Autumn_WD;1;96;0.4307692307692310
+Turceni Coal Power Station Romania:Autumn_WD;Turceni Coal Power Station Romania;Autumn_WD;1;96;1.0
+Bugey Nuclear Power Plant France:Autumn_WE;Bugey Nuclear Power Plant France;Autumn_WE;1;96;1.0
+Civaux Nuclear Power Plant France:Autumn_WE;Civaux Nuclear Power Plant France;Autumn_WE;1;96;0.9615384615384620
+Ludus-Lernut (Mures) Power Station Romania:Autumn_WE;Ludus-Lernut (Mures) Power Station Romania;Autumn_WE;1;96;1.0
+Patnow II Coal Power Plant Poland:Autumn_WE;Patnow II Coal Power Plant Poland;Autumn_WE;1;96;0.7307692307692310
+Tricastin Nuclear Power Plant France:Autumn_WE;Tricastin Nuclear Power Plant France;Autumn_WE;1;96;0.46153846153846200
+Turceni Coal Power Station Romania:Autumn_WE;Turceni Coal Power Station Romania;Autumn_WE;1;96;1.0
+Ludus-Lernut (Mures) Power Station Romania:Spring_WD;Ludus-Lernut (Mures) Power Station Romania;Spring_WD;1;96;1.0
+Mintia-Deva Power Station Romania:Spring_WD;Mintia-Deva Power Station Romania;Spring_WD;1;96;1.0
+Porcheville II Thermal Power Plant, France:Spring_WD;Porcheville II Thermal Power Plant, France;Spring_WD;1;96;0.3333333333333330
+Turceni Coal Power Station Romania:Spring_WD;Turceni Coal Power Station Romania;Spring_WD;1;96;1.0
+Ludus-Lernut (Mures) Power Station Romania:Spring_WE;Ludus-Lernut (Mures) Power Station Romania;Spring_WE;1;96;1.0
+Mintia-Deva Power Station Romania:Spring_WE;Mintia-Deva Power Station Romania;Spring_WE;1;96;1.0
+Porcheville II Thermal Power Plant, France:Spring_WE;Porcheville II Thermal Power Plant, France;Spring_WE;1;96;0.38461538461538500
+Turceni Coal Power Station Romania:Spring_WE;Turceni Coal Power Station Romania;Spring_WE;1;96;1.0
+Bugey Nuclear Power Plant France:Summer_WD;Bugey Nuclear Power Plant France;Summer_WD;1;96;0.045454545454545500
+Ludus-Lernut (Mures) Power Station Romania:Summer_WD;Ludus-Lernut (Mures) Power Station Romania;Summer_WD;1;96;1.0
+Mintia-Deva Power Station Romania:Summer_WD;Mintia-Deva Power Station Romania;Summer_WD;1;96;0.3333333333333330
+Porcheville II Thermal Power Plant, France:Summer_WD;Porcheville II Thermal Power Plant, France;Summer_WD;1;96;1.0
+Turceni Coal Power Station Romania:Summer_WD;Turceni Coal Power Station Romania;Summer_WD;1;96;1.0
+Bugey Nuclear Power Plant France:Summer_WE;Bugey Nuclear Power Plant France;Summer_WE;1;96;0.07692307692307690
+Ludus-Lernut (Mures) Power Station Romania:Summer_WE;Ludus-Lernut (Mures) Power Station Romania;Summer_WE;1;96;1.0
+Mintia-Deva Power Station Romania:Summer_WE;Mintia-Deva Power Station Romania;Summer_WE;1;96;0.3076923076923080
+Porcheville II Thermal Power Plant, France:Summer_WE;Porcheville II Thermal Power Plant, France;Summer_WE;1;96;1.0
+Turceni Coal Power Station Romania:Summer_WE;Turceni Coal Power Station Romania;Summer_WE;1;96;1.0
+Adamow CHP Coal Power Plant Poland:Winter_WD;Adamow CHP Coal Power Plant Poland;Winter_WD;1;96;0.005291005291005290
+Amercoeur CCGT Power Plant Belgium:Winter_WD;Amercoeur CCGT Power Plant Belgium;Winter_WD;1;96;0.047619047619047600
+Belchatow Coal Power Plant Poland:Winter_WD;Belchatow Coal Power Plant Poland;Winter_WD;1;96;0.0035002035002035
+Bouchain Coal Power Plant, France:Winter_WD;Bouchain Coal Power Plant, France;Winter_WD;1;96;0.015873015873015900
+Bugey Nuclear Power Plant France:Winter_WD;Bugey Nuclear Power Plant France;Winter_WD;1;96;0.5079365079365080
+Civaux Nuclear Power Plant France:Winter_WD;Civaux Nuclear Power Plant France;Winter_WD;1;96;0.6666666666666670
+Combigolfe CCGT Power Plant France:Winter_WD;Combigolfe CCGT Power Plant France;Winter_WD;1;96;0.015873015873015900
+Cordemais Thermal Power Station France:Winter_WD;Cordemais Thermal Power Station France;Winter_WD;1;96;0.1746031746031750
+Dalkia Poznan Karolin CHP Power Plant Poland:Winter_WD;Dalkia Poznan Karolin CHP Power Plant Poland;Winter_WD;1;96;0.00481859410430839
+Diemen-34 CCGT CHP Power Plant Netherlands:Winter_WD;Diemen-34 CCGT CHP Power Plant Netherlands;Winter_WD;1;96;0.047619047619047600
+DK6 (Dunkerque) CCGT Gas Power Plant, France:Winter_WD;DK6 (Dunkerque) CCGT Gas Power Plant, France;Winter_WD;1;96;0.011063011063011100
+Drogenbos CCGT Power Plant Belgium:Winter_WD;Drogenbos CCGT Power Plant Belgium;Winter_WD;1;96;0.09523809523809520
+EdF Le Havre Coal Power Plant France:Winter_WD;EdF Le Havre Coal Power Plant France;Winter_WD;1;96;0.004926108374384240
+Eemshaven USC Coal Power Plant Netherlands:Winter_WD;Eemshaven USC Coal Power Plant Netherlands;Winter_WD;1;96;0.0032147880249146100
+Gravelines Nuclear Power Plant France:Winter_WD;Gravelines Nuclear Power Plant France;Winter_WD;1;96;0.25396825396825400
+Hemweg 9 CCGT CHP Power Plant Netherlands:Winter_WD;Hemweg 9 CCGT CHP Power Plant Netherlands;Winter_WD;1;96;0.015873015873015900
+Hemweg-8 Coal Power Plant Netherlands:Winter_WD;Hemweg-8 Coal Power Plant Netherlands;Winter_WD;1;96;0.031746031746031700
+Isalnita Coal Power Plant Romania:Winter_WD;Isalnita Coal Power Plant Romania;Winter_WD;1;96;0.14285714285714300
+Jaworzno III CHP Coal Power Plant Poland:Winter_WD;Jaworzno III CHP Coal Power Plant Poland;Winter_WD;1;96;0.015873015873015900
+Kozienice Coal Power Plant Poland 1:Winter_WD;Kozienice Coal Power Plant Poland 1;Winter_WD;1;96;0.015873015873015900
+Kozienice Coal Power Plant Poland 2:Winter_WD;Kozienice Coal Power Plant Poland 2;Winter_WD;1;96;0.1746031746031750
+Krakow CHP Coal Power Plant Polandów Łęg:Winter_WD;Krakow CHP Coal Power Plant Polandów Łęg;Winter_WD;1;96;0.015873015873015900
+Maasvlakte 1-2 Coal Power Plant Netherlands:Winter_WD;Maasvlakte 1-2 Coal Power Plant Netherlands;Winter_WD;1;96;0.07936507936507940
+Martigues Combustion Oil Power Plant, France:Winter_WD;Martigues Combustion Oil Power Plant, France;Winter_WD;1;96;0.07936507936507940
+Mintia-Deva Power Station Romania:Winter_WD;Mintia-Deva Power Station Romania;Winter_WD;1;96;0.6666666666666670
+Opole Coal Power Plant Poland:Winter_WD;Opole Coal Power Plant Poland;Winter_WD;1;96;0.00841311285175515
+Ostroleka B Coal Power Plant Poland:Winter_WD;Ostroleka B Coal Power Plant Poland;Winter_WD;1;96;0.0043812396753573200
+Paluel Nuclear Power Plant France:Winter_WD;Paluel Nuclear Power Plant France;Winter_WD;1;96;0.0013128058240840200
+Patnow Coal Power Plant Poland:Winter_WD;Patnow Coal Power Plant Poland;Winter_WD;1;96;0.015873015873015900
+Patnow II Coal Power Plant Poland:Winter_WD;Patnow II Coal Power Plant Poland;Winter_WD;1;96;0.36507936507936500
+Polaniec Coal Power Plant Poland:Winter_WD;Polaniec Coal Power Plant Poland;Winter_WD;1;96;0.31746031746031700
+Porcheville II Thermal Power Plant, France:Winter_WD;Porcheville II Thermal Power Plant, France;Winter_WD;1;96;0.5238095238095240
+Provence Coal Power Station France:Winter_WD;Provence Coal Power Station France;Winter_WD;1;96;0.031746031746031700
+Rybnik Coal Power Plant Poland:Winter_WD;Rybnik Coal Power Plant Poland;Winter_WD;1;96;0.047619047619047600
+Siekierki CHP Coal Power Plant Poland:Winter_WD;Siekierki CHP Coal Power Plant Poland;Winter_WD;1;96;0.047619047619047600
+Swentibold CHP Power Plant Netherlands:Winter_WD;Swentibold CHP Power Plant Netherlands;Winter_WD;1;96;0.030378977747398800
+Tricastin Nuclear Power Plant France:Winter_WD;Tricastin Nuclear Power Plant France;Winter_WD;1;96;0.5873015873015870
+Turow CHP Coal Power Plant Poland:Winter_WD;Turow CHP Coal Power Plant Poland;Winter_WD;1;96;0.09523809523809520
+Velsen Power Plant Netherlands:Winter_WD;Velsen Power Plant Netherlands;Winter_WD;1;96;0.004988662131519270
+Wroclaw CHP Power Plant Poland:Winter_WD;Wroclaw CHP Power Plant Poland;Winter_WD;1;96;0.015873015873015900
+Zielona Gora CCGT Power Plant Poland:Winter_WD;Zielona Gora CCGT Power Plant Poland;Winter_WD;1;96;0.015873015873015900
+Adamow CHP Coal Power Plant Poland:Winter_WE;Adamow CHP Coal Power Plant Poland;Winter_WE;1;96;0.02469135802469140
+Amercoeur CCGT Power Plant Belgium:Winter_WE;Amercoeur CCGT Power Plant Belgium;Winter_WE;1;96;0.07407407407407410
+Belchatow Coal Power Plant Poland:Winter_WE;Belchatow Coal Power Plant Poland;Winter_WE;1;96;0.0037986704653371300
+Belleville Nuclear Power Plant France:Winter_WE;Belleville Nuclear Power Plant France;Winter_WE;1;96;0.01724625388747530
+Bouchain Coal Power Plant, France:Winter_WE;Bouchain Coal Power Plant, France;Winter_WE;1;96;0.037037037037037000
+Bugey Nuclear Power Plant France:Winter_WE;Bugey Nuclear Power Plant France;Winter_WE;1;96;0.48148148148148100
+Civaux Nuclear Power Plant France:Winter_WE;Civaux Nuclear Power Plant France;Winter_WE;1;96;0.5925925925925930
+Cordemais Thermal Power Station France:Winter_WE;Cordemais Thermal Power Station France;Winter_WE;1;96;0.14814814814814800
+Cruas Nuclear Power Plant France:Winter_WE;Cruas Nuclear Power Plant France;Winter_WE;1;96;0.01639344262295080
+Dalkia Poznan Karolin CHP Power Plant Poland:Winter_WE;Dalkia Poznan Karolin CHP Power Plant Poland;Winter_WE;1;96;0.005621693121693120
+Dampierre Nuclear Power Plant France:Winter_WE;Dampierre Nuclear Power Plant France;Winter_WE;1;96;0.03162713275072830
+Diemen-34 CCGT CHP Power Plant Netherlands:Winter_WE;Diemen-34 CCGT CHP Power Plant Netherlands;Winter_WE;1;96;0.07407407407407410
+Dolna Odra CHP Coal Power Plant Poland:Winter_WE;Dolna Odra CHP Coal Power Plant Poland;Winter_WE;1;96;0.07407407407407410
+Drogenbos CCGT Power Plant Belgium:Winter_WE;Drogenbos CCGT Power Plant Belgium;Winter_WE;1;96;0.1111111111111110
+Eemshaven USC Coal Power Plant Netherlands:Winter_WE;Eemshaven USC Coal Power Plant Netherlands;Winter_WE;1;96;0.07407407407407410
+Gravelines Nuclear Power Plant France:Winter_WE;Gravelines Nuclear Power Plant France;Winter_WE;1;96;0.2962962962962960
+Hemweg 9 CCGT CHP Power Plant Netherlands:Winter_WE;Hemweg 9 CCGT CHP Power Plant Netherlands;Winter_WE;1;96;0.07407407407407410
+Hemweg-8 Coal Power Plant Netherlands:Winter_WE;Hemweg-8 Coal Power Plant Netherlands;Winter_WE;1;96;0.022792022792022800
+Isalnita Coal Power Plant Romania:Winter_WE;Isalnita Coal Power Plant Romania;Winter_WE;1;96;0.14814814814814800
+Jaworzno III CHP Coal Power Plant Poland:Winter_WE;Jaworzno III CHP Coal Power Plant Poland;Winter_WE;1;96;0.07407407407407410
+Kozienice Coal Power Plant Poland 1:Winter_WE;Kozienice Coal Power Plant Poland 1;Winter_WE;1;96;0.07407407407407410
+Kozienice Coal Power Plant Poland 2:Winter_WE;Kozienice Coal Power Plant Poland 2;Winter_WE;1;96;0.14814814814814800
+Krakow CHP Coal Power Plant Polandów Łęg:Winter_WE;Krakow CHP Coal Power Plant Polandów Łęg;Winter_WE;1;96;0.07407407407407410
+Laziska CHP Coal Power Plant Polan:Winter_WE;Laziska CHP Coal Power Plant Polan;Winter_WE;1;96;0.037037037037037000
+Ludus-Lernut (Mures) Power Station Romania:Winter_WE;Ludus-Lernut (Mures) Power Station Romania;Winter_WE;1;96;1.0
+Maasvlakte 1-2 Coal Power Plant Netherlands:Winter_WE;Maasvlakte 1-2 Coal Power Plant Netherlands;Winter_WE;1;96;0.037037037037037000
+Maasvlakte Electrabel Coal Power Plant Netherlands:Winter_WE;Maasvlakte Electrabel Coal Power Plant Netherlands;Winter_WE;1;96;0.07407407407407410
+Maasvlakte UCML CHP Power Plant Netherlands:Winter_WE;Maasvlakte UCML CHP Power Plant Netherlands;Winter_WE;1;96;0.021114572516441700
+Martigues Combustion Oil Power Plant, France:Winter_WE;Martigues Combustion Oil Power Plant, France;Winter_WE;1;96;0.14814814814814800
+Mintia-Deva Power Station Romania:Winter_WE;Mintia-Deva Power Station Romania;Winter_WE;1;96;0.6296296296296300
+Opole Coal Power Plant Poland:Winter_WE;Opole Coal Power Plant Poland;Winter_WE;1;96;0.037037037037037000
+Ostroleka B Coal Power Plant Poland:Winter_WE;Ostroleka B Coal Power Plant Poland;Winter_WE;1;96;0.037037037037037000
+Paluel Nuclear Power Plant France:Winter_WE;Paluel Nuclear Power Plant France;Winter_WE;1;96;0.002923976608187140
+Patnow Coal Power Plant Poland:Winter_WE;Patnow Coal Power Plant Poland;Winter_WE;1;96;0.07407407407407410
+Patnow II Coal Power Plant Poland:Winter_WE;Patnow II Coal Power Plant Poland;Winter_WE;1;96;0.37037037037037000
+Polaniec Coal Power Plant Poland:Winter_WE;Polaniec Coal Power Plant Poland;Winter_WE;1;96;0.3333333333333330
+Porcheville II Thermal Power Plant, France:Winter_WE;Porcheville II Thermal Power Plant, France;Winter_WE;1;96;0.5185185185185190
+Rybnik Coal Power Plant Poland:Winter_WE;Rybnik Coal Power Plant Poland;Winter_WE;1;96;0.07407407407407410
+Saint-Alban Nuclear Power Plant France:Winter_WE;Saint-Alban Nuclear Power Plant France;Winter_WE;1;96;0.01622971285892630
+Siekierki CHP Coal Power Plant Poland:Winter_WE;Siekierki CHP Coal Power Plant Poland;Winter_WE;1;96;0.037037037037037000
+Tauron Siersza Power Plant Poland:Winter_WE;Tauron Siersza Power Plant Poland;Winter_WE;1;96;0.07407407407407410
+Tricastin Nuclear Power Plant France:Winter_WE;Tricastin Nuclear Power Plant France;Winter_WE;1;96;0.5555555555555560
+Turow CHP Coal Power Plant Poland:Winter_WE;Turow CHP Coal Power Plant Poland;Winter_WE;1;96;0.14814814814814800
+Wroclaw CHP Power Plant Poland:Winter_WE;Wroclaw CHP Power Plant Poland;Winter_WE;1;96;0.07407407407407410
