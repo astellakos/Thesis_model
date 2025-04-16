@@ -4,6 +4,7 @@
 
 println("Starting full script timer...")
 @time global_start_time = time()
+model_start_time = time()
 
 const PATH_global = "/Users/alexiostellakos/Desktop/Thesis_model_V2_copy/"      
 
@@ -38,7 +39,16 @@ const CO2PRICE = 6.2327
 const T_hour = 24
 const T_15 = 96
 const VOLL = 3000
-const target_countries = ["Croatia","Austria","Slovenia"]#,"Hungary","Romania","Slovakia","Czech","Switzerland"#,"Denmark","Poland","Luxemburg","Germany","Netherland","France","Belgium"]
+const target_countries = ["Belgium","France"]
+# ISO country codes για ασφαλή naming
+const ISO_CODES = Dict("Germany" => "DE", "Austria" => "AT", "Belgium" => "BE", "France" => "FR", "Netherlands" => "NL", "Netherland" => "NL", "Luxembourg" => "LU", "Luxemburg" => "LU", "Denmark" => "DK", "Poland" => "PL", "Switzerland" => "CH", "Czech" => "CZ", "Slovakia" => "SK", "Slovenia" => "SI", "Hungary" => "HU", "Croatia" => "HR", "Romania" => "RO")
+
+# Δημιουργία path βάσει χωρών
+country_tag = join([get(ISO_CODES, c, c[1:min(end, 3)]) for c in target_countries], "_")
+results_alt_path = joinpath("/Users/alexiostellakos/Desktop/Cases", country_tag)
+if !isdir(results_alt_path)
+    mkpath(results_alt_path)
+end
 all_buses = CSV.read(joinpath(PATH_data, "Buses.csv"), DataFrame)
 all_lines = CSV.read(joinpath(PATH_data, "Lines.csv"), DataFrame)
 filtered_buses = filter(row -> row.Country ∈ target_countries, all_buses)
@@ -74,11 +84,7 @@ const generators_id_per_zone, generators_id = get_generators_id(generators, gene
 const PTDF_data , PTDF_df = load_ptdf_data(PATH_data, Ref_hub)
 
 include("flow_calculator.jl")
-
-#=println(generators_id_per_zone["conventional"]["Cro_17"])
-println(generators_id_per_zone["renewable"]["Cro_17"])
-println(generators_id_per_zone["conventional"]["Cro_11"])
-println(generators_id_per_zone["renewable"]["Cro_11"])=#
+include("track_memory.jl")  # για να φορτωθούν οι συναρτήσεις
 
 ############################################
 #### Create models 
@@ -90,17 +96,17 @@ eno_model = define_solver(solver_name, gurobi_env)
 attach_energy_only_clearing_model!(eno_model, day_type)
 attach_PTDF_model!(eno_model, PTDF_data::Dict)
 
-eno_lp_model = define_solver(solver_name, gurobi_env)
+#=eno_lp_model = define_solver(solver_name, gurobi_env)
 attach_energy_only_clearing_model!(eno_lp_model, day_type)
 attach_PTDF_model!(eno_lp_model, PTDF_data::Dict)
 get_lp_model(eno_lp_model) 
 
-unfix_model(eno_lp_model)
+unfix_model(eno_lp_model)=#
 set_up_loads!(eno_model, day_type)
-set_up_loads!(eno_lp_model, day_type)
+#set_up_loads!(eno_lp_model, day_type)
 
 set_up_renewables!(eno_model,  day_type, "average")
-set_up_renewables!(eno_lp_model,  day_type, "average")
+#set_up_renewables!(eno_lp_model,  day_type, "average")
 
 # Set up planned outage / Ignore for now 
 #set_up_planned_outages!(eno_model, day_type)
@@ -114,44 +120,58 @@ println("Solving eno_model...")
 @time optimize!(eno_model)
 println("Termination status: ", termination_status(eno_model))
 println("Objective value: ", objective_value(eno_model))
+model_solve_time = time() - model_start_time
 println("Variables in eno_model: ", num_variables(eno_model))
 println("Constraints in eno_model: ", num_constraints(eno_model; count_variable_in_set_constraints=true))
 
-#=println(dual.(eno_model[:load_balance_constraint])["Ger_27", 75])
-println(dual.(eno_model[:load_balance_constraint])["Ger_10", 75])=#
-#=for time in 1:T_hour
-    for t in ((time - 1) * 4 + 1):(time * 4) 
-        println(value(eno_model[:p_re]["Cro_11", t]))
-    end
-    readline()
-end
-exit()=#
-
-fix_model(eno_model, eno_lp_model)
+#=fix_model(eno_model, eno_lp_model)
 
 println("Solving eno_lp_model...")
 @time optimize!(eno_lp_model)
 println("Variables in eno_lp_model: ", num_variables(eno_lp_model))
 println("Constraints in eno_lp_model: ", num_constraints(eno_lp_model; count_variable_in_set_constraints=true))
 
-println("Solution completed")
+println("Solution completed")=#
 
 #Store output
 
-output=get_outputs_df(eno_model, eno_lp_model) 
+output = get_outputs_df(eno_model, nothing)
 
 results_path = "/Users/alexiostellakos/Desktop/Thesis_model_V2_copy/results/"
 
-for (key, value) in output
-    filename = joinpath(results_path, "$key.csv")
-    CSV.write(filename, value)
-    println("Saved DataFrame under key '$key' to file '$filename'")
+try
+    for (key, value) in output
+        filename_main = joinpath(results_path, "$key.csv")
+        filename_alt = joinpath(results_alt_path, "$key.csv")
+        CSV.write(filename_main, value)
+        CSV.write(filename_alt, value)
+    end
+catch e
+    println("❌ Σφάλμα κατά την αποθήκευση κάποιων .csv αρχείων: $e")
 end
 
 include("flow_calculator.jl")
-calculate_and_save_flows(PTDF_df,Lines,eno_model,"/Users/alexiostellakos/Desktop/Thesis_model_V2_copy/results")
+calculate_and_save_flows(PTDF_df, Lines, eno_model, results_path; verbose=true)
+calculate_and_save_flows(PTDF_df, Lines, eno_model, results_alt_path; verbose=false)
 
 include("Plots.jl")
+
+energy_price = CSV.read(joinpath(PATH_global, "results/energy_price.csv"), DataFrame)
+line_flows = CSV.read(joinpath(PATH_global, "results/line_flows.csv"), DataFrame)
+plot_nodal_maps(eno_model, line_flows, energy_price, Ref_hub)  # default
+plot_nodal_maps(eno_model, line_flows, energy_price, Ref_hub, results_alt_path)  # νέα αποθήκευση
+
+# Copy viewer.html στον νέο φάκελο (αν υπάρχει το αρχείο στην τρέχουσα διαδρομή)
+viewer_src = joinpath(PATH_global, "results", "viewer.html")
+viewer_dst = joinpath(results_alt_path, "viewer.html")
+if isfile(viewer_src)
+    cp(viewer_src, viewer_dst; force=true)
+else
+    println("⚠️ Δεν βρέθηκε το viewer.html στο $viewer_src")
+end
+
+plot_energy_price(joinpath(PATH_global, "results/energy_price.csv"))
+plot_energy_price(joinpath(PATH_global, "results/energy_price.csv"), results_alt_path)
 
 ############################################
 #### Τελικός χρόνος
@@ -159,4 +179,13 @@ include("Plots.jl")
 
 println("--- SCRIPT FINISHED ---")
 total_time = time() - global_start_time
-println("Total execution time: $(round(total_time, digits=3)) seconds") 
+log_run_metrics(eno_model, day_type, target_countries, model_solve_time, total_time) 
+println("✅ Το μοντέλο εκτελέστηκε και αποθηκεύτηκε επιτυχώς:")
+println(" → CSV και flows: $results_path & $results_alt_path")
+println(" → Plots: $results_path/nodal_maps_t & $results_alt_path/nodal_maps_t")
+println("Model solve time: $(round(model_solve_time, digits=3)) seconds")
+println("Total execution time: $(round(total_time, digits=3)) seconds")
+
+# RAM tracking
+mem_usage_MB = get_max_memory_usage_MB()
+println("Μέγιστη RAM που χρησιμοποιήθηκε: $mem_usage_MB MB")

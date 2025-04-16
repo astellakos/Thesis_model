@@ -1,355 +1,2047 @@
 zone,fuel,cost
-Slv_2,Natural Gas,0.0
-Slv_2,Coal,0.0
-Slv_2,Fuel Oil,0.0
-Slv_2,Nuclear,0.0
-Slv_2,Lignite,0.0
-Slv_2,Waste,0.0
-Slv_3,Natural Gas,0.0
-Slv_3,Coal,0.0
-Slv_3,Fuel Oil,0.0
-Slv_3,Nuclear,0.0
-Slv_3,Lignite,256363.366612204
-Slv_3,Waste,0.0
-Slv_4,Natural Gas,0.0
-Slv_4,Coal,0.0
-Slv_4,Fuel Oil,0.0
-Slv_4,Nuclear,0.0
-Slv_4,Lignite,0.0
-Slv_4,Waste,0.0
-Slv_5,Natural Gas,0.0
-Slv_5,Coal,106203.73075974175
-Slv_5,Fuel Oil,0.0
-Slv_5,Nuclear,0.0
-Slv_5,Lignite,0.0
-Slv_5,Waste,0.0
-Slv_6,Natural Gas,80764.02535454484
-Slv_6,Coal,0.0
-Slv_6,Fuel Oil,0.0
-Slv_6,Nuclear,181437.55094217797
-Slv_6,Lignite,0.0
-Slv_6,Waste,0.0
-Slv_7,Natural Gas,0.0
-Slv_7,Coal,0.0
-Slv_7,Fuel Oil,0.0
-Slv_7,Nuclear,0.0
-Slv_7,Lignite,0.0
-Slv_7,Waste,0.0
-Cro_1,Natural Gas,0.0
-Cro_1,Coal,0.0
-Cro_1,Fuel Oil,0.0
-Cro_1,Nuclear,0.0
-Cro_1,Lignite,0.0
-Cro_1,Waste,0.0
-Cro_2,Natural Gas,0.0
-Cro_2,Coal,0.0
-Cro_2,Fuel Oil,0.0
-Cro_2,Nuclear,0.0
-Cro_2,Lignite,0.0
-Cro_2,Waste,0.0
-Cro_3,Natural Gas,0.0
-Cro_3,Coal,0.0
-Cro_3,Fuel Oil,0.0
-Cro_3,Nuclear,0.0
-Cro_3,Lignite,0.0
-Cro_3,Waste,0.0
-Cro_4,Natural Gas,0.0
-Cro_4,Coal,0.0
-Cro_4,Fuel Oil,0.0
-Cro_4,Nuclear,0.0
-Cro_4,Lignite,0.0
-Cro_4,Waste,0.0
-Cro_5,Natural Gas,0.0
-Cro_5,Coal,0.0
-Cro_5,Fuel Oil,0.0
-Cro_5,Nuclear,0.0
-Cro_5,Lignite,0.0
-Cro_5,Waste,0.0
-Cro_6,Natural Gas,0.0
-Cro_6,Coal,0.0
-Cro_6,Fuel Oil,0.0
-Cro_6,Nuclear,0.0
-Cro_6,Lignite,0.0
-Cro_6,Waste,0.0
-Cro_7,Natural Gas,0.0
-Cro_7,Coal,0.0
-Cro_7,Fuel Oil,0.0
-Cro_7,Nuclear,0.0
-Cro_7,Lignite,0.0
-Cro_7,Waste,0.0
-Cro_8,Natural Gas,0.0
-Cro_8,Coal,0.0
-Cro_8,Fuel Oil,0.0
-Cro_8,Nuclear,0.0
-Cro_8,Lignite,0.0
-Cro_8,Waste,0.0
-Cro_9,Natural Gas,59041.89489884013
-Cro_9,Coal,0.0
-Cro_9,Fuel Oil,649358.7194532212
-Cro_9,Nuclear,0.0
-Cro_9,Lignite,0.0
-Cro_9,Waste,0.0
-Cro_10,Natural Gas,113917.90444886903
-Cro_10,Coal,0.0
-Cro_10,Fuel Oil,0.0
-Cro_10,Nuclear,0.0
-Cro_10,Lignite,0.0
-Cro_10,Waste,0.0
-Cro_11,Natural Gas,78641.76826848714
-Cro_11,Coal,0.0
-Cro_11,Fuel Oil,0.0
-Cro_11,Nuclear,0.0
-Cro_11,Lignite,0.0
-Cro_11,Waste,0.0
-Cro_12,Natural Gas,97886.765380701
-Cro_12,Coal,0.0
-Cro_12,Fuel Oil,0.0
-Cro_12,Nuclear,0.0
-Cro_12,Lignite,0.0
-Cro_12,Waste,0.0
-Cro_13,Natural Gas,0.0
-Cro_13,Coal,0.0
-Cro_13,Fuel Oil,0.0
-Cro_13,Nuclear,0.0
-Cro_13,Lignite,0.0
-Cro_13,Waste,0.0
-Cro_14,Natural Gas,0.0
-Cro_14,Coal,0.0
-Cro_14,Fuel Oil,0.0
-Cro_14,Nuclear,0.0
-Cro_14,Lignite,0.0
-Cro_14,Waste,0.0
-Cro_15,Natural Gas,0.0
-Cro_15,Coal,199520.49489165732
-Cro_15,Fuel Oil,0.0
-Cro_15,Nuclear,0.0
-Cro_15,Lignite,0.0
-Cro_15,Waste,0.0
-Cro_16,Natural Gas,0.0
-Cro_16,Coal,0.0
-Cro_16,Fuel Oil,0.0
-Cro_16,Nuclear,0.0
-Cro_16,Lignite,0.0
-Cro_16,Waste,0.0
-Cro_18,Natural Gas,0.0
-Cro_18,Coal,0.0
-Cro_18,Fuel Oil,0.0
-Cro_18,Nuclear,0.0
-Cro_18,Lignite,0.0
-Cro_18,Waste,0.0
-Aus_1,Natural Gas,0.0
-Aus_1,Coal,0.0
-Aus_1,Fuel Oil,0.0
-Aus_1,Nuclear,0.0
-Aus_1,Lignite,0.0
-Aus_1,Waste,0.0
-Aus_2,Natural Gas,0.0
-Aus_2,Coal,0.0
-Aus_2,Fuel Oil,0.0
-Aus_2,Nuclear,0.0
-Aus_2,Lignite,0.0
-Aus_2,Waste,0.0
-Aus_3,Natural Gas,0.0
-Aus_3,Coal,0.0
-Aus_3,Fuel Oil,0.0
-Aus_3,Nuclear,0.0
-Aus_3,Lignite,0.0
-Aus_3,Waste,0.0
-Aus_4,Natural Gas,66219.53108090657
-Aus_4,Coal,0.0
-Aus_4,Fuel Oil,0.0
-Aus_4,Nuclear,0.0
-Aus_4,Lignite,0.0
-Aus_4,Waste,0.0
-Aus_5,Natural Gas,819542.4071258091
-Aus_5,Coal,0.0
-Aus_5,Fuel Oil,0.0
-Aus_5,Nuclear,0.0
-Aus_5,Lignite,0.0
-Aus_5,Waste,0.0
-Aus_6,Natural Gas,0.0
-Aus_6,Coal,0.0
-Aus_6,Fuel Oil,0.0
-Aus_6,Nuclear,0.0
-Aus_6,Lignite,0.0
-Aus_6,Waste,0.0
-Aus_7,Natural Gas,74297.0096755676
-Aus_7,Coal,0.0
-Aus_7,Fuel Oil,0.0
-Aus_7,Nuclear,0.0
-Aus_7,Lignite,0.0
-Aus_7,Waste,0.0
-Aus_8,Natural Gas,0.0
-Aus_8,Coal,0.0
-Aus_8,Fuel Oil,0.0
-Aus_8,Nuclear,0.0
-Aus_8,Lignite,0.0
-Aus_8,Waste,0.0
-Aus_9,Natural Gas,0.0
-Aus_9,Coal,0.0
-Aus_9,Fuel Oil,0.0
-Aus_9,Nuclear,0.0
-Aus_9,Lignite,0.0
-Aus_9,Waste,0.0
-Aus_10,Natural Gas,349674.9673566685
-Aus_10,Coal,0.0
-Aus_10,Fuel Oil,0.0
-Aus_10,Nuclear,0.0
-Aus_10,Lignite,0.0
-Aus_10,Waste,0.0
-Aus_11,Natural Gas,75124.11551838831
-Aus_11,Coal,0.0
-Aus_11,Fuel Oil,0.0
-Aus_11,Nuclear,0.0
-Aus_11,Lignite,0.0
-Aus_11,Waste,0.0
-Aus_12,Natural Gas,0.0
-Aus_12,Coal,0.0
-Aus_12,Fuel Oil,0.0
-Aus_12,Nuclear,0.0
-Aus_12,Lignite,0.0
-Aus_12,Waste,0.0
-Aus_13,Natural Gas,285528.65369103034
-Aus_13,Coal,0.0
-Aus_13,Fuel Oil,0.0
-Aus_13,Nuclear,0.0
-Aus_13,Lignite,0.0
-Aus_13,Waste,0.0
-Aus_14,Natural Gas,0.0
-Aus_14,Coal,0.0
-Aus_14,Fuel Oil,0.0
-Aus_14,Nuclear,0.0
-Aus_14,Lignite,0.0
-Aus_14,Waste,0.0
-Aus_15,Natural Gas,0.0
-Aus_15,Coal,669248.9188543011
-Aus_15,Fuel Oil,0.0
-Aus_15,Nuclear,0.0
-Aus_15,Lignite,0.0
-Aus_15,Waste,0.0
-Aus_16,Natural Gas,0.0
-Aus_16,Coal,0.0
-Aus_16,Fuel Oil,0.0
-Aus_16,Nuclear,0.0
-Aus_16,Lignite,0.0
-Aus_16,Waste,0.0
-Aus_17,Natural Gas,0.0
-Aus_17,Coal,0.0
-Aus_17,Fuel Oil,0.0
-Aus_17,Nuclear,0.0
-Aus_17,Lignite,0.0
-Aus_17,Waste,0.0
-Aus_18,Natural Gas,334429.82568289555
-Aus_18,Coal,123003.86703882561
-Aus_18,Fuel Oil,247553.43710791846
-Aus_18,Nuclear,0.0
-Aus_18,Lignite,0.0
-Aus_18,Waste,0.0
-Aus_19,Natural Gas,90670.68475743143
-Aus_19,Coal,0.0
-Aus_19,Fuel Oil,0.0
-Aus_19,Nuclear,0.0
-Aus_19,Lignite,0.0
-Aus_19,Waste,0.0
-Aus_20,Natural Gas,0.0
-Aus_20,Coal,0.0
-Aus_20,Fuel Oil,0.0
-Aus_20,Nuclear,0.0
-Aus_20,Lignite,0.0
-Aus_20,Waste,0.0
-Aus_21,Natural Gas,0.0
-Aus_21,Coal,0.0
-Aus_21,Fuel Oil,0.0
-Aus_21,Nuclear,0.0
-Aus_21,Lignite,0.0
-Aus_21,Waste,0.0
-Aus_22,Natural Gas,0.0
-Aus_22,Coal,0.0
-Aus_22,Fuel Oil,0.0
-Aus_22,Nuclear,0.0
-Aus_22,Lignite,0.0
-Aus_22,Waste,0.0
-Aus_23,Natural Gas,0.0
-Aus_23,Coal,0.0
-Aus_23,Fuel Oil,0.0
-Aus_23,Nuclear,0.0
-Aus_23,Lignite,0.0
-Aus_23,Waste,0.0
-Aus_24,Natural Gas,0.0
-Aus_24,Coal,0.0
-Aus_24,Fuel Oil,0.0
-Aus_24,Nuclear,0.0
-Aus_24,Lignite,0.0
-Aus_24,Waste,0.0
-Aus_25,Natural Gas,0.0
-Aus_25,Coal,0.0
-Aus_25,Fuel Oil,0.0
-Aus_25,Nuclear,0.0
-Aus_25,Lignite,0.0
-Aus_25,Waste,0.0
-Aus_26,Natural Gas,0.0
-Aus_26,Coal,0.0
-Aus_26,Fuel Oil,0.0
-Aus_26,Nuclear,0.0
-Aus_26,Lignite,0.0
-Aus_26,Waste,0.0
-Aus_27,Natural Gas,30568.917489548538
-Aus_27,Coal,0.0
-Aus_27,Fuel Oil,0.0
-Aus_27,Nuclear,0.0
-Aus_27,Lignite,0.0
-Aus_27,Waste,0.0
-Aus_28,Natural Gas,0.0
-Aus_28,Coal,0.0
-Aus_28,Fuel Oil,0.0
-Aus_28,Nuclear,0.0
-Aus_28,Lignite,0.0
-Aus_28,Waste,0.0
-Aus_29,Natural Gas,0.0
-Aus_29,Coal,0.0
-Aus_29,Fuel Oil,0.0
-Aus_29,Nuclear,0.0
-Aus_29,Lignite,0.0
-Aus_29,Waste,0.0
-Aus_30,Natural Gas,0.0
-Aus_30,Coal,0.0
-Aus_30,Fuel Oil,0.0
-Aus_30,Nuclear,0.0
-Aus_30,Lignite,0.0
-Aus_30,Waste,0.0
-Aus_31,Natural Gas,0.0
-Aus_31,Coal,0.0
-Aus_31,Fuel Oil,0.0
-Aus_31,Nuclear,0.0
-Aus_31,Lignite,0.0
-Aus_31,Waste,0.0
-Aus_32,Natural Gas,740464.2152663041
-Aus_32,Coal,0.0
-Aus_32,Fuel Oil,0.0
-Aus_32,Nuclear,0.0
-Aus_32,Lignite,0.0
-Aus_32,Waste,0.0
-Aus_33,Natural Gas,0.0
-Aus_33,Coal,0.0
-Aus_33,Fuel Oil,0.0
-Aus_33,Nuclear,0.0
-Aus_33,Lignite,0.0
-Aus_33,Waste,0.0
-Aus_34,Natural Gas,0.0
-Aus_34,Coal,0.0
-Aus_34,Fuel Oil,0.0
-Aus_34,Nuclear,0.0
-Aus_34,Lignite,0.0
-Aus_34,Waste,0.0
-Aus_35,Natural Gas,0.0
-Aus_35,Coal,0.0
-Aus_35,Fuel Oil,0.0
-Aus_35,Nuclear,0.0
-Aus_35,Lignite,0.0
-Aus_35,Waste,0.0
-Aus_36,Natural Gas,0.0
-Aus_36,Coal,0.0
-Aus_36,Fuel Oil,0.0
-Aus_36,Nuclear,0.0
-Aus_36,Lignite,0.0
-Aus_36,Waste,0.0
+Fra_2,Natural Gas,0.0
+Fra_2,Coal,0.0
+Fra_2,Fuel Oil,0.0
+Fra_2,Nuclear,0.0
+Fra_2,Lignite,0.0
+Fra_2,Waste,0.0
+Fra_3,Natural Gas,0.0
+Fra_3,Coal,0.0
+Fra_3,Fuel Oil,0.0
+Fra_3,Nuclear,0.0
+Fra_3,Lignite,0.0
+Fra_3,Waste,0.0
+Fra_4,Natural Gas,0.0
+Fra_4,Coal,0.0
+Fra_4,Fuel Oil,0.0
+Fra_4,Nuclear,0.0
+Fra_4,Lignite,0.0
+Fra_4,Waste,0.0
+Fra_5,Natural Gas,0.0
+Fra_5,Coal,0.0
+Fra_5,Fuel Oil,0.0
+Fra_5,Nuclear,0.0
+Fra_5,Lignite,0.0
+Fra_5,Waste,0.0
+Fra_6,Natural Gas,0.0
+Fra_6,Coal,0.0
+Fra_6,Fuel Oil,0.0
+Fra_6,Nuclear,0.0
+Fra_6,Lignite,0.0
+Fra_6,Waste,0.0
+Fra_7,Natural Gas,0.0
+Fra_7,Coal,0.0
+Fra_7,Fuel Oil,0.0
+Fra_7,Nuclear,0.0
+Fra_7,Lignite,0.0
+Fra_7,Waste,0.0
+Fra_8,Natural Gas,0.0
+Fra_8,Coal,0.0
+Fra_8,Fuel Oil,0.0
+Fra_8,Nuclear,0.0
+Fra_8,Lignite,0.0
+Fra_8,Waste,0.0
+Fra_9,Natural Gas,0.0
+Fra_9,Coal,0.0
+Fra_9,Fuel Oil,0.0
+Fra_9,Nuclear,0.0
+Fra_9,Lignite,0.0
+Fra_9,Waste,0.0
+Fra_10,Natural Gas,0.0
+Fra_10,Coal,0.0
+Fra_10,Fuel Oil,0.0
+Fra_10,Nuclear,0.0
+Fra_10,Lignite,0.0
+Fra_10,Waste,0.0
+Fra_11,Natural Gas,59519.064396135
+Fra_11,Coal,273454.6935056717
+Fra_11,Fuel Oil,0.0
+Fra_11,Nuclear,0.0
+Fra_11,Lignite,0.0
+Fra_11,Waste,0.0
+Fra_12,Natural Gas,0.0
+Fra_12,Coal,0.0
+Fra_12,Fuel Oil,0.0
+Fra_12,Nuclear,0.0
+Fra_12,Lignite,0.0
+Fra_12,Waste,0.0
+Fra_13,Natural Gas,104569.18877069955
+Fra_13,Coal,0.0
+Fra_13,Fuel Oil,0.0
+Fra_13,Nuclear,0.0
+Fra_13,Lignite,0.0
+Fra_13,Waste,0.0
+Fra_14,Natural Gas,0.0
+Fra_14,Coal,0.0
+Fra_14,Fuel Oil,0.0
+Fra_14,Nuclear,0.0
+Fra_14,Lignite,0.0
+Fra_14,Waste,0.0
+Fra_15,Natural Gas,0.0
+Fra_15,Coal,0.0
+Fra_15,Fuel Oil,0.0
+Fra_15,Nuclear,0.0
+Fra_15,Lignite,0.0
+Fra_15,Waste,0.0
+Fra_16,Natural Gas,0.0
+Fra_16,Coal,0.0
+Fra_16,Fuel Oil,0.0
+Fra_16,Nuclear,0.0
+Fra_16,Lignite,0.0
+Fra_16,Waste,0.0
+Fra_17,Natural Gas,0.0
+Fra_17,Coal,0.0
+Fra_17,Fuel Oil,0.0
+Fra_17,Nuclear,0.0
+Fra_17,Lignite,0.0
+Fra_17,Waste,0.0
+Fra_18,Natural Gas,0.0
+Fra_18,Coal,0.0
+Fra_18,Fuel Oil,0.0
+Fra_18,Nuclear,0.0
+Fra_18,Lignite,0.0
+Fra_18,Waste,0.0
+Fra_19,Natural Gas,0.0
+Fra_19,Coal,0.0
+Fra_19,Fuel Oil,0.0
+Fra_19,Nuclear,0.0
+Fra_19,Lignite,0.0
+Fra_19,Waste,0.0
+Fra_20,Natural Gas,0.0
+Fra_20,Coal,0.0
+Fra_20,Fuel Oil,0.0
+Fra_20,Nuclear,0.0
+Fra_20,Lignite,0.0
+Fra_20,Waste,0.0
+Fra_21,Natural Gas,0.0
+Fra_21,Coal,0.0
+Fra_21,Fuel Oil,0.0
+Fra_21,Nuclear,0.0
+Fra_21,Lignite,0.0
+Fra_21,Waste,0.0
+Fra_22,Natural Gas,0.0
+Fra_22,Coal,0.0
+Fra_22,Fuel Oil,0.0
+Fra_22,Nuclear,0.0
+Fra_22,Lignite,0.0
+Fra_22,Waste,0.0
+Fra_23,Natural Gas,0.0
+Fra_23,Coal,0.0
+Fra_23,Fuel Oil,0.0
+Fra_23,Nuclear,0.0
+Fra_23,Lignite,0.0
+Fra_23,Waste,0.0
+Fra_24,Natural Gas,0.0
+Fra_24,Coal,0.0
+Fra_24,Fuel Oil,0.0
+Fra_24,Nuclear,0.0
+Fra_24,Lignite,0.0
+Fra_24,Waste,0.0
+Fra_25,Natural Gas,0.0
+Fra_25,Coal,0.0
+Fra_25,Fuel Oil,0.0
+Fra_25,Nuclear,0.0
+Fra_25,Lignite,0.0
+Fra_25,Waste,0.0
+Fra_26,Natural Gas,0.0
+Fra_26,Coal,0.0
+Fra_26,Fuel Oil,0.0
+Fra_26,Nuclear,0.0
+Fra_26,Lignite,0.0
+Fra_26,Waste,0.0
+Fra_27,Natural Gas,0.0
+Fra_27,Coal,0.0
+Fra_27,Fuel Oil,0.0
+Fra_27,Nuclear,0.0
+Fra_27,Lignite,0.0
+Fra_27,Waste,0.0
+Fra_28,Natural Gas,0.0
+Fra_28,Coal,0.0
+Fra_28,Fuel Oil,0.0
+Fra_28,Nuclear,0.0
+Fra_28,Lignite,0.0
+Fra_28,Waste,0.0
+Fra_29,Natural Gas,0.0
+Fra_29,Coal,0.0
+Fra_29,Fuel Oil,0.0
+Fra_29,Nuclear,0.0
+Fra_29,Lignite,0.0
+Fra_29,Waste,0.0
+Fra_30,Natural Gas,0.0
+Fra_30,Coal,0.0
+Fra_30,Fuel Oil,0.0
+Fra_30,Nuclear,0.0
+Fra_30,Lignite,0.0
+Fra_30,Waste,0.0
+Fra_31,Natural Gas,0.0
+Fra_31,Coal,0.0
+Fra_31,Fuel Oil,0.0
+Fra_31,Nuclear,0.0
+Fra_31,Lignite,0.0
+Fra_31,Waste,0.0
+Fra_32,Natural Gas,0.0
+Fra_32,Coal,0.0
+Fra_32,Fuel Oil,0.0
+Fra_32,Nuclear,0.0
+Fra_32,Lignite,0.0
+Fra_32,Waste,0.0
+Fra_33,Natural Gas,0.0
+Fra_33,Coal,0.0
+Fra_33,Fuel Oil,0.0
+Fra_33,Nuclear,0.0
+Fra_33,Lignite,0.0
+Fra_33,Waste,0.0
+Fra_34,Natural Gas,0.0
+Fra_34,Coal,0.0
+Fra_34,Fuel Oil,0.0
+Fra_34,Nuclear,0.0
+Fra_34,Lignite,0.0
+Fra_34,Waste,0.0
+Fra_35,Natural Gas,0.0
+Fra_35,Coal,0.0
+Fra_35,Fuel Oil,0.0
+Fra_35,Nuclear,0.0
+Fra_35,Lignite,0.0
+Fra_35,Waste,0.0
+Fra_36,Natural Gas,0.0
+Fra_36,Coal,0.0
+Fra_36,Fuel Oil,0.0
+Fra_36,Nuclear,0.0
+Fra_36,Lignite,0.0
+Fra_36,Waste,0.0
+Fra_37,Natural Gas,0.0
+Fra_37,Coal,0.0
+Fra_37,Fuel Oil,0.0
+Fra_37,Nuclear,0.0
+Fra_37,Lignite,0.0
+Fra_37,Waste,0.0
+Fra_38,Natural Gas,0.0
+Fra_38,Coal,0.0
+Fra_38,Fuel Oil,0.0
+Fra_38,Nuclear,0.0
+Fra_38,Lignite,0.0
+Fra_38,Waste,0.0
+Fra_39,Natural Gas,0.0
+Fra_39,Coal,0.0
+Fra_39,Fuel Oil,0.0
+Fra_39,Nuclear,0.0
+Fra_39,Lignite,0.0
+Fra_39,Waste,0.0
+Fra_40,Natural Gas,0.0
+Fra_40,Coal,0.0
+Fra_40,Fuel Oil,0.0
+Fra_40,Nuclear,0.0
+Fra_40,Lignite,0.0
+Fra_40,Waste,0.0
+Fra_41,Natural Gas,0.0
+Fra_41,Coal,0.0
+Fra_41,Fuel Oil,0.0
+Fra_41,Nuclear,0.0
+Fra_41,Lignite,0.0
+Fra_41,Waste,0.0
+Fra_42,Natural Gas,0.0
+Fra_42,Coal,0.0
+Fra_42,Fuel Oil,0.0
+Fra_42,Nuclear,0.0
+Fra_42,Lignite,0.0
+Fra_42,Waste,0.0
+Fra_43,Natural Gas,0.0
+Fra_43,Coal,0.0
+Fra_43,Fuel Oil,0.0
+Fra_43,Nuclear,761944.386906161
+Fra_43,Lignite,0.0
+Fra_43,Waste,0.0
+Fra_44,Natural Gas,0.0
+Fra_44,Coal,0.0
+Fra_44,Fuel Oil,0.0
+Fra_44,Nuclear,0.0
+Fra_44,Lignite,0.0
+Fra_44,Waste,0.0
+Fra_45,Natural Gas,0.0
+Fra_45,Coal,0.0
+Fra_45,Fuel Oil,0.0
+Fra_45,Nuclear,0.0
+Fra_45,Lignite,0.0
+Fra_45,Waste,0.0
+Fra_46,Natural Gas,0.0
+Fra_46,Coal,0.0
+Fra_46,Fuel Oil,0.0
+Fra_46,Nuclear,0.0
+Fra_46,Lignite,0.0
+Fra_46,Waste,0.0
+Fra_47,Natural Gas,0.0
+Fra_47,Coal,0.0
+Fra_47,Fuel Oil,0.0
+Fra_47,Nuclear,0.0
+Fra_47,Lignite,0.0
+Fra_47,Waste,0.0
+Fra_48,Natural Gas,0.0
+Fra_48,Coal,0.0
+Fra_48,Fuel Oil,0.0
+Fra_48,Nuclear,726323.3379653952
+Fra_48,Lignite,0.0
+Fra_48,Waste,0.0
+Fra_49,Natural Gas,0.0
+Fra_49,Coal,0.0
+Fra_49,Fuel Oil,0.0
+Fra_49,Nuclear,0.0
+Fra_49,Lignite,0.0
+Fra_49,Waste,0.0
+Fra_50,Natural Gas,0.0
+Fra_50,Coal,0.0
+Fra_50,Fuel Oil,0.0
+Fra_50,Nuclear,0.0
+Fra_50,Lignite,0.0
+Fra_50,Waste,0.0
+Fra_51,Natural Gas,0.0
+Fra_51,Coal,0.0
+Fra_51,Fuel Oil,0.0
+Fra_51,Nuclear,0.0
+Fra_51,Lignite,0.0
+Fra_51,Waste,0.0
+Fra_52,Natural Gas,0.0
+Fra_52,Coal,0.0
+Fra_52,Fuel Oil,0.0
+Fra_52,Nuclear,0.0
+Fra_52,Lignite,0.0
+Fra_52,Waste,0.0
+Fra_53,Natural Gas,0.0
+Fra_53,Coal,0.0
+Fra_53,Fuel Oil,0.0
+Fra_53,Nuclear,0.0
+Fra_53,Lignite,0.0
+Fra_53,Waste,0.0
+Fra_54,Natural Gas,0.0
+Fra_54,Coal,0.0
+Fra_54,Fuel Oil,0.0
+Fra_54,Nuclear,579053.7821763457
+Fra_54,Lignite,0.0
+Fra_54,Waste,0.0
+Fra_55,Natural Gas,133780.2099331429
+Fra_55,Coal,0.0
+Fra_55,Fuel Oil,0.0
+Fra_55,Nuclear,0.0
+Fra_55,Lignite,0.0
+Fra_55,Waste,0.0
+Fra_56,Natural Gas,0.0
+Fra_56,Coal,0.0
+Fra_56,Fuel Oil,0.0
+Fra_56,Nuclear,0.0
+Fra_56,Lignite,0.0
+Fra_56,Waste,0.0
+Fra_57,Natural Gas,0.0
+Fra_57,Coal,0.0
+Fra_57,Fuel Oil,0.0
+Fra_57,Nuclear,853554.73478715
+Fra_57,Lignite,0.0
+Fra_57,Waste,0.0
+Fra_58,Natural Gas,0.0
+Fra_58,Coal,0.0
+Fra_58,Fuel Oil,0.0
+Fra_58,Nuclear,0.0
+Fra_58,Lignite,0.0
+Fra_58,Waste,0.0
+Fra_59,Natural Gas,0.0
+Fra_59,Coal,0.0
+Fra_59,Fuel Oil,0.0
+Fra_59,Nuclear,0.0
+Fra_59,Lignite,0.0
+Fra_59,Waste,0.0
+Fra_60,Natural Gas,0.0
+Fra_60,Coal,0.0
+Fra_60,Fuel Oil,0.0
+Fra_60,Nuclear,0.0
+Fra_60,Lignite,0.0
+Fra_60,Waste,0.0
+Fra_61,Natural Gas,0.0
+Fra_61,Coal,0.0
+Fra_61,Fuel Oil,0.0
+Fra_61,Nuclear,0.0
+Fra_61,Lignite,0.0
+Fra_61,Waste,0.0
+Fra_62,Natural Gas,0.0
+Fra_62,Coal,0.0
+Fra_62,Fuel Oil,0.0
+Fra_62,Nuclear,0.0
+Fra_62,Lignite,0.0
+Fra_62,Waste,0.0
+Fra_63,Natural Gas,0.0
+Fra_63,Coal,0.0
+Fra_63,Fuel Oil,0.0
+Fra_63,Nuclear,0.0
+Fra_63,Lignite,0.0
+Fra_63,Waste,0.0
+Fra_64,Natural Gas,0.0
+Fra_64,Coal,0.0
+Fra_64,Fuel Oil,0.0
+Fra_64,Nuclear,0.0
+Fra_64,Lignite,0.0
+Fra_64,Waste,0.0
+Fra_65,Natural Gas,0.0
+Fra_65,Coal,0.0
+Fra_65,Fuel Oil,0.0
+Fra_65,Nuclear,0.0
+Fra_65,Lignite,0.0
+Fra_65,Waste,0.0
+Fra_66,Natural Gas,0.0
+Fra_66,Coal,0.0
+Fra_66,Fuel Oil,0.0
+Fra_66,Nuclear,0.0
+Fra_66,Lignite,0.0
+Fra_66,Waste,0.0
+Fra_67,Natural Gas,0.0
+Fra_67,Coal,0.0
+Fra_67,Fuel Oil,0.0
+Fra_67,Nuclear,0.0
+Fra_67,Lignite,0.0
+Fra_67,Waste,0.0
+Fra_68,Natural Gas,0.0
+Fra_68,Coal,0.0
+Fra_68,Fuel Oil,0.0
+Fra_68,Nuclear,0.0
+Fra_68,Lignite,0.0
+Fra_68,Waste,0.0
+Fra_69,Natural Gas,33314.42988013008
+Fra_69,Coal,512792.61955491686
+Fra_69,Fuel Oil,0.0
+Fra_69,Nuclear,0.0
+Fra_69,Lignite,0.0
+Fra_69,Waste,0.0
+Fra_70,Natural Gas,0.0
+Fra_70,Coal,0.0
+Fra_70,Fuel Oil,0.0
+Fra_70,Nuclear,0.0
+Fra_70,Lignite,0.0
+Fra_70,Waste,0.0
+Fra_71,Natural Gas,0.0
+Fra_71,Coal,0.0
+Fra_71,Fuel Oil,0.0
+Fra_71,Nuclear,0.0
+Fra_71,Lignite,0.0
+Fra_71,Waste,0.0
+Fra_72,Natural Gas,0.0
+Fra_72,Coal,0.0
+Fra_72,Fuel Oil,0.0
+Fra_72,Nuclear,0.0
+Fra_72,Lignite,0.0
+Fra_72,Waste,0.0
+Fra_73,Natural Gas,0.0
+Fra_73,Coal,0.0
+Fra_73,Fuel Oil,0.0
+Fra_73,Nuclear,0.0
+Fra_73,Lignite,0.0
+Fra_73,Waste,0.0
+Fra_74,Natural Gas,0.0
+Fra_74,Coal,0.0
+Fra_74,Fuel Oil,0.0
+Fra_74,Nuclear,0.0
+Fra_74,Lignite,0.0
+Fra_74,Waste,0.0
+Fra_75,Natural Gas,0.0
+Fra_75,Coal,0.0
+Fra_75,Fuel Oil,0.0
+Fra_75,Nuclear,0.0
+Fra_75,Lignite,0.0
+Fra_75,Waste,0.0
+Fra_76,Natural Gas,0.0
+Fra_76,Coal,0.0
+Fra_76,Fuel Oil,0.0
+Fra_76,Nuclear,0.0
+Fra_76,Lignite,0.0
+Fra_76,Waste,0.0
+Fra_77,Natural Gas,0.0
+Fra_77,Coal,0.0
+Fra_77,Fuel Oil,0.0
+Fra_77,Nuclear,0.0
+Fra_77,Lignite,0.0
+Fra_77,Waste,0.0
+Fra_78,Natural Gas,0.0
+Fra_78,Coal,0.0
+Fra_78,Fuel Oil,0.0
+Fra_78,Nuclear,0.0
+Fra_78,Lignite,0.0
+Fra_78,Waste,0.0
+Fra_79,Natural Gas,0.0
+Fra_79,Coal,0.0
+Fra_79,Fuel Oil,0.0
+Fra_79,Nuclear,0.0
+Fra_79,Lignite,0.0
+Fra_79,Waste,0.0
+Fra_80,Natural Gas,0.0
+Fra_80,Coal,0.0
+Fra_80,Fuel Oil,0.0
+Fra_80,Nuclear,0.0
+Fra_80,Lignite,0.0
+Fra_80,Waste,0.0
+Fra_81,Natural Gas,0.0
+Fra_81,Coal,0.0
+Fra_81,Fuel Oil,0.0
+Fra_81,Nuclear,0.0
+Fra_81,Lignite,0.0
+Fra_81,Waste,0.0
+Fra_82,Natural Gas,0.0
+Fra_82,Coal,0.0
+Fra_82,Fuel Oil,0.0
+Fra_82,Nuclear,0.0
+Fra_82,Lignite,0.0
+Fra_82,Waste,0.0
+Fra_83,Natural Gas,0.0
+Fra_83,Coal,0.0
+Fra_83,Fuel Oil,0.0
+Fra_83,Nuclear,0.0
+Fra_83,Lignite,0.0
+Fra_83,Waste,0.0
+Fra_84,Natural Gas,0.0
+Fra_84,Coal,0.0
+Fra_84,Fuel Oil,0.0
+Fra_84,Nuclear,0.0
+Fra_84,Lignite,0.0
+Fra_84,Waste,0.0
+Fra_85,Natural Gas,0.0
+Fra_85,Coal,0.0
+Fra_85,Fuel Oil,0.0
+Fra_85,Nuclear,0.0
+Fra_85,Lignite,0.0
+Fra_85,Waste,0.0
+Fra_86,Natural Gas,0.0
+Fra_86,Coal,0.0
+Fra_86,Fuel Oil,0.0
+Fra_86,Nuclear,0.0
+Fra_86,Lignite,0.0
+Fra_86,Waste,0.0
+Fra_87,Natural Gas,0.0
+Fra_87,Coal,0.0
+Fra_87,Fuel Oil,0.0
+Fra_87,Nuclear,0.0
+Fra_87,Lignite,0.0
+Fra_87,Waste,0.0
+Fra_88,Natural Gas,0.0
+Fra_88,Coal,0.0
+Fra_88,Fuel Oil,0.0
+Fra_88,Nuclear,0.0
+Fra_88,Lignite,0.0
+Fra_88,Waste,0.0
+Fra_89,Natural Gas,0.0
+Fra_89,Coal,0.0
+Fra_89,Fuel Oil,0.0
+Fra_89,Nuclear,0.0
+Fra_89,Lignite,0.0
+Fra_89,Waste,0.0
+Fra_90,Natural Gas,0.0
+Fra_90,Coal,0.0
+Fra_90,Fuel Oil,0.0
+Fra_90,Nuclear,1.2046309018954146e6
+Fra_90,Lignite,0.0
+Fra_90,Waste,0.0
+Fra_91,Natural Gas,0.0
+Fra_91,Coal,0.0
+Fra_91,Fuel Oil,0.0
+Fra_91,Nuclear,0.0
+Fra_91,Lignite,0.0
+Fra_91,Waste,0.0
+Fra_92,Natural Gas,0.0
+Fra_92,Coal,135456.94893529898
+Fra_92,Fuel Oil,0.0
+Fra_92,Nuclear,0.0
+Fra_92,Lignite,0.0
+Fra_92,Waste,0.0
+Fra_93,Natural Gas,0.0
+Fra_93,Coal,0.0
+Fra_93,Fuel Oil,0.0
+Fra_93,Nuclear,0.0
+Fra_93,Lignite,0.0
+Fra_93,Waste,0.0
+Fra_94,Natural Gas,0.0
+Fra_94,Coal,0.0
+Fra_94,Fuel Oil,0.0
+Fra_94,Nuclear,0.0
+Fra_94,Lignite,0.0
+Fra_94,Waste,0.0
+Fra_95,Natural Gas,0.0
+Fra_95,Coal,0.0
+Fra_95,Fuel Oil,0.0
+Fra_95,Nuclear,0.0
+Fra_95,Lignite,0.0
+Fra_95,Waste,0.0
+Fra_96,Natural Gas,0.0
+Fra_96,Coal,0.0
+Fra_96,Fuel Oil,0.0
+Fra_96,Nuclear,0.0
+Fra_96,Lignite,0.0
+Fra_96,Waste,0.0
+Fra_97,Natural Gas,0.0
+Fra_97,Coal,0.0
+Fra_97,Fuel Oil,0.0
+Fra_97,Nuclear,0.0
+Fra_97,Lignite,0.0
+Fra_97,Waste,0.0
+Fra_98,Natural Gas,0.0
+Fra_98,Coal,0.0
+Fra_98,Fuel Oil,0.0
+Fra_98,Nuclear,0.0
+Fra_98,Lignite,0.0
+Fra_98,Waste,0.0
+Fra_99,Natural Gas,0.0
+Fra_99,Coal,0.0
+Fra_99,Fuel Oil,0.0
+Fra_99,Nuclear,0.0
+Fra_99,Lignite,0.0
+Fra_99,Waste,0.0
+Fra_100,Natural Gas,0.0
+Fra_100,Coal,0.0
+Fra_100,Fuel Oil,0.0
+Fra_100,Nuclear,0.0
+Fra_100,Lignite,0.0
+Fra_100,Waste,0.0
+Fra_101,Natural Gas,0.0
+Fra_101,Coal,0.0
+Fra_101,Fuel Oil,0.0
+Fra_101,Nuclear,461666.1211708902
+Fra_101,Lignite,0.0
+Fra_101,Waste,0.0
+Fra_102,Natural Gas,0.0
+Fra_102,Coal,0.0
+Fra_102,Fuel Oil,0.0
+Fra_102,Nuclear,0.0
+Fra_102,Lignite,0.0
+Fra_102,Waste,0.0
+Fra_103,Natural Gas,0.0
+Fra_103,Coal,0.0
+Fra_103,Fuel Oil,0.0
+Fra_103,Nuclear,0.0
+Fra_103,Lignite,0.0
+Fra_103,Waste,0.0
+Fra_104,Natural Gas,0.0
+Fra_104,Coal,0.0
+Fra_104,Fuel Oil,0.0
+Fra_104,Nuclear,0.0
+Fra_104,Lignite,0.0
+Fra_104,Waste,0.0
+Fra_105,Natural Gas,0.0
+Fra_105,Coal,0.0
+Fra_105,Fuel Oil,0.0
+Fra_105,Nuclear,0.0
+Fra_105,Lignite,0.0
+Fra_105,Waste,0.0
+Fra_106,Natural Gas,0.0
+Fra_106,Coal,0.0
+Fra_106,Fuel Oil,0.0
+Fra_106,Nuclear,701606.3332335518
+Fra_106,Lignite,0.0
+Fra_106,Waste,0.0
+Fra_107,Natural Gas,0.0
+Fra_107,Coal,0.0
+Fra_107,Fuel Oil,0.0
+Fra_107,Nuclear,0.0
+Fra_107,Lignite,0.0
+Fra_107,Waste,0.0
+Fra_108,Natural Gas,176118.4723505495
+Fra_108,Coal,0.0
+Fra_108,Fuel Oil,0.0
+Fra_108,Nuclear,0.0
+Fra_108,Lignite,0.0
+Fra_108,Waste,0.0
+Fra_109,Natural Gas,0.0
+Fra_109,Coal,0.0
+Fra_109,Fuel Oil,0.0
+Fra_109,Nuclear,0.0
+Fra_109,Lignite,0.0
+Fra_109,Waste,0.0
+Fra_110,Natural Gas,0.0
+Fra_110,Coal,0.0
+Fra_110,Fuel Oil,0.0
+Fra_110,Nuclear,0.0
+Fra_110,Lignite,0.0
+Fra_110,Waste,0.0
+Fra_111,Natural Gas,0.0
+Fra_111,Coal,0.0
+Fra_111,Fuel Oil,0.0
+Fra_111,Nuclear,0.0
+Fra_111,Lignite,0.0
+Fra_111,Waste,0.0
+Fra_112,Natural Gas,0.0
+Fra_112,Coal,0.0
+Fra_112,Fuel Oil,0.0
+Fra_112,Nuclear,0.0
+Fra_112,Lignite,0.0
+Fra_112,Waste,0.0
+Fra_113,Natural Gas,0.0
+Fra_113,Coal,0.0
+Fra_113,Fuel Oil,0.0
+Fra_113,Nuclear,0.0
+Fra_113,Lignite,0.0
+Fra_113,Waste,0.0
+Fra_114,Natural Gas,0.0
+Fra_114,Coal,0.0
+Fra_114,Fuel Oil,0.0
+Fra_114,Nuclear,0.0
+Fra_114,Lignite,0.0
+Fra_114,Waste,0.0
+Fra_115,Natural Gas,488141.4444092992
+Fra_115,Coal,0.0
+Fra_115,Fuel Oil,0.0
+Fra_115,Nuclear,1.0080685814782317e6
+Fra_115,Lignite,0.0
+Fra_115,Waste,0.0
+Fra_116,Natural Gas,0.0
+Fra_116,Coal,0.0
+Fra_116,Fuel Oil,0.0
+Fra_116,Nuclear,0.0
+Fra_116,Lignite,0.0
+Fra_116,Waste,0.0
+Fra_117,Natural Gas,0.0
+Fra_117,Coal,0.0
+Fra_117,Fuel Oil,0.0
+Fra_117,Nuclear,0.0
+Fra_117,Lignite,0.0
+Fra_117,Waste,0.0
+Fra_118,Natural Gas,0.0
+Fra_118,Coal,0.0
+Fra_118,Fuel Oil,0.0
+Fra_118,Nuclear,0.0
+Fra_118,Lignite,0.0
+Fra_118,Waste,0.0
+Fra_119,Natural Gas,0.0
+Fra_119,Coal,0.0
+Fra_119,Fuel Oil,0.0
+Fra_119,Nuclear,0.0
+Fra_119,Lignite,0.0
+Fra_119,Waste,0.0
+Fra_120,Natural Gas,0.0
+Fra_120,Coal,0.0
+Fra_120,Fuel Oil,0.0
+Fra_120,Nuclear,0.0
+Fra_120,Lignite,0.0
+Fra_120,Waste,0.0
+Fra_121,Natural Gas,0.0
+Fra_121,Coal,0.0
+Fra_121,Fuel Oil,0.0
+Fra_121,Nuclear,0.0
+Fra_121,Lignite,0.0
+Fra_121,Waste,0.0
+Fra_122,Natural Gas,0.0
+Fra_122,Coal,0.0
+Fra_122,Fuel Oil,0.0
+Fra_122,Nuclear,0.0
+Fra_122,Lignite,0.0
+Fra_122,Waste,0.0
+Fra_123,Natural Gas,0.0
+Fra_123,Coal,0.0
+Fra_123,Fuel Oil,0.0
+Fra_123,Nuclear,557580.0093704999
+Fra_123,Lignite,0.0
+Fra_123,Waste,0.0
+Fra_124,Natural Gas,0.0
+Fra_124,Coal,0.0
+Fra_124,Fuel Oil,0.0
+Fra_124,Nuclear,0.0
+Fra_124,Lignite,0.0
+Fra_124,Waste,0.0
+Fra_125,Natural Gas,0.0
+Fra_125,Coal,0.0
+Fra_125,Fuel Oil,0.0
+Fra_125,Nuclear,0.0
+Fra_125,Lignite,0.0
+Fra_125,Waste,0.0
+Fra_126,Natural Gas,0.0
+Fra_126,Coal,0.0
+Fra_126,Fuel Oil,0.0
+Fra_126,Nuclear,0.0
+Fra_126,Lignite,0.0
+Fra_126,Waste,0.0
+Fra_127,Natural Gas,0.0
+Fra_127,Coal,0.0
+Fra_127,Fuel Oil,0.0
+Fra_127,Nuclear,0.0
+Fra_127,Lignite,0.0
+Fra_127,Waste,0.0
+Fra_128,Natural Gas,0.0
+Fra_128,Coal,0.0
+Fra_128,Fuel Oil,0.0
+Fra_128,Nuclear,0.0
+Fra_128,Lignite,0.0
+Fra_128,Waste,0.0
+Fra_129,Natural Gas,0.0
+Fra_129,Coal,0.0
+Fra_129,Fuel Oil,0.0
+Fra_129,Nuclear,0.0
+Fra_129,Lignite,0.0
+Fra_129,Waste,0.0
+Fra_130,Natural Gas,0.0
+Fra_130,Coal,0.0
+Fra_130,Fuel Oil,0.0
+Fra_130,Nuclear,0.0
+Fra_130,Lignite,0.0
+Fra_130,Waste,0.0
+Fra_131,Natural Gas,0.0
+Fra_131,Coal,0.0
+Fra_131,Fuel Oil,0.0
+Fra_131,Nuclear,0.0
+Fra_131,Lignite,0.0
+Fra_131,Waste,0.0
+Fra_132,Natural Gas,0.0
+Fra_132,Coal,0.0
+Fra_132,Fuel Oil,0.0
+Fra_132,Nuclear,0.0
+Fra_132,Lignite,0.0
+Fra_132,Waste,0.0
+Fra_133,Natural Gas,0.0
+Fra_133,Coal,0.0
+Fra_133,Fuel Oil,0.0
+Fra_133,Nuclear,0.0
+Fra_133,Lignite,0.0
+Fra_133,Waste,0.0
+Fra_134,Natural Gas,0.0
+Fra_134,Coal,0.0
+Fra_134,Fuel Oil,0.0
+Fra_134,Nuclear,0.0
+Fra_134,Lignite,0.0
+Fra_134,Waste,0.0
+Fra_135,Natural Gas,0.0
+Fra_135,Coal,0.0
+Fra_135,Fuel Oil,0.0
+Fra_135,Nuclear,0.0
+Fra_135,Lignite,0.0
+Fra_135,Waste,0.0
+Fra_136,Natural Gas,0.0
+Fra_136,Coal,0.0
+Fra_136,Fuel Oil,0.0
+Fra_136,Nuclear,0.0
+Fra_136,Lignite,0.0
+Fra_136,Waste,0.0
+Fra_137,Natural Gas,0.0
+Fra_137,Coal,0.0
+Fra_137,Fuel Oil,0.0
+Fra_137,Nuclear,0.0
+Fra_137,Lignite,0.0
+Fra_137,Waste,0.0
+Fra_138,Natural Gas,0.0
+Fra_138,Coal,0.0
+Fra_138,Fuel Oil,0.0
+Fra_138,Nuclear,0.0
+Fra_138,Lignite,0.0
+Fra_138,Waste,0.0
+Fra_139,Natural Gas,0.0
+Fra_139,Coal,0.0
+Fra_139,Fuel Oil,0.0
+Fra_139,Nuclear,0.0
+Fra_139,Lignite,0.0
+Fra_139,Waste,0.0
+Fra_140,Natural Gas,0.0
+Fra_140,Coal,0.0
+Fra_140,Fuel Oil,0.0
+Fra_140,Nuclear,0.0
+Fra_140,Lignite,0.0
+Fra_140,Waste,0.0
+Fra_141,Natural Gas,0.0
+Fra_141,Coal,0.0
+Fra_141,Fuel Oil,0.0
+Fra_141,Nuclear,0.0
+Fra_141,Lignite,0.0
+Fra_141,Waste,0.0
+Fra_142,Natural Gas,0.0
+Fra_142,Coal,0.0
+Fra_142,Fuel Oil,0.0
+Fra_142,Nuclear,0.0
+Fra_142,Lignite,0.0
+Fra_142,Waste,0.0
+Fra_143,Natural Gas,0.0
+Fra_143,Coal,0.0
+Fra_143,Fuel Oil,0.0
+Fra_143,Nuclear,0.0
+Fra_143,Lignite,0.0
+Fra_143,Waste,0.0
+Fra_144,Natural Gas,0.0
+Fra_144,Coal,0.0
+Fra_144,Fuel Oil,0.0
+Fra_144,Nuclear,509793.7447483704
+Fra_144,Lignite,0.0
+Fra_144,Waste,0.0
+Fra_145,Natural Gas,0.0
+Fra_145,Coal,0.0
+Fra_145,Fuel Oil,0.0
+Fra_145,Nuclear,0.0
+Fra_145,Lignite,0.0
+Fra_145,Waste,0.0
+Fra_146,Natural Gas,0.0
+Fra_146,Coal,0.0
+Fra_146,Fuel Oil,0.0
+Fra_146,Nuclear,0.0
+Fra_146,Lignite,0.0
+Fra_146,Waste,0.0
+Fra_147,Natural Gas,0.0
+Fra_147,Coal,0.0
+Fra_147,Fuel Oil,0.0
+Fra_147,Nuclear,0.0
+Fra_147,Lignite,0.0
+Fra_147,Waste,0.0
+Fra_148,Natural Gas,0.0
+Fra_148,Coal,0.0
+Fra_148,Fuel Oil,0.0
+Fra_148,Nuclear,0.0
+Fra_148,Lignite,0.0
+Fra_148,Waste,0.0
+Fra_149,Natural Gas,0.0
+Fra_149,Coal,0.0
+Fra_149,Fuel Oil,0.0
+Fra_149,Nuclear,0.0
+Fra_149,Lignite,0.0
+Fra_149,Waste,0.0
+Fra_150,Natural Gas,0.0
+Fra_150,Coal,0.0
+Fra_150,Fuel Oil,0.0
+Fra_150,Nuclear,0.0
+Fra_150,Lignite,0.0
+Fra_150,Waste,0.0
+Fra_151,Natural Gas,0.0
+Fra_151,Coal,0.0
+Fra_151,Fuel Oil,0.0
+Fra_151,Nuclear,0.0
+Fra_151,Lignite,0.0
+Fra_151,Waste,0.0
+Fra_152,Natural Gas,0.0
+Fra_152,Coal,0.0
+Fra_152,Fuel Oil,0.0
+Fra_152,Nuclear,0.0
+Fra_152,Lignite,0.0
+Fra_152,Waste,0.0
+Fra_153,Natural Gas,0.0
+Fra_153,Coal,0.0
+Fra_153,Fuel Oil,0.0
+Fra_153,Nuclear,0.0
+Fra_153,Lignite,0.0
+Fra_153,Waste,0.0
+Fra_154,Natural Gas,0.0
+Fra_154,Coal,0.0
+Fra_154,Fuel Oil,0.0
+Fra_154,Nuclear,0.0
+Fra_154,Lignite,0.0
+Fra_154,Waste,0.0
+Fra_155,Natural Gas,0.0
+Fra_155,Coal,0.0
+Fra_155,Fuel Oil,0.0
+Fra_155,Nuclear,0.0
+Fra_155,Lignite,0.0
+Fra_155,Waste,0.0
+Fra_156,Natural Gas,0.0
+Fra_156,Coal,0.0
+Fra_156,Fuel Oil,0.0
+Fra_156,Nuclear,0.0
+Fra_156,Lignite,0.0
+Fra_156,Waste,0.0
+Fra_157,Natural Gas,0.0
+Fra_157,Coal,0.0
+Fra_157,Fuel Oil,0.0
+Fra_157,Nuclear,0.0
+Fra_157,Lignite,0.0
+Fra_157,Waste,0.0
+Fra_158,Natural Gas,0.0
+Fra_158,Coal,0.0
+Fra_158,Fuel Oil,0.0
+Fra_158,Nuclear,0.0
+Fra_158,Lignite,0.0
+Fra_158,Waste,0.0
+Fra_159,Natural Gas,0.0
+Fra_159,Coal,0.0
+Fra_159,Fuel Oil,0.0
+Fra_159,Nuclear,0.0
+Fra_159,Lignite,0.0
+Fra_159,Waste,0.0
+Fra_160,Natural Gas,0.0
+Fra_160,Coal,0.0
+Fra_160,Fuel Oil,0.0
+Fra_160,Nuclear,1.0429191887379818e6
+Fra_160,Lignite,0.0
+Fra_160,Waste,0.0
+Fra_161,Natural Gas,0.0
+Fra_161,Coal,0.0
+Fra_161,Fuel Oil,0.0
+Fra_161,Nuclear,0.0
+Fra_161,Lignite,0.0
+Fra_161,Waste,0.0
+Fra_162,Natural Gas,0.0
+Fra_162,Coal,0.0
+Fra_162,Fuel Oil,0.0
+Fra_162,Nuclear,0.0
+Fra_162,Lignite,0.0
+Fra_162,Waste,0.0
+Fra_163,Natural Gas,0.0
+Fra_163,Coal,0.0
+Fra_163,Fuel Oil,0.0
+Fra_163,Nuclear,0.0
+Fra_163,Lignite,0.0
+Fra_163,Waste,0.0
+Fra_164,Natural Gas,0.0
+Fra_164,Coal,0.0
+Fra_164,Fuel Oil,0.0
+Fra_164,Nuclear,0.0
+Fra_164,Lignite,0.0
+Fra_164,Waste,0.0
+Fra_165,Natural Gas,0.0
+Fra_165,Coal,0.0
+Fra_165,Fuel Oil,0.0
+Fra_165,Nuclear,0.0
+Fra_165,Lignite,0.0
+Fra_165,Waste,0.0
+Fra_166,Natural Gas,0.0
+Fra_166,Coal,0.0
+Fra_166,Fuel Oil,0.0
+Fra_166,Nuclear,0.0
+Fra_166,Lignite,0.0
+Fra_166,Waste,0.0
+Fra_167,Natural Gas,0.0
+Fra_167,Coal,0.0
+Fra_167,Fuel Oil,0.0
+Fra_167,Nuclear,0.0
+Fra_167,Lignite,0.0
+Fra_167,Waste,0.0
+Fra_168,Natural Gas,0.0
+Fra_168,Coal,0.0
+Fra_168,Fuel Oil,0.0
+Fra_168,Nuclear,0.0
+Fra_168,Lignite,0.0
+Fra_168,Waste,0.0
+Fra_169,Natural Gas,0.0
+Fra_169,Coal,0.0
+Fra_169,Fuel Oil,0.0
+Fra_169,Nuclear,0.0
+Fra_169,Lignite,0.0
+Fra_169,Waste,0.0
+Fra_170,Natural Gas,0.0
+Fra_170,Coal,0.0
+Fra_170,Fuel Oil,0.0
+Fra_170,Nuclear,0.0
+Fra_170,Lignite,0.0
+Fra_170,Waste,0.0
+Fra_171,Natural Gas,0.0
+Fra_171,Coal,0.0
+Fra_171,Fuel Oil,0.0
+Fra_171,Nuclear,0.0
+Fra_171,Lignite,0.0
+Fra_171,Waste,0.0
+Fra_172,Natural Gas,0.0
+Fra_172,Coal,0.0
+Fra_172,Fuel Oil,0.0
+Fra_172,Nuclear,0.0
+Fra_172,Lignite,0.0
+Fra_172,Waste,0.0
+Fra_173,Natural Gas,0.0
+Fra_173,Coal,0.0
+Fra_173,Fuel Oil,0.0
+Fra_173,Nuclear,0.0
+Fra_173,Lignite,0.0
+Fra_173,Waste,0.0
+Fra_174,Natural Gas,0.0
+Fra_174,Coal,0.0
+Fra_174,Fuel Oil,0.0
+Fra_174,Nuclear,0.0
+Fra_174,Lignite,0.0
+Fra_174,Waste,0.0
+Fra_175,Natural Gas,0.0
+Fra_175,Coal,0.0
+Fra_175,Fuel Oil,0.0
+Fra_175,Nuclear,0.0
+Fra_175,Lignite,0.0
+Fra_175,Waste,0.0
+Fra_176,Natural Gas,0.0
+Fra_176,Coal,0.0
+Fra_176,Fuel Oil,0.0
+Fra_176,Nuclear,391520.95513328456
+Fra_176,Lignite,0.0
+Fra_176,Waste,0.0
+Fra_177,Natural Gas,0.0
+Fra_177,Coal,0.0
+Fra_177,Fuel Oil,0.0
+Fra_177,Nuclear,0.0
+Fra_177,Lignite,0.0
+Fra_177,Waste,0.0
+Fra_178,Natural Gas,0.0
+Fra_178,Coal,0.0
+Fra_178,Fuel Oil,0.0
+Fra_178,Nuclear,0.0
+Fra_178,Lignite,0.0
+Fra_178,Waste,0.0
+Fra_179,Natural Gas,0.0
+Fra_179,Coal,0.0
+Fra_179,Fuel Oil,0.0
+Fra_179,Nuclear,0.0
+Fra_179,Lignite,0.0
+Fra_179,Waste,0.0
+Fra_180,Natural Gas,0.0
+Fra_180,Coal,0.0
+Fra_180,Fuel Oil,0.0
+Fra_180,Nuclear,786564.4598940497
+Fra_180,Lignite,0.0
+Fra_180,Waste,0.0
+Fra_181,Natural Gas,0.0
+Fra_181,Coal,0.0
+Fra_181,Fuel Oil,0.0
+Fra_181,Nuclear,0.0
+Fra_181,Lignite,0.0
+Fra_181,Waste,0.0
+Fra_182,Natural Gas,0.0
+Fra_182,Coal,0.0
+Fra_182,Fuel Oil,0.0
+Fra_182,Nuclear,0.0
+Fra_182,Lignite,0.0
+Fra_182,Waste,0.0
+Fra_183,Natural Gas,0.0
+Fra_183,Coal,0.0
+Fra_183,Fuel Oil,0.0
+Fra_183,Nuclear,0.0
+Fra_183,Lignite,0.0
+Fra_183,Waste,0.0
+Fra_184,Natural Gas,0.0
+Fra_184,Coal,0.0
+Fra_184,Fuel Oil,0.0
+Fra_184,Nuclear,0.0
+Fra_184,Lignite,0.0
+Fra_184,Waste,0.0
+Fra_185,Natural Gas,0.0
+Fra_185,Coal,0.0
+Fra_185,Fuel Oil,0.0
+Fra_185,Nuclear,0.0
+Fra_185,Lignite,0.0
+Fra_185,Waste,0.0
+Fra_186,Natural Gas,0.0
+Fra_186,Coal,0.0
+Fra_186,Fuel Oil,0.0
+Fra_186,Nuclear,0.0
+Fra_186,Lignite,0.0
+Fra_186,Waste,0.0
+Fra_187,Natural Gas,0.0
+Fra_187,Coal,0.0
+Fra_187,Fuel Oil,0.0
+Fra_187,Nuclear,0.0
+Fra_187,Lignite,0.0
+Fra_187,Waste,0.0
+Fra_188,Natural Gas,0.0
+Fra_188,Coal,0.0
+Fra_188,Fuel Oil,0.0
+Fra_188,Nuclear,765488.8517960452
+Fra_188,Lignite,0.0
+Fra_188,Waste,0.0
+Fra_189,Natural Gas,0.0
+Fra_189,Coal,0.0
+Fra_189,Fuel Oil,0.0
+Fra_189,Nuclear,0.0
+Fra_189,Lignite,0.0
+Fra_189,Waste,0.0
+Fra_190,Natural Gas,0.0
+Fra_190,Coal,0.0
+Fra_190,Fuel Oil,0.0
+Fra_190,Nuclear,0.0
+Fra_190,Lignite,0.0
+Fra_190,Waste,0.0
+Fra_191,Natural Gas,0.0
+Fra_191,Coal,0.0
+Fra_191,Fuel Oil,0.0
+Fra_191,Nuclear,0.0
+Fra_191,Lignite,0.0
+Fra_191,Waste,0.0
+Fra_192,Natural Gas,0.0
+Fra_192,Coal,0.0
+Fra_192,Fuel Oil,0.0
+Fra_192,Nuclear,0.0
+Fra_192,Lignite,0.0
+Fra_192,Waste,0.0
+Fra_193,Natural Gas,0.0
+Fra_193,Coal,0.0
+Fra_193,Fuel Oil,0.0
+Fra_193,Nuclear,0.0
+Fra_193,Lignite,0.0
+Fra_193,Waste,0.0
+Fra_194,Natural Gas,0.0
+Fra_194,Coal,0.0
+Fra_194,Fuel Oil,0.0
+Fra_194,Nuclear,0.0
+Fra_194,Lignite,0.0
+Fra_194,Waste,0.0
+Fra_195,Natural Gas,0.0
+Fra_195,Coal,0.0
+Fra_195,Fuel Oil,0.0
+Fra_195,Nuclear,442502.8890774074
+Fra_195,Lignite,0.0
+Fra_195,Waste,0.0
+Fra_196,Natural Gas,0.0
+Fra_196,Coal,0.0
+Fra_196,Fuel Oil,0.0
+Fra_196,Nuclear,0.0
+Fra_196,Lignite,0.0
+Fra_196,Waste,0.0
+Fra_197,Natural Gas,0.0
+Fra_197,Coal,0.0
+Fra_197,Fuel Oil,0.0
+Fra_197,Nuclear,0.0
+Fra_197,Lignite,0.0
+Fra_197,Waste,0.0
+Fra_198,Natural Gas,0.0
+Fra_198,Coal,0.0
+Fra_198,Fuel Oil,0.0
+Fra_198,Nuclear,0.0
+Fra_198,Lignite,0.0
+Fra_198,Waste,0.0
+Fra_199,Natural Gas,0.0
+Fra_199,Coal,0.0
+Fra_199,Fuel Oil,0.0
+Fra_199,Nuclear,0.0
+Fra_199,Lignite,0.0
+Fra_199,Waste,0.0
+Fra_200,Natural Gas,0.0
+Fra_200,Coal,0.0
+Fra_200,Fuel Oil,0.0
+Fra_200,Nuclear,0.0
+Fra_200,Lignite,0.0
+Fra_200,Waste,0.0
+Fra_201,Natural Gas,0.0
+Fra_201,Coal,0.0
+Fra_201,Fuel Oil,0.0
+Fra_201,Nuclear,0.0
+Fra_201,Lignite,0.0
+Fra_201,Waste,0.0
+Fra_202,Natural Gas,0.0
+Fra_202,Coal,0.0
+Fra_202,Fuel Oil,0.0
+Fra_202,Nuclear,942380.9973073122
+Fra_202,Lignite,0.0
+Fra_202,Waste,0.0
+Fra_203,Natural Gas,0.0
+Fra_203,Coal,0.0
+Fra_203,Fuel Oil,0.0
+Fra_203,Nuclear,0.0
+Fra_203,Lignite,0.0
+Fra_203,Waste,0.0
+Fra_204,Natural Gas,0.0
+Fra_204,Coal,0.0
+Fra_204,Fuel Oil,0.0
+Fra_204,Nuclear,0.0
+Fra_204,Lignite,0.0
+Fra_204,Waste,0.0
+Fra_205,Natural Gas,0.0
+Fra_205,Coal,0.0
+Fra_205,Fuel Oil,0.0
+Fra_205,Nuclear,0.0
+Fra_205,Lignite,0.0
+Fra_205,Waste,0.0
+Fra_206,Natural Gas,0.0
+Fra_206,Coal,0.0
+Fra_206,Fuel Oil,0.0
+Fra_206,Nuclear,0.0
+Fra_206,Lignite,0.0
+Fra_206,Waste,0.0
+Fra_207,Natural Gas,0.0
+Fra_207,Coal,0.0
+Fra_207,Fuel Oil,0.0
+Fra_207,Nuclear,0.0
+Fra_207,Lignite,0.0
+Fra_207,Waste,0.0
+Fra_208,Natural Gas,0.0
+Fra_208,Coal,0.0
+Fra_208,Fuel Oil,0.0
+Fra_208,Nuclear,0.0
+Fra_208,Lignite,0.0
+Fra_208,Waste,0.0
+Fra_209,Natural Gas,0.0
+Fra_209,Coal,0.0
+Fra_209,Fuel Oil,0.0
+Fra_209,Nuclear,0.0
+Fra_209,Lignite,0.0
+Fra_209,Waste,0.0
+Fra_210,Natural Gas,0.0
+Fra_210,Coal,456967.8800369886
+Fra_210,Fuel Oil,0.0
+Fra_210,Nuclear,0.0
+Fra_210,Lignite,0.0
+Fra_210,Waste,0.0
+Fra_211,Natural Gas,0.0
+Fra_211,Coal,0.0
+Fra_211,Fuel Oil,0.0
+Fra_211,Nuclear,0.0
+Fra_211,Lignite,0.0
+Fra_211,Waste,0.0
+Fra_212,Natural Gas,0.0
+Fra_212,Coal,0.0
+Fra_212,Fuel Oil,0.0
+Fra_212,Nuclear,0.0
+Fra_212,Lignite,0.0
+Fra_212,Waste,0.0
+Fra_213,Natural Gas,0.0
+Fra_213,Coal,0.0
+Fra_213,Fuel Oil,0.0
+Fra_213,Nuclear,0.0
+Fra_213,Lignite,0.0
+Fra_213,Waste,0.0
+Fra_214,Natural Gas,0.0
+Fra_214,Coal,0.0
+Fra_214,Fuel Oil,0.0
+Fra_214,Nuclear,0.0
+Fra_214,Lignite,0.0
+Fra_214,Waste,0.0
+Fra_215,Natural Gas,0.0
+Fra_215,Coal,0.0
+Fra_215,Fuel Oil,0.0
+Fra_215,Nuclear,0.0
+Fra_215,Lignite,0.0
+Fra_215,Waste,0.0
+Fra_216,Natural Gas,0.0
+Fra_216,Coal,0.0
+Fra_216,Fuel Oil,0.0
+Fra_216,Nuclear,0.0
+Fra_216,Lignite,0.0
+Fra_216,Waste,0.0
+Fra_217,Natural Gas,0.0
+Fra_217,Coal,0.0
+Fra_217,Fuel Oil,0.0
+Fra_217,Nuclear,0.0
+Fra_217,Lignite,0.0
+Fra_217,Waste,0.0
+Fra_218,Natural Gas,0.0
+Fra_218,Coal,0.0
+Fra_218,Fuel Oil,0.0
+Fra_218,Nuclear,0.0
+Fra_218,Lignite,0.0
+Fra_218,Waste,0.0
+Fra_219,Natural Gas,0.0
+Fra_219,Coal,0.0
+Fra_219,Fuel Oil,0.0
+Fra_219,Nuclear,0.0
+Fra_219,Lignite,0.0
+Fra_219,Waste,0.0
+Fra_220,Natural Gas,322652.9677811557
+Fra_220,Coal,0.0
+Fra_220,Fuel Oil,0.0
+Fra_220,Nuclear,0.0
+Fra_220,Lignite,0.0
+Fra_220,Waste,0.0
+Fra_221,Natural Gas,0.0
+Fra_221,Coal,0.0
+Fra_221,Fuel Oil,0.0
+Fra_221,Nuclear,0.0
+Fra_221,Lignite,0.0
+Fra_221,Waste,0.0
+Fra_222,Natural Gas,0.0
+Fra_222,Coal,0.0
+Fra_222,Fuel Oil,0.0
+Fra_222,Nuclear,0.0
+Fra_222,Lignite,0.0
+Fra_222,Waste,0.0
+Fra_223,Natural Gas,0.0
+Fra_223,Coal,0.0
+Fra_223,Fuel Oil,0.0
+Fra_223,Nuclear,0.0
+Fra_223,Lignite,0.0
+Fra_223,Waste,0.0
+Fra_224,Natural Gas,0.0
+Fra_224,Coal,0.0
+Fra_224,Fuel Oil,0.0
+Fra_224,Nuclear,0.0
+Fra_224,Lignite,0.0
+Fra_224,Waste,0.0
+Fra_225,Natural Gas,0.0
+Fra_225,Coal,0.0
+Fra_225,Fuel Oil,0.0
+Fra_225,Nuclear,0.0
+Fra_225,Lignite,0.0
+Fra_225,Waste,0.0
+Fra_226,Natural Gas,0.0
+Fra_226,Coal,0.0
+Fra_226,Fuel Oil,0.0
+Fra_226,Nuclear,0.0
+Fra_226,Lignite,0.0
+Fra_226,Waste,0.0
+Fra_227,Natural Gas,0.0
+Fra_227,Coal,0.0
+Fra_227,Fuel Oil,0.0
+Fra_227,Nuclear,0.0
+Fra_227,Lignite,0.0
+Fra_227,Waste,0.0
+Fra_228,Natural Gas,0.0
+Fra_228,Coal,0.0
+Fra_228,Fuel Oil,0.0
+Fra_228,Nuclear,0.0
+Fra_228,Lignite,0.0
+Fra_228,Waste,0.0
+Fra_229,Natural Gas,0.0
+Fra_229,Coal,0.0
+Fra_229,Fuel Oil,0.0
+Fra_229,Nuclear,0.0
+Fra_229,Lignite,0.0
+Fra_229,Waste,0.0
+Fra_230,Natural Gas,0.0
+Fra_230,Coal,0.0
+Fra_230,Fuel Oil,0.0
+Fra_230,Nuclear,0.0
+Fra_230,Lignite,0.0
+Fra_230,Waste,0.0
+Fra_231,Natural Gas,0.0
+Fra_231,Coal,0.0
+Fra_231,Fuel Oil,0.0
+Fra_231,Nuclear,0.0
+Fra_231,Lignite,0.0
+Fra_231,Waste,0.0
+Fra_232,Natural Gas,0.0
+Fra_232,Coal,0.0
+Fra_232,Fuel Oil,0.0
+Fra_232,Nuclear,0.0
+Fra_232,Lignite,0.0
+Fra_232,Waste,0.0
+Fra_233,Natural Gas,0.0
+Fra_233,Coal,0.0
+Fra_233,Fuel Oil,0.0
+Fra_233,Nuclear,0.0
+Fra_233,Lignite,0.0
+Fra_233,Waste,0.0
+Fra_234,Natural Gas,0.0
+Fra_234,Coal,0.0
+Fra_234,Fuel Oil,0.0
+Fra_234,Nuclear,0.0
+Fra_234,Lignite,0.0
+Fra_234,Waste,0.0
+Fra_235,Natural Gas,0.0
+Fra_235,Coal,0.0
+Fra_235,Fuel Oil,0.0
+Fra_235,Nuclear,0.0
+Fra_235,Lignite,0.0
+Fra_235,Waste,0.0
+Fra_236,Natural Gas,0.0
+Fra_236,Coal,0.0
+Fra_236,Fuel Oil,0.0
+Fra_236,Nuclear,0.0
+Fra_236,Lignite,0.0
+Fra_236,Waste,0.0
+Fra_237,Natural Gas,0.0
+Fra_237,Coal,0.0
+Fra_237,Fuel Oil,0.0
+Fra_237,Nuclear,0.0
+Fra_237,Lignite,0.0
+Fra_237,Waste,0.0
+Fra_238,Natural Gas,0.0
+Fra_238,Coal,0.0
+Fra_238,Fuel Oil,0.0
+Fra_238,Nuclear,0.0
+Fra_238,Lignite,0.0
+Fra_238,Waste,0.0
+Fra_239,Natural Gas,0.0
+Fra_239,Coal,0.0
+Fra_239,Fuel Oil,0.0
+Fra_239,Nuclear,0.0
+Fra_239,Lignite,0.0
+Fra_239,Waste,0.0
+Fra_240,Natural Gas,0.0
+Fra_240,Coal,0.0
+Fra_240,Fuel Oil,0.0
+Fra_240,Nuclear,0.0
+Fra_240,Lignite,0.0
+Fra_240,Waste,0.0
+Fra_241,Natural Gas,0.0
+Fra_241,Coal,0.0
+Fra_241,Fuel Oil,0.0
+Fra_241,Nuclear,0.0
+Fra_241,Lignite,0.0
+Fra_241,Waste,0.0
+Fra_242,Natural Gas,0.0
+Fra_242,Coal,0.0
+Fra_242,Fuel Oil,0.0
+Fra_242,Nuclear,0.0
+Fra_242,Lignite,0.0
+Fra_242,Waste,0.0
+Fra_243,Natural Gas,0.0
+Fra_243,Coal,0.0
+Fra_243,Fuel Oil,0.0
+Fra_243,Nuclear,0.0
+Fra_243,Lignite,0.0
+Fra_243,Waste,0.0
+Fra_244,Natural Gas,0.0
+Fra_244,Coal,0.0
+Fra_244,Fuel Oil,0.0
+Fra_244,Nuclear,0.0
+Fra_244,Lignite,0.0
+Fra_244,Waste,0.0
+Fra_245,Natural Gas,0.0
+Fra_245,Coal,0.0
+Fra_245,Fuel Oil,0.0
+Fra_245,Nuclear,0.0
+Fra_245,Lignite,0.0
+Fra_245,Waste,0.0
+Fra_246,Natural Gas,0.0
+Fra_246,Coal,0.0
+Fra_246,Fuel Oil,0.0
+Fra_246,Nuclear,0.0
+Fra_246,Lignite,0.0
+Fra_246,Waste,0.0
+Fra_247,Natural Gas,0.0
+Fra_247,Coal,0.0
+Fra_247,Fuel Oil,0.0
+Fra_247,Nuclear,0.0
+Fra_247,Lignite,0.0
+Fra_247,Waste,0.0
+Fra_248,Natural Gas,0.0
+Fra_248,Coal,0.0
+Fra_248,Fuel Oil,0.0
+Fra_248,Nuclear,736437.5302540851
+Fra_248,Lignite,0.0
+Fra_248,Waste,0.0
+Fra_249,Natural Gas,0.0
+Fra_249,Coal,0.0
+Fra_249,Fuel Oil,0.0
+Fra_249,Nuclear,0.0
+Fra_249,Lignite,0.0
+Fra_249,Waste,0.0
+Fra_250,Natural Gas,0.0
+Fra_250,Coal,0.0
+Fra_250,Fuel Oil,0.0
+Fra_250,Nuclear,0.0
+Fra_250,Lignite,0.0
+Fra_250,Waste,0.0
+Fra_251,Natural Gas,0.0
+Fra_251,Coal,0.0
+Fra_251,Fuel Oil,0.0
+Fra_251,Nuclear,0.0
+Fra_251,Lignite,0.0
+Fra_251,Waste,0.0
+Fra_252,Natural Gas,0.0
+Fra_252,Coal,0.0
+Fra_252,Fuel Oil,0.0
+Fra_252,Nuclear,0.0
+Fra_252,Lignite,0.0
+Fra_252,Waste,0.0
+Fra_253,Natural Gas,0.0
+Fra_253,Coal,0.0
+Fra_253,Fuel Oil,0.0
+Fra_253,Nuclear,0.0
+Fra_253,Lignite,0.0
+Fra_253,Waste,0.0
+Fra_254,Natural Gas,0.0
+Fra_254,Coal,0.0
+Fra_254,Fuel Oil,0.0
+Fra_254,Nuclear,0.0
+Fra_254,Lignite,0.0
+Fra_254,Waste,0.0
+Fra_255,Natural Gas,0.0
+Fra_255,Coal,491500.69969816855
+Fra_255,Fuel Oil,0.0
+Fra_255,Nuclear,0.0
+Fra_255,Lignite,0.0
+Fra_255,Waste,0.0
+Fra_256,Natural Gas,0.0
+Fra_256,Coal,0.0
+Fra_256,Fuel Oil,0.0
+Fra_256,Nuclear,0.0
+Fra_256,Lignite,0.0
+Fra_256,Waste,0.0
+Fra_257,Natural Gas,0.0
+Fra_257,Coal,0.0
+Fra_257,Fuel Oil,0.0
+Fra_257,Nuclear,0.0
+Fra_257,Lignite,0.0
+Fra_257,Waste,0.0
+Fra_258,Natural Gas,0.0
+Fra_258,Coal,0.0
+Fra_258,Fuel Oil,0.0
+Fra_258,Nuclear,0.0
+Fra_258,Lignite,0.0
+Fra_258,Waste,0.0
+Fra_259,Natural Gas,0.0
+Fra_259,Coal,0.0
+Fra_259,Fuel Oil,0.0
+Fra_259,Nuclear,0.0
+Fra_259,Lignite,0.0
+Fra_259,Waste,0.0
+Fra_260,Natural Gas,0.0
+Fra_260,Coal,0.0
+Fra_260,Fuel Oil,0.0
+Fra_260,Nuclear,0.0
+Fra_260,Lignite,0.0
+Fra_260,Waste,0.0
+Fra_261,Natural Gas,0.0
+Fra_261,Coal,206072.8685921
+Fra_261,Fuel Oil,0.0
+Fra_261,Nuclear,0.0
+Fra_261,Lignite,0.0
+Fra_261,Waste,0.0
+Fra_262,Natural Gas,0.0
+Fra_262,Coal,0.0
+Fra_262,Fuel Oil,0.0
+Fra_262,Nuclear,0.0
+Fra_262,Lignite,0.0
+Fra_262,Waste,0.0
+Fra_263,Natural Gas,0.0
+Fra_263,Coal,0.0
+Fra_263,Fuel Oil,0.0
+Fra_263,Nuclear,0.0
+Fra_263,Lignite,0.0
+Fra_263,Waste,0.0
+Fra_264,Natural Gas,0.0
+Fra_264,Coal,0.0
+Fra_264,Fuel Oil,0.0
+Fra_264,Nuclear,0.0
+Fra_264,Lignite,0.0
+Fra_264,Waste,0.0
+Fra_265,Natural Gas,0.0
+Fra_265,Coal,0.0
+Fra_265,Fuel Oil,0.0
+Fra_265,Nuclear,0.0
+Fra_265,Lignite,0.0
+Fra_265,Waste,0.0
+Fra_266,Natural Gas,0.0
+Fra_266,Coal,0.0
+Fra_266,Fuel Oil,0.0
+Fra_266,Nuclear,0.0
+Fra_266,Lignite,0.0
+Fra_266,Waste,0.0
+Fra_267,Natural Gas,0.0
+Fra_267,Coal,0.0
+Fra_267,Fuel Oil,0.0
+Fra_267,Nuclear,0.0
+Fra_267,Lignite,0.0
+Fra_267,Waste,0.0
+Fra_268,Natural Gas,0.0
+Fra_268,Coal,799390.7791294921
+Fra_268,Fuel Oil,0.0
+Fra_268,Nuclear,0.0
+Fra_268,Lignite,0.0
+Fra_268,Waste,0.0
+Fra_269,Natural Gas,0.0
+Fra_269,Coal,0.0
+Fra_269,Fuel Oil,0.0
+Fra_269,Nuclear,0.0
+Fra_269,Lignite,0.0
+Fra_269,Waste,0.0
+Fra_270,Natural Gas,0.0
+Fra_270,Coal,0.0
+Fra_270,Fuel Oil,0.0
+Fra_270,Nuclear,0.0
+Fra_270,Lignite,0.0
+Fra_270,Waste,0.0
+Fra_271,Natural Gas,0.0
+Fra_271,Coal,0.0
+Fra_271,Fuel Oil,0.0
+Fra_271,Nuclear,0.0
+Fra_271,Lignite,0.0
+Fra_271,Waste,0.0
+Fra_272,Natural Gas,0.0
+Fra_272,Coal,0.0
+Fra_272,Fuel Oil,0.0
+Fra_272,Nuclear,0.0
+Fra_272,Lignite,0.0
+Fra_272,Waste,0.0
+Fra_273,Natural Gas,0.0
+Fra_273,Coal,0.0
+Fra_273,Fuel Oil,0.0
+Fra_273,Nuclear,0.0
+Fra_273,Lignite,0.0
+Fra_273,Waste,0.0
+Fra_274,Natural Gas,0.0
+Fra_274,Coal,0.0
+Fra_274,Fuel Oil,0.0
+Fra_274,Nuclear,0.0
+Fra_274,Lignite,0.0
+Fra_274,Waste,0.0
+Fra_275,Natural Gas,0.0
+Fra_275,Coal,0.0
+Fra_275,Fuel Oil,0.0
+Fra_275,Nuclear,0.0
+Fra_275,Lignite,0.0
+Fra_275,Waste,0.0
+Fra_276,Natural Gas,0.0
+Fra_276,Coal,0.0
+Fra_276,Fuel Oil,0.0
+Fra_276,Nuclear,0.0
+Fra_276,Lignite,0.0
+Fra_276,Waste,0.0
+Fra_277,Natural Gas,0.0
+Fra_277,Coal,468084.170412937
+Fra_277,Fuel Oil,0.0
+Fra_277,Nuclear,0.0
+Fra_277,Lignite,0.0
+Fra_277,Waste,0.0
+Fra_278,Natural Gas,0.0
+Fra_278,Coal,0.0
+Fra_278,Fuel Oil,0.0
+Fra_278,Nuclear,0.0
+Fra_278,Lignite,0.0
+Fra_278,Waste,0.0
+Fra_279,Natural Gas,0.0
+Fra_279,Coal,0.0
+Fra_279,Fuel Oil,0.0
+Fra_279,Nuclear,0.0
+Fra_279,Lignite,0.0
+Fra_279,Waste,0.0
+Fra_280,Natural Gas,0.0
+Fra_280,Coal,0.0
+Fra_280,Fuel Oil,0.0
+Fra_280,Nuclear,0.0
+Fra_280,Lignite,0.0
+Fra_280,Waste,0.0
+Fra_281,Natural Gas,0.0
+Fra_281,Coal,0.0
+Fra_281,Fuel Oil,0.0
+Fra_281,Nuclear,0.0
+Fra_281,Lignite,0.0
+Fra_281,Waste,0.0
+Fra_282,Natural Gas,0.0
+Fra_282,Coal,0.0
+Fra_282,Fuel Oil,0.0
+Fra_282,Nuclear,0.0
+Fra_282,Lignite,0.0
+Fra_282,Waste,0.0
+Fra_283,Natural Gas,0.0
+Fra_283,Coal,0.0
+Fra_283,Fuel Oil,0.0
+Fra_283,Nuclear,0.0
+Fra_283,Lignite,0.0
+Fra_283,Waste,0.0
+Fra_284,Natural Gas,0.0
+Fra_284,Coal,0.0
+Fra_284,Fuel Oil,0.0
+Fra_284,Nuclear,0.0
+Fra_284,Lignite,0.0
+Fra_284,Waste,0.0
+Fra_285,Natural Gas,0.0
+Fra_285,Coal,0.0
+Fra_285,Fuel Oil,0.0
+Fra_285,Nuclear,0.0
+Fra_285,Lignite,0.0
+Fra_285,Waste,0.0
+Fra_286,Natural Gas,0.0
+Fra_286,Coal,0.0
+Fra_286,Fuel Oil,0.0
+Fra_286,Nuclear,0.0
+Fra_286,Lignite,0.0
+Fra_286,Waste,0.0
+Fra_287,Natural Gas,0.0
+Fra_287,Coal,0.0
+Fra_287,Fuel Oil,0.0
+Fra_287,Nuclear,0.0
+Fra_287,Lignite,0.0
+Fra_287,Waste,0.0
+Fra_288,Natural Gas,0.0
+Fra_288,Coal,0.0
+Fra_288,Fuel Oil,0.0
+Fra_288,Nuclear,0.0
+Fra_288,Lignite,0.0
+Fra_288,Waste,0.0
+Fra_289,Natural Gas,0.0
+Fra_289,Coal,0.0
+Fra_289,Fuel Oil,0.0
+Fra_289,Nuclear,0.0
+Fra_289,Lignite,0.0
+Fra_289,Waste,0.0
+Fra_290,Natural Gas,0.0
+Fra_290,Coal,0.0
+Fra_290,Fuel Oil,0.0
+Fra_290,Nuclear,0.0
+Fra_290,Lignite,0.0
+Fra_290,Waste,0.0
+Fra_291,Natural Gas,0.0
+Fra_291,Coal,0.0
+Fra_291,Fuel Oil,0.0
+Fra_291,Nuclear,0.0
+Fra_291,Lignite,0.0
+Fra_291,Waste,0.0
+Fra_292,Natural Gas,0.0
+Fra_292,Coal,0.0
+Fra_292,Fuel Oil,392551.7504591913
+Fra_292,Nuclear,0.0
+Fra_292,Lignite,0.0
+Fra_292,Waste,0.0
+Fra_293,Natural Gas,0.0
+Fra_293,Coal,0.0
+Fra_293,Fuel Oil,0.0
+Fra_293,Nuclear,0.0
+Fra_293,Lignite,0.0
+Fra_293,Waste,0.0
+Fra_294,Natural Gas,0.0
+Fra_294,Coal,0.0
+Fra_294,Fuel Oil,0.0
+Fra_294,Nuclear,0.0
+Fra_294,Lignite,0.0
+Fra_294,Waste,0.0
+Fra_295,Natural Gas,0.0
+Fra_295,Coal,0.0
+Fra_295,Fuel Oil,0.0
+Fra_295,Nuclear,0.0
+Fra_295,Lignite,0.0
+Fra_295,Waste,0.0
+Fra_296,Natural Gas,0.0
+Fra_296,Coal,271708.0289353593
+Fra_296,Fuel Oil,0.0
+Fra_296,Nuclear,0.0
+Fra_296,Lignite,0.0
+Fra_296,Waste,0.0
+Fra_297,Natural Gas,0.0
+Fra_297,Coal,0.0
+Fra_297,Fuel Oil,0.0
+Fra_297,Nuclear,0.0
+Fra_297,Lignite,0.0
+Fra_297,Waste,0.0
+Fra_298,Natural Gas,0.0
+Fra_298,Coal,0.0
+Fra_298,Fuel Oil,0.0
+Fra_298,Nuclear,0.0
+Fra_298,Lignite,0.0
+Fra_298,Waste,0.0
+Fra_299,Natural Gas,0.0
+Fra_299,Coal,0.0
+Fra_299,Fuel Oil,0.0
+Fra_299,Nuclear,0.0
+Fra_299,Lignite,0.0
+Fra_299,Waste,0.0
+Fra_300,Natural Gas,0.0
+Fra_300,Coal,0.0
+Fra_300,Fuel Oil,0.0
+Fra_300,Nuclear,0.0
+Fra_300,Lignite,0.0
+Fra_300,Waste,0.0
+Fra_301,Natural Gas,0.0
+Fra_301,Coal,0.0
+Fra_301,Fuel Oil,0.0
+Fra_301,Nuclear,0.0
+Fra_301,Lignite,0.0
+Fra_301,Waste,0.0
+Fra_302,Natural Gas,0.0
+Fra_302,Coal,0.0
+Fra_302,Fuel Oil,0.0
+Fra_302,Nuclear,0.0
+Fra_302,Lignite,0.0
+Fra_302,Waste,0.0
+Fra_303,Natural Gas,0.0
+Fra_303,Coal,0.0
+Fra_303,Fuel Oil,0.0
+Fra_303,Nuclear,0.0
+Fra_303,Lignite,0.0
+Fra_303,Waste,0.0
+Fra_304,Natural Gas,0.0
+Fra_304,Coal,0.0
+Fra_304,Fuel Oil,0.0
+Fra_304,Nuclear,0.0
+Fra_304,Lignite,0.0
+Fra_304,Waste,0.0
+Fra_305,Natural Gas,0.0
+Fra_305,Coal,0.0
+Fra_305,Fuel Oil,0.0
+Fra_305,Nuclear,0.0
+Fra_305,Lignite,0.0
+Fra_305,Waste,0.0
+Fra_306,Natural Gas,0.0
+Fra_306,Coal,0.0
+Fra_306,Fuel Oil,0.0
+Fra_306,Nuclear,384721.12475619215
+Fra_306,Lignite,0.0
+Fra_306,Waste,0.0
+Fra_307,Natural Gas,0.0
+Fra_307,Coal,108919.38008266322
+Fra_307,Fuel Oil,0.0
+Fra_307,Nuclear,0.0
+Fra_307,Lignite,0.0
+Fra_307,Waste,0.0
+Fra_308,Natural Gas,0.0
+Fra_308,Coal,0.0
+Fra_308,Fuel Oil,0.0
+Fra_308,Nuclear,0.0
+Fra_308,Lignite,0.0
+Fra_308,Waste,0.0
+Fra_309,Natural Gas,0.0
+Fra_309,Coal,0.0
+Fra_309,Fuel Oil,0.0
+Fra_309,Nuclear,0.0
+Fra_309,Lignite,0.0
+Fra_309,Waste,0.0
+Fra_310,Natural Gas,0.0
+Fra_310,Coal,0.0
+Fra_310,Fuel Oil,0.0
+Fra_310,Nuclear,0.0
+Fra_310,Lignite,0.0
+Fra_310,Waste,0.0
+Fra_311,Natural Gas,0.0
+Fra_311,Coal,0.0
+Fra_311,Fuel Oil,0.0
+Fra_311,Nuclear,0.0
+Fra_311,Lignite,0.0
+Fra_311,Waste,0.0
+Fra_312,Natural Gas,0.0
+Fra_312,Coal,0.0
+Fra_312,Fuel Oil,0.0
+Fra_312,Nuclear,0.0
+Fra_312,Lignite,0.0
+Fra_312,Waste,0.0
+Fra_313,Natural Gas,0.0
+Fra_313,Coal,0.0
+Fra_313,Fuel Oil,0.0
+Fra_313,Nuclear,0.0
+Fra_313,Lignite,0.0
+Fra_313,Waste,0.0
+Fra_314,Natural Gas,0.0
+Fra_314,Coal,0.0
+Fra_314,Fuel Oil,0.0
+Fra_314,Nuclear,0.0
+Fra_314,Lignite,0.0
+Fra_314,Waste,0.0
+Fra_315,Natural Gas,0.0
+Fra_315,Coal,0.0
+Fra_315,Fuel Oil,0.0
+Fra_315,Nuclear,0.0
+Fra_315,Lignite,0.0
+Fra_315,Waste,0.0
+Fra_316,Natural Gas,0.0
+Fra_316,Coal,0.0
+Fra_316,Fuel Oil,0.0
+Fra_316,Nuclear,0.0
+Fra_316,Lignite,0.0
+Fra_316,Waste,0.0
+Fra_317,Natural Gas,0.0
+Fra_317,Coal,0.0
+Fra_317,Fuel Oil,0.0
+Fra_317,Nuclear,0.0
+Fra_317,Lignite,0.0
+Fra_317,Waste,0.0
+Fra_318,Natural Gas,0.0
+Fra_318,Coal,0.0
+Fra_318,Fuel Oil,0.0
+Fra_318,Nuclear,0.0
+Fra_318,Lignite,0.0
+Fra_318,Waste,0.0
+Bel_1,Natural Gas,0.0
+Bel_1,Coal,0.0
+Bel_1,Fuel Oil,0.0
+Bel_1,Nuclear,0.0
+Bel_1,Lignite,0.0
+Bel_1,Waste,0.0
+Bel_2,Natural Gas,0.0
+Bel_2,Coal,0.0
+Bel_2,Fuel Oil,0.0
+Bel_2,Nuclear,0.0
+Bel_2,Lignite,0.0
+Bel_2,Waste,0.0
+Bel_3,Natural Gas,0.0
+Bel_3,Coal,0.0
+Bel_3,Fuel Oil,0.0
+Bel_3,Nuclear,0.0
+Bel_3,Lignite,0.0
+Bel_3,Waste,0.0
+Bel_4,Natural Gas,0.0
+Bel_4,Coal,0.0
+Bel_4,Fuel Oil,0.0
+Bel_4,Nuclear,0.0
+Bel_4,Lignite,0.0
+Bel_4,Waste,0.0
+Bel_5,Natural Gas,245772.74367577836
+Bel_5,Coal,0.0
+Bel_5,Fuel Oil,0.0
+Bel_5,Nuclear,0.0
+Bel_5,Lignite,0.0
+Bel_5,Waste,0.0
+Bel_6,Natural Gas,0.0
+Bel_6,Coal,0.0
+Bel_6,Fuel Oil,0.0
+Bel_6,Nuclear,0.0
+Bel_6,Lignite,0.0
+Bel_6,Waste,0.0
+Bel_7,Natural Gas,0.0
+Bel_7,Coal,0.0
+Bel_7,Fuel Oil,0.0
+Bel_7,Nuclear,0.0
+Bel_7,Lignite,0.0
+Bel_7,Waste,0.0
+Bel_8,Natural Gas,0.0
+Bel_8,Coal,0.0
+Bel_8,Fuel Oil,0.0
+Bel_8,Nuclear,0.0
+Bel_8,Lignite,0.0
+Bel_8,Waste,0.0
+Bel_9,Natural Gas,0.0
+Bel_9,Coal,307807.952360128
+Bel_9,Fuel Oil,0.0
+Bel_9,Nuclear,0.0
+Bel_9,Lignite,0.0
+Bel_9,Waste,0.0
+Bel_10,Natural Gas,0.0
+Bel_10,Coal,554611.410708257
+Bel_10,Fuel Oil,0.0
+Bel_10,Nuclear,0.0
+Bel_10,Lignite,0.0
+Bel_10,Waste,0.0
+Bel_11,Natural Gas,158492.1740963324
+Bel_11,Coal,0.0
+Bel_11,Fuel Oil,0.0
+Bel_11,Nuclear,0.0
+Bel_11,Lignite,0.0
+Bel_11,Waste,0.0
+Bel_12,Natural Gas,1869.1756081453734
+Bel_12,Coal,0.0
+Bel_12,Fuel Oil,0.0
+Bel_12,Nuclear,894299.4028016932
+Bel_12,Lignite,0.0
+Bel_12,Waste,0.0
+Bel_13,Natural Gas,0.0
+Bel_13,Coal,0.0
+Bel_13,Fuel Oil,0.0
+Bel_13,Nuclear,0.0
+Bel_13,Lignite,0.0
+Bel_13,Waste,0.0
+Bel_14,Natural Gas,0.0
+Bel_14,Coal,0.0
+Bel_14,Fuel Oil,0.0
+Bel_14,Nuclear,0.0
+Bel_14,Lignite,0.0
+Bel_14,Waste,0.0
+Bel_15,Natural Gas,0.0
+Bel_15,Coal,0.0
+Bel_15,Fuel Oil,0.0
+Bel_15,Nuclear,0.0
+Bel_15,Lignite,0.0
+Bel_15,Waste,0.0
+Bel_16,Natural Gas,70018.34897091675
+Bel_16,Coal,0.0
+Bel_16,Fuel Oil,0.0
+Bel_16,Nuclear,701745.801629234
+Bel_16,Lignite,0.0
+Bel_16,Waste,0.0
+Bel_17,Natural Gas,0.0
+Bel_17,Coal,0.0
+Bel_17,Fuel Oil,0.0
+Bel_17,Nuclear,0.0
+Bel_17,Lignite,0.0
+Bel_17,Waste,0.0
+Bel_18,Natural Gas,553833.2048249461
+Bel_18,Coal,220133.89191986682
+Bel_18,Fuel Oil,0.0
+Bel_18,Nuclear,166905.66875410939
+Bel_18,Lignite,0.0
+Bel_18,Waste,0.0
+Bel_19,Natural Gas,0.0
+Bel_19,Coal,0.0
+Bel_19,Fuel Oil,0.0
+Bel_19,Nuclear,0.0
+Bel_19,Lignite,0.0
+Bel_19,Waste,0.0
+Bel_20,Natural Gas,0.0
+Bel_20,Coal,115702.39592991624
+Bel_20,Fuel Oil,0.0
+Bel_20,Nuclear,0.0
+Bel_20,Lignite,0.0
+Bel_20,Waste,0.0
+Bel_21,Natural Gas,534397.6306695654
+Bel_21,Coal,293778.17889391014
+Bel_21,Fuel Oil,0.0
+Bel_21,Nuclear,0.0
+Bel_21,Lignite,0.0
+Bel_21,Waste,0.0
+Bel_22,Natural Gas,0.0
+Bel_22,Coal,0.0
+Bel_22,Fuel Oil,0.0
+Bel_22,Nuclear,0.0
+Bel_22,Lignite,0.0
+Bel_22,Waste,0.0
+Bel_23,Natural Gas,47879.47643351327
+Bel_23,Coal,0.0
+Bel_23,Fuel Oil,0.0
+Bel_23,Nuclear,0.0
+Bel_23,Lignite,0.0
+Bel_23,Waste,0.0
+Bel_24,Natural Gas,0.0
+Bel_24,Coal,0.0
+Bel_24,Fuel Oil,0.0
+Bel_24,Nuclear,0.0
+Bel_24,Lignite,0.0
+Bel_24,Waste,0.0

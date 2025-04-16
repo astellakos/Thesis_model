@@ -133,7 +133,8 @@ function get_outputs_df(model::Model, model_lp)
     energy_price = DataFrame(zone = String[], time = Int[], value = Float64[])
     power_generation = DataFrame(zone = String[], bus = String[],fuel = String[], generator = String[], time = Int[], value = Float64[])
     power_generation_total = DataFrame(country = String[], bus = String[], fuel = String[], total_value = Float64[])
-    power_balance = DataFrame(zone = String[], time = Int[], fuel_generation = Float64[], renewable_generation = Float64[], load_shedding = Float64[], production_shedding = Float64[], net_positions = Float64[], load_bus = Float64[])
+    power_balance = DataFrame(zone = String[], time = Int[], fuel_generation = Float64[], renewable_generation = Float64[], load_shedding = Float64[], production_shedding = Float64[], net_positions = Float64[], load_bus = Float64[], power_balance = Float64[], shed_ratio = Float64[]
+    )
 
     # Populate the zonal costs and technology costs
     for zone in zones.Bus
@@ -165,7 +166,7 @@ function get_outputs_df(model::Model, model_lp)
     end
 
         # Populate energy_prices
-        energy_price_dict = get_da_prices(model_lp)
+        energy_price_dict = get_da_prices(model)
     for zone in zones.Bus
         for t in 1:T_15 
             push!(energy_price, (zone, t, energy_price_dict[zone][t]))
@@ -216,52 +217,78 @@ function get_outputs_df(model::Model, model_lp)
 
     ##### Populate power_balance 
 
+    total_ls = 0.0
+    total_load = 0.0
+    
     for zone in zones.Bus
         for time in 1:T_hour
-
-        # Υπολογισμός παραγωγής ανά τύπο καυσίμου
+    
+            # Υπολογισμός παραγωγής από θερμικούς
             fuel_generation = 0.0
             for g in generators_id_per_zone["conventional"][zone]
-                    for t in ((time - 1) * 4 + 1):(time * 4)
-                 fuel_generation += sum(value(model[:p][g, t])) * (1/4)
-                    end
+                for t in ((time - 1) * 4 + 1):(time * 4)
+                    fuel_generation += value(model[:p][g, t]) * (1/4)
+                end
             end 
-
-           # Υπολογισμός παραγωγής από ανανεώσιμες πηγές
-           renewable_generation = 0.0 
-           for g in generators_id_per_zone["renewable"][zone]
-                    for t in ((time - 1) * 4 + 1):(time * 4) 
-                        renewable_generation += sum(value(model[:p_re][g, t])) * (1/4)
-                    end
+    
+            # Υπολογισμός παραγωγής από ΑΠΕ
+            renewable_generation = 0.0 
+            for g in generators_id_per_zone["renewable"][zone]
+                for t in ((time - 1) * 4 + 1):(time * 4) 
+                    renewable_generation += value(model[:p_re][g, t]) * (1/4)
+                end
             end
-
-        # Υπολογισμός load shedding
+    
+            # Load shedding
             load_shedding = 0.0
             for t in ((time - 1) * 4 + 1):(time * 4)
-                load_shedding += sum(value.(model[:ls][zone, t])) * (1/4)
+                load_shedding += value(model[:ls][zone, t]) * (1/4)
             end
-
-        # Υπολογισμός production shedding
+    
+            # Production shedding
             production_shedding = 0.0
             for t in ((time - 1) * 4 + 1):(time * 4)
-                production_shedding += sum(value.(model[:ps][zone, t])) * (1/4)
+                production_shedding += value(model[:ps][zone, t]) * (1/4)
             end
-
-        # Υπολογισμός net positions
+    
+            # Net positions
             net_positions = 0.0
             for t in ((time - 1) * 4 + 1):(time * 4)
-                net_positions += sum(value(model[:r][zone, t])) * (1/4)
+                net_positions += value(model[:r][zone, t]) * (1/4)
             end
-
-        # Ανάγνωση φορτίου για τη ζώνη
-        load_zone = model[:load_zone]
-        load_bus = sum(value(load_zone[zone, t]) for t in ((time - 1) * 4 + 1) : (time * 4)) * (1/4)
-
-
-            push!(power_balance, (zone, time, fuel_generation, renewable_generation, load_shedding, production_shedding, net_positions, load_bus))
+    
+            # Load
+            load_zone = model[:load_zone]
+            load_bus = sum(value(load_zone[zone, t]) for t in ((time - 1) * 4 + 1):(time * 4)) * (1/4)
+    
+            # Συσσωρευτές για το συνολικό ποσοστό
+            total_ls += load_shedding
+            total_load += load_bus
+    
+            # Υπολογισμοί ποσοστού και balance
+            power_balance_val = fuel_generation + renewable_generation + load_shedding - production_shedding - net_positions - load_bus
+            shed_ratio = load_bus > 0 ? load_shedding / load_bus : 0.0
+    
+            push!(power_balance, (
+                zone, time,
+                fuel_generation, renewable_generation,
+                load_shedding, production_shedding,
+                net_positions, load_bus,
+                power_balance_val, shed_ratio
+            ))
         end 
     end
-        # Assign the DataFrames to the output dictionary
+   # Υπολογισμός ποσοστού σε %
+        total_shed_ratio = total_load > 0 ? 100 * total_ls / total_load : 0.0
+
+    # Προσθήκη στήλης με missing
+        power_balance[!, "total_shed_ratio (%)"] = Vector{Union{Missing, Float64}}(missing, nrow(power_balance))
+
+     # Βάλε την τιμή στην πρώτη γραμμή
+        power_balance[1, "total_shed_ratio (%)"] = total_shed_ratio
+
+    
+            # Assign the DataFrames to the output dictionary
         output["zonal_total_cost"] = zonal_total_cost
         output["minload_cost"] = minload_cost
         output["startup_cost"] = startup_cost

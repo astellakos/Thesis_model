@@ -1,25 +1,59 @@
 country,bus,fuel,total_value
-Slovenia,Slv_3,Lignite,78421.17927903496
-Austria,Aus_18,Coal,23616.0
-Croatia,Cro_9,Fuel Oil,18827.35724710217
-Slovenia,Slv_5,Coal,10216.106008796069
-Austria,Aus_7,Natural Gas,6701.802722123371
-Austria,Aus_13,Natural Gas,15174.64872978004
-Austria,Aus_11,Natural Gas,3267.3793452976897
-Croatia,Cro_11,Natural Gas,8281.339663795345
-Slovenia,Slv_6,Nuclear,70080.0
-Austria,Aus_19,Natural Gas,12445.459871872234
-Austria,Aus_4,Natural Gas,3360.368838082753
-Croatia,Cro_15,Coal,31680.0
-Hungary,Cro_12,Natural Gas,6566.399999999997
-Croatia,Cro_15,Fuel Oil,0.0
-Austria,Aus_18,Natural Gas,20408.378575815623
-Austria,Aus_10,Natural Gas,35601.405204908544
-Slovenia,Slv_6,Natural Gas,3765.735253861357
-Austria,Aus_27,Natural Gas,1357.3999999999983
-Austria,Aus_5,Natural Gas,80193.72663252606
-Austria,Aus_32,Natural Gas,55060.895153058664
-Austria,Aus_18,Fuel Oil,8318.212300781084
-Austria,Aus_15,Coal,72621.11136713106
-Croatia,Cro_10,Natural Gas,5768.331398972065
-Croatia,Cro_9,Natural Gas,4572.20438303544
+Belgium,Bel_18,Natural Gas,0.0
+France,Fra_69,Coal,51007.25707477263
+France,Fra_160,Nuclear,330935.7149689648
+France,Fra_296,Fuel Oil,0.0
+Belgium,Bel_11,Natural Gas,6761.939914567529
+France,Fra_220,Natural Gas,19749.221296271862
+France,Fra_195,Nuclear,261696.0
+Belgium,Bel_9,Coal,39924.090249474924
+France,Fra_108,Natural Gas,16483.200000000004
+Germany,Fra_261,Coal,42265.30795272083
+France,Fra_202,Nuclear,336438.31245975767
+France,Fra_268,Coal,99718.22388665318
+France,Fra_115,Nuclear,547776.0
+Belgium,Bel_21,Coal,37297.9055831937
+France,Fra_43,Nuclear,299515.94331305404
+France,Fra_101,Nuclear,299712.0
+France,Fra_48,Nuclear,370944.0
+Belgium,Bel_16,Natural Gas,2300.4234136310406
+France,Fra_57,Nuclear,261696.0
+France,Fra_306,Nuclear,260259.0386254795
+France,Fra_210,Coal,75662.30882534693
+France,Fra_180,Nuclear,525826.4530687995
+Belgium,Bel_5,Natural Gas,13058.005745041144
+France,Fra_11,Natural Gas,3348.0
+Belgium,Bel_12,Nuclear,300384.0
+France,Fra_90,Nuclear,362918.9409354087
+France,Fra_69,Natural Gas,2137.686394501984
+Netherlands,Bel_18,Natural Gas,68534.34433981054
+Belgium,Bel_23,Natural Gas,1463.0
+France,Fra_176,Nuclear,301602.12587704684
+France,Fra_144,Nuclear,267072.0
+Belgium,Bel_20,Coal,23747.975858549984
+France,Fra_92,Coal,12816.547586570287
+France,Fra_188,Nuclear,390720.0
+France,Fra_296,Coal,29501.001654877364
+France,Fra_309,Natural Gas,0.0
+France,Fra_55,Natural Gas,7968.704350818962
+France,Fra_197,Fuel Oil,0.0
+France,Fra_277,Coal,60100.262701648484
+France,Fra_307,Coal,9980.089013086308
+France,Fra_248,Nuclear,255831.8206050301
+Belgium,Bel_16,Nuclear,284448.0
+France,Fra_292,Fuel Oil,6186.698217152852
+Netherlands,Bel_18,Nuclear,49440.0
+France,Fra_310,Natural Gas,0.0
+France,Fra_255,Coal,96485.82089748938
+Netherlands,Bel_18,Coal,35728.0
+France,Fra_11,Coal,30337.106068996254
+France,Fra_220,Fuel Oil,0.0
+Netherlands,Bel_21,Natural Gas,22431.081169933615
+Belgium,Bel_21,Natural Gas,16290.759069495856
+France,Fra_106,Nuclear,265344.0
+France,Fra_115,Natural Gas,50180.468722828075
+Belgium,Bel_10,Coal,66112.54807903917
+France,Fra_123,Nuclear,357504.0
+Belgium,Fra_13,Natural Gas,5051.403907663469
+France,Fra_54,Nuclear,183552.0
+Belgium,Bel_12,Natural Gas,91.34202382710971
