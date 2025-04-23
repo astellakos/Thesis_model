@@ -222,10 +222,6 @@ function plot_energy_price(csv_path::String, alt_path::Union{Nothing, String}=no
     end
 end
 
-##################################################
-#### 3. Αυτόματη Εκτέλεση όταν γίνεται include
-##################################################
-
 try
     plot_nodal_map()
     plot_energy_price("/Users/alexiostellakos/Desktop/Thesis_model_V2_copy/results/energy_price.csv")
