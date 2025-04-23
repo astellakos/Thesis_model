@@ -3,7 +3,8 @@
 ############################################
 
 println("Starting full script timer...")
-@time global_start_time = time()
+time_info = @timed begin
+
 model_start_time = time()
 
 const PATH_global = "/Users/alexiostellakos/Desktop/Thesis_model_V2_copy/"      
@@ -39,7 +40,7 @@ const CO2PRICE = 6.2327
 const T_hour = 24
 const T_15 = 96
 const VOLL = 3000
-const target_countries = ["Belgium","France"]
+const target_countries = ["Austria"]
 # ISO country codes για ασφαλή naming
 const ISO_CODES = Dict("Germany" => "DE", "Austria" => "AT", "Belgium" => "BE", "France" => "FR", "Netherlands" => "NL", "Netherland" => "NL", "Luxembourg" => "LU", "Luxemburg" => "LU", "Denmark" => "DK", "Poland" => "PL", "Switzerland" => "CH", "Czech" => "CZ", "Slovakia" => "SK", "Slovenia" => "SI", "Hungary" => "HU", "Croatia" => "HR", "Romania" => "RO")
 
@@ -84,7 +85,6 @@ const generators_id_per_zone, generators_id = get_generators_id(generators, gene
 const PTDF_data , PTDF_df = load_ptdf_data(PATH_data, Ref_hub)
 
 include("flow_calculator.jl")
-include("track_memory.jl")  # για να φορτωθούν οι συναρτήσεις
 
 ############################################
 #### Create models 
@@ -112,18 +112,34 @@ set_up_renewables!(eno_model,  day_type, "average")
 #set_up_planned_outages!(eno_model, day_type)
 #set_up_planned_outages!(eno_lp_model, day_type)
 
+########################################################
+#### Report model size before optimisation (count‑only)
+########################################################
+println("Variables in eno_model (pre-solve): ",
+        num_variables(eno_model))
+println("Constraints in eno_model (pre-solve): ",
+        num_constraints(eno_model; count_variable_in_set_constraints = true))
+
+if get(ENV, "COUNT_ONLY", "0") == "1"
+    println("COUNT_ONLY flag detected - terminating script before optimisation.")
+    exit()
+end
+
 ############################################
 #### Solve models 
 ############################################
 
 println("Solving eno_model...")
+
+#=set_optimizer_attribute(eno_model, "Method", 2)
+set_optimizer_attribute(eno_model, "Crossover", 0)
+=#
 @time optimize!(eno_model)
 println("Termination status: ", termination_status(eno_model))
 println("Objective value: ", objective_value(eno_model))
 model_solve_time = time() - model_start_time
 println("Variables in eno_model: ", num_variables(eno_model))
 println("Constraints in eno_model: ", num_constraints(eno_model; count_variable_in_set_constraints=true))
-
 #=fix_model(eno_model, eno_lp_model)
 
 println("Solving eno_lp_model...")
@@ -173,19 +189,21 @@ end
 plot_energy_price(joinpath(PATH_global, "results/energy_price.csv"))
 plot_energy_price(joinpath(PATH_global, "results/energy_price.csv"), results_alt_path)
 
+end 
+
 ############################################
 #### Τελικός χρόνος
 ############################################
+  
 
 println("--- SCRIPT FINISHED ---")
-total_time = time() - global_start_time
-log_run_metrics(eno_model, day_type, target_countries, model_solve_time, total_time) 
+total_time = time_info.time
+memory_allocated_MB = time_info.bytes / (1024^2)
+
+log_run_metrics(eno_model, day_type, target_countries, model_solve_time, total_time, memory_allocated_MB)  
 println("✅ Το μοντέλο εκτελέστηκε και αποθηκεύτηκε επιτυχώς:")
 println(" → CSV και flows: $results_path & $results_alt_path")
 println(" → Plots: $results_path/nodal_maps_t & $results_alt_path/nodal_maps_t")
 println("Model solve time: $(round(model_solve_time, digits=3)) seconds")
 println("Total execution time: $(round(total_time, digits=3)) seconds")
-
-# RAM tracking
-mem_usage_MB = get_max_memory_usage_MB()
-println("Μέγιστη RAM που χρησιμοποιήθηκε: $mem_usage_MB MB")
+println("Συνολική RAM δεσμευμένη από Julia: $(round(memory_allocated_MB, digits=2)) MB")

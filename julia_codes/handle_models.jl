@@ -1,7 +1,7 @@
 function define_solver(solver_name, gurobi_env)
    # create model using solver: solver_name
    if solver_name == "Gurobi"
-      Solver = optimizer_with_attributes(() -> Gurobi.Optimizer(gurobi_env), "OutputFlag" => 0, "MIPGap" => 1e-3)
+      Solver = optimizer_with_attributes(() -> Gurobi.Optimizer(gurobi_env), "OutputFlag" => 1, "MIPGap" => 1e-3)
       model = Model(Solver)
    elseif solver_name == "Xpress"
       model = Model(Xpress.Optimizer)

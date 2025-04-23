@@ -11,6 +11,7 @@ const savefig = PlotlyJS.savefig
 const Plot = PlotlyJS.Plot
 
 function plot_nodal_maps(model::Model, line_flows::DataFrame, energy_price::DataFrame, Ref_hub::DataFrame, custom_save_dir::Union{String, Nothing}=nothing)
+
     buses = vcat(deepcopy(Buses), Ref_hub)
     lines = deepcopy(Lines)
     flows = deepcopy(line_flows)
@@ -48,9 +49,11 @@ function plot_nodal_maps(model::Model, line_flows::DataFrame, energy_price::Data
     isdir(save_dir) || mkpath(save_dir)
 
     for t in 1:96
+        ε = 1e-3
         overloaded_lines = Set{String}()
         for row in eachrow(flows)
-            if row.Time == t && !ismissing(row.Limit) && !ismissing(row.Flow) && abs(row.Flow) ≥ row.Limit
+            if row.Time == t && !ismissing(row.Limit) && !ismissing(row.Flow) &&
+               abs(abs(row.Flow) - row.Limit) ≤ ε
                 push!(overloaded_lines, row.Line)
             end
         end
@@ -121,11 +124,13 @@ function plot_nodal_maps(model::Model, line_flows::DataFrame, energy_price::Data
                 end
                 renew_gen = renewable_per_node[zone]
                 ls = try value(model[:ls][zone, t]) * 0.25 catch; 0.0 end
-                ps = try value(model[:ps][zone, t]) * 0.25 catch; 0.0 end
                 net = try value(model[:r][zone, t]) * 0.25 catch; 0.0 end
                 load = load_per_node[zone]
-                price = haskey(energy_map, (zone, t)) ? round(energy_map[(zone, t)], digits=2) : "-"
-                push!(hover_texts, "$zone, $price, $fuel_gen, $renew_gen, $ls, $ps, $net, $load")
+                price_val = haskey(energy_map, (zone, t)) ? round(energy_map[(zone, t)], digits=2) : "-"
+
+                push!(hover_texts,
+                    "$zone, P: $price_val, FG: $(round(fuel_gen, digits=2)), RE: $(round(renew_gen, digits=2)), LS: $(round(ls, digits=2)), NP: $(round(net, digits=2)), LD: $(round(load, digits=2))"
+                )
             end
 
             push!(node_traces, scatter(
@@ -151,7 +156,8 @@ function plot_nodal_maps(model::Model, line_flows::DataFrame, energy_price::Data
             width = 1000,
             height = 700,
             paper_bgcolor = "rgb(230,236,247)",
-            plot_bgcolor = "rgb(230,236,247)"
+            plot_bgcolor = "rgb(230,236,247)",
+            hovermode = "closest"
         )
 
         plot_data = vcat(line_traces..., node_traces...)
@@ -231,28 +237,28 @@ function log_run_metrics(
     day_type::String,
     target_countries::Vector{String},
     model_solve_time::Float64,
-    total_time::Float64
+    total_time::Float64,
+    memory_allocated_MB::Float64
 )
+
     log_file_csv = joinpath(PATH_global, "results", "run_log.csv")
 
-    # Μέτρηση RAM (τρέχουσα χρήσης)
-    mem = get_max_memory_usage_MB()
-
     values = [
-        join(target_countries, "/"),
-        day_type,
-        string(num_variables(model)),
-        string(num_constraints(model; count_variable_in_set_constraints=true)),
-        replace(@sprintf("%.3f", model_solve_time), "." => ","),
-        replace(@sprintf("%.3f", total_time), "." => ","),
-        replace(@sprintf("%.2f", mem), "." => ",")
-    ]
+    join(target_countries, "/"),
+    day_type,
+    string(num_variables(model)),
+    string(num_constraints(model; count_variable_in_set_constraints=true)),
+    replace(@sprintf("%.3f", model_solve_time), "." => ","),
+    replace(@sprintf("%.3f", total_time), "." => ","),
+    replace(@sprintf("%.2f", memory_allocated_MB), "." => ",")
+]
+
 
     quoted_row = join(["\"$val\"" for val in values], ";")
 
     if !isfile(log_file_csv)
         open(log_file_csv, "w") do io
-            write(io, "countries;day_type;num_variables;num_constraints;model_solve_time_sec;total_time_sec;memory_MB\n")
+            write(io, "countries;day_type;num_variables;num_constraints;model_solve_time_sec;total_time_sec;memory_MB;memory_allocated_MB\n")
             write(io, quoted_row * "\n")
         end
     else

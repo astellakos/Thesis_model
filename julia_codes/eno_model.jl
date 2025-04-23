@@ -50,7 +50,7 @@ function attach_energy_only_clearing_model!(model::Model, day_type::String)
     #load_shedding constraint
     
     @constraint(model, ls_constraint[zone in zones.Bus, t in 1:T_15],
-    ls[zone,t] <= load_zone[zone, t])  
+    ls[zone,t] <= load_zone[zone, t])
 
     # max power
     max_power_constraint = Dict{Tuple{Int, Int}, ConstraintRef}() # Container of max_power_constraint constraints 
